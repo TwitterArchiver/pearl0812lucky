@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005525055015632896",
+        "3_2005525055028224000"
+      ]
+    },
+    "author_id": "1991711672684421121",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2005525069288943819",
+    "created_at": "2025-12-29T06:23:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T07:23:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005525069288943819"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/spFSxRKtZS",
+          "end": 35,
+          "expanded_url": "https://x.com/pearl0812lucky/status/2005525069288943819/photo/1",
+          "media_key": "3_2005525055015632896",
+          "start": 12,
+          "url": "https://t.co/spFSxRKtZS"
+        },
+        {
+          "display_url": "pic.x.com/spFSxRKtZS",
+          "end": 35,
+          "expanded_url": "https://x.com/pearl0812lucky/status/2005525069288943819/photo/1",
+          "media_key": "3_2005525055028224000",
+          "start": 12,
+          "url": "https://t.co/spFSxRKtZS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005525069288943819",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在也方言口语化了… https://t.co/spFSxRKtZS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 541,
+        "media_key": "3_2005525055015632896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9UOaWxaQAAe_4D.jpg",
+        "width": 987
+      },
+      {
+        "height": 840,
+        "media_key": "3_2005525055028224000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9UOaW0aYAA0U64.jpg",
+        "width": 837
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005525055015632896",
+            "3_2005525055028224000"
+          ]
+        },
+        "author_id": "1991711672684421121",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2005525069288943819",
+        "created_at": "2025-12-29T06:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T07:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005525069288943819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/spFSxRKtZS",
+              "end": 35,
+              "expanded_url": "https://x.com/pearl0812lucky/status/2005525069288943819/photo/1",
+              "media_key": "3_2005525055015632896",
+              "start": 12,
+              "url": "https://t.co/spFSxRKtZS"
+            },
+            {
+              "display_url": "pic.x.com/spFSxRKtZS",
+              "end": 35,
+              "expanded_url": "https://x.com/pearl0812lucky/status/2005525069288943819/photo/1",
+              "media_key": "3_2005525055028224000",
+              "start": 12,
+              "url": "https://t.co/spFSxRKtZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005525069288943819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在也方言口语化了… https://t.co/spFSxRKtZS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "世界巨大，我以渺小来爱它",
+        "name": "orange cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 7,
+          "like_count": 299,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 156
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

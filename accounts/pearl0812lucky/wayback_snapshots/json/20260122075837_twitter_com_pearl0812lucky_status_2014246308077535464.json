@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2014144895225610565",
+    "created_at": "2026-01-22T07:58:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T08:58:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014246308077535464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1960593131231174658",
+          "start": 0,
+          "username": "kukuu3ks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014246308077535464",
+    "in_reply_to_user_id": "1960593131231174658",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014239797532115289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kukuu3ks 没错！！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2014144895225610565",
+        "created_at": "2026-01-22T07:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T08:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014246308077535464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1960593131231174658",
+              "start": 0,
+              "username": "kukuu3ks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014246308077535464",
+        "in_reply_to_user_id": "1960593131231174658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014239797532115289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kukuu3ks 没错！！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960593131231174658",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2014144895225610565",
+        "created_at": "2026-01-22T07:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T08:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014239797532115289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014239797532115289",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014144895225610565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 明明打直球最好吃😋坦坦荡荡地抒发自己的爱意 谈健健康康的恋爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹  我素女同性恋啦",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1243,
+          "following_count": 41,
+          "like_count": 2335,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 670
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-27T06:40:24.000Z",
+        "description": "Nothing matters everything bagel",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kuku83885",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kuku83885",
+                "start": 0,
+                "url": "https://t.co/jYslbbQTJE"
+              }
+            ]
+          }
+        },
+        "id": "1960593131231174658",
+        "location": "5.2km 情绪放逐地",
+        "name": "kuku",
+        "pinned_tweet_id": "2009983015762690484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004983209973678080/6p3RMdh7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 12,
+          "like_count": 7999,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 561
+        },
+        "url": "https://t.co/jYslbbQTJE",
+        "username": "kukuu3ks",
+        "verified": false
+      }
+    ]
+  }
+}

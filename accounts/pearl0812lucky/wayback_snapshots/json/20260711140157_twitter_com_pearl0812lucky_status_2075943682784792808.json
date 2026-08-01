@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2075626743764037632",
+    "created_at": "2026-07-11T14:01:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T15:01:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075943682784792808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1637732697790627840",
+          "start": 0,
+          "username": "jujubeandpapaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075943682784792808",
+    "in_reply_to_user_id": "1637732697790627840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075847595931718123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jujubeandpapaya 这句话看的人家心里不舒服呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2075626743764037632",
+        "created_at": "2026-07-11T14:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075943682784792808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1637732697790627840",
+              "start": 0,
+              "username": "jujubeandpapaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075943682784792808",
+        "in_reply_to_user_id": "1637732697790627840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075847595931718123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jujubeandpapaya 这句话看的人家心里不舒服呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1637732697790627840",
+        "conversation_id": "2075626743764037632",
+        "created_at": "2026-07-11T07:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T08:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075847595931718123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075847595931718123",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 385,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075626743764037632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 自己较劲，对方毫无察觉🙂‍↔️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10556,
+          "following_count": 72,
+          "like_count": 8848,
+          "listed_count": 9,
+          "media_count": 192,
+          "tweet_count": 2066
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-20T08:28:13.000Z",
+        "description": "Did You Know That There's A Tunnel Under Ocean Blvd\n不开私信 别骚扰/乱七八糟的碎碎念",
+        "id": "1637732697790627840",
+        "location": "Canada",
+        "name": "❄️🌲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726787374279970821/fmO1R1Gb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3851,
+          "following_count": 449,
+          "like_count": 23816,
+          "listed_count": 14,
+          "media_count": 37,
+          "tweet_count": 1026
+        },
+        "url": "",
+        "username": "jujubeandpapaya",
+        "verified": false
+      }
+    ]
+  }
+}

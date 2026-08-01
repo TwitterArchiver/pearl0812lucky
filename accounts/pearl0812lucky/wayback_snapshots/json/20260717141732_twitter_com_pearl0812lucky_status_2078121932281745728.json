@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2077751215354765693",
+    "created_at": "2026-07-17T14:17:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T15:17:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078121932281745728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1395764808088174595",
+          "start": 0,
+          "username": "OLovefool"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078121932281745728",
+    "in_reply_to_user_id": "1395764808088174595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078118622116106473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OLovefool 我个人感觉有可能是想把一件事做好的那种责任心，因为担心做的不够完美，所以会焦虑紧绷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2077751215354765693",
+        "created_at": "2026-07-17T14:17:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078121932281745728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1395764808088174595",
+              "start": 0,
+              "username": "OLovefool"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078121932281745728",
+        "in_reply_to_user_id": "1395764808088174595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078118622116106473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OLovefool 我个人感觉有可能是想把一件事做好的那种责任心，因为担心做的不够完美，所以会焦虑紧绷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1395764808088174595",
+        "conversation_id": "2077751215354765693",
+        "created_at": "2026-07-17T14:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078118622116106473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078118622116106473",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077751215354765693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 但是我都不明白我的不安和紧绷感是哪里来的，为什么这么焦虑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11055,
+          "following_count": 75,
+          "like_count": 8965,
+          "listed_count": 11,
+          "media_count": 197,
+          "tweet_count": 2102
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-21T15:34:12.000Z",
+        "description": "谁控制你，就是谁需要你\n你期待谁，就被谁奴役♏️",
+        "id": "1395764808088174595",
+        "name": "凪",
+        "pinned_tweet_id": "2063601835303461007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024978690115870720/Y4fB7-nT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 31,
+          "like_count": 2812,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 310
+        },
+        "url": "",
+        "username": "OLovefool",
+        "verified": false
+      }
+    ]
+  }
+}

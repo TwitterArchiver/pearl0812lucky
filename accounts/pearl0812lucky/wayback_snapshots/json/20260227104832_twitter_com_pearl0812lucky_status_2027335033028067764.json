@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2027335033028067764",
+    "created_at": "2026-02-27T10:48:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T11:48:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027335033028067764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1991711672684421121",
+          "start": 3,
+          "username": "pearl0812lucky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027335033028067764",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 115
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024533017964974300",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pearl0812lucky: 特别讨厌别人漠视我的情绪，其实我是一个情感很浓烈的人，喜欢一个人就会很依赖，但是如果对方一直漠视我的情绪让我被迫自我消化，我的爱意就会消失殆尽，我觉得一直在消耗我自己的精神力，我好累，我不想这样。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2027335033028067764",
+        "created_at": "2026-02-27T10:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T11:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027335033028067764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1991711672684421121",
+              "start": 3,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027335033028067764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 115
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024533017964974300",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pearl0812lucky: 特别讨厌别人漠视我的情绪，其实我是一个情感很浓烈的人，喜欢一个人就会很依赖，但是如果对方一直漠视我的情绪让我被迫自我消化，我的爱意就会消失殆尽，我觉得一直在消耗我自己的精神力，我好累，我不想这样。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2024533017964974300",
+        "created_at": "2026-02-19T17:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T18:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024533017964974300"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024533017964974300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 43170,
+          "like_count": 612,
+          "quote_count": 10,
+          "reply_count": 4,
+          "retweet_count": 115
+        },
+        "reply_settings": "everyone",
+        "text": "特别讨厌别人漠视我的情绪，其实我是一个情感很浓烈的人，喜欢一个人就会很依赖，但是如果对方一直漠视我的情绪让我被迫自我消化，我的爱意就会消失殆尽，我觉得一直在消耗我自己的精神力，我好累，我不想这样。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3395,
+          "following_count": 51,
+          "like_count": 4660,
+          "listed_count": 4,
+          "media_count": 99,
+          "tweet_count": 1060
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2055633195144753234",
+    "created_at": "2026-05-16T12:55:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T13:55:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055633195144753234"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055633195144753234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我总爱给关系赋予宿命的意义 比如说互补的性格 莫名的默契 同样看过的内容 同样经历过的事情 其实我都清楚这些或许不是我们俩独有的 我并不是一个迷信的人 但这种相似给我带来心安 似乎这样也能离你的心更近一点 我太清楚缘分是无法言说的 无法掌控的东西 所以我更宁愿相信这是天定 我太想和你有以后了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2055633195144753234",
+        "created_at": "2026-05-16T12:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055633195144753234"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055633195144753234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我总爱给关系赋予宿命的意义 比如说互补的性格 莫名的默契 同样看过的内容 同样经历过的事情 其实我都清楚这些或许不是我们俩独有的 我并不是一个迷信的人 但这种相似给我带来心安 似乎这样也能离你的心更近一点 我太清楚缘分是无法言说的 无法掌控的东西 所以我更宁愿相信这是天定 我太想和你有以后了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7677,
+          "following_count": 68,
+          "like_count": 7185,
+          "listed_count": 7,
+          "media_count": 159,
+          "tweet_count": 1745
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

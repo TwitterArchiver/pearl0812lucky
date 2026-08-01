@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2015685310219452477",
+    "created_at": "2026-01-26T14:23:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T15:23:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015792825569583377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1775898302963384322",
+          "start": 0,
+          "username": "brontobehated"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015792825569583377",
+    "in_reply_to_user_id": "1775898302963384322",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015792364107776247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@brontobehated 在中国我们不说狐朋狗友，我们说贫贱之交哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2015685310219452477",
+        "created_at": "2026-01-26T14:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T15:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015792825569583377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1775898302963384322",
+              "start": 0,
+              "username": "brontobehated"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015792825569583377",
+        "in_reply_to_user_id": "1775898302963384322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015792364107776247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@brontobehated 在中国我们不说狐朋狗友，我们说贫贱之交哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775898302963384322",
+        "conversation_id": "2015685310219452477",
+        "created_at": "2026-01-26T14:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T15:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015792364107776247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015792364107776247",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015685310219452477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 卧槽我发现一件很恐怖的事。我跟谁都是贫贱之交。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1488,
+          "following_count": 44,
+          "like_count": 2929,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 752
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T14:48:59.000Z",
+        "description": "把自己放在 卑微的后面",
+        "id": "1775898302963384322",
+        "location": "United States",
+        "name": "香辣鳗鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013950569392541698/Rc9d_CFK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 49,
+          "like_count": 5611,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 689
+        },
+        "username": "brontobehated",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053830537308160000"
+      ]
+    },
+    "author_id": "1991711672684421121",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2053830546510541043",
+    "created_at": "2026-05-11T13:32:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T14:32:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053830546510541043"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BazDB9vSii",
+          "end": 90,
+          "expanded_url": "https://x.com/pearl0812lucky/status/2053830546510541043/photo/1",
+          "media_key": "3_2053830537308160000",
+          "start": 67,
+          "url": "https://t.co/BazDB9vSii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053830546510541043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我只愿意一直和一个人在一起。\n像结婚誓言那样：\n无论贫穷或富有，健康或疾病，顺境或逆境，我都会爱你、珍惜你、忠诚于你，一生不离不弃。 https://t.co/BazDB9vSii"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2053830537308160000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICr_fUaQAABt0E.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053830537308160000"
+          ]
+        },
+        "author_id": "1991711672684421121",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2053830546510541043",
+        "created_at": "2026-05-11T13:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053830546510541043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BazDB9vSii",
+              "end": 90,
+              "expanded_url": "https://x.com/pearl0812lucky/status/2053830546510541043/photo/1",
+              "media_key": "3_2053830537308160000",
+              "start": 67,
+              "url": "https://t.co/BazDB9vSii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053830546510541043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我只愿意一直和一个人在一起。\n像结婚誓言那样：\n无论贫穷或富有，健康或疾病，顺境或逆境，我都会爱你、珍惜你、忠诚于你，一生不离不弃。 https://t.co/BazDB9vSii"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7295,
+          "following_count": 67,
+          "like_count": 7036,
+          "listed_count": 7,
+          "media_count": 159,
+          "tweet_count": 1702
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

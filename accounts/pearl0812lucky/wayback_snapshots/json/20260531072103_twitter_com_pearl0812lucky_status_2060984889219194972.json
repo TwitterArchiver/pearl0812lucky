@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2060736005037347031",
+    "created_at": "2026-05-31T07:21:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T08:21:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060984889219194972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1589294163182653440",
+          "start": 0,
+          "username": "KillPanta2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060984889219194972",
+    "in_reply_to_user_id": "1589294163182653440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060876833059639763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KillPanta2 不接呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2060736005037347031",
+        "created_at": "2026-05-31T07:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T08:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060984889219194972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1589294163182653440",
+              "start": 0,
+              "username": "KillPanta2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060984889219194972",
+        "in_reply_to_user_id": "1589294163182653440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060876833059639763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KillPanta2 不接呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589294163182653440",
+        "conversation_id": "2060736005037347031",
+        "created_at": "2026-05-31T00:11:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T01:11:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060876833059639763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060876833059639763",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 777,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060736005037347031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 其实对别人更好哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8438,
+          "following_count": 71,
+          "like_count": 7789,
+          "listed_count": 8,
+          "media_count": 165,
+          "tweet_count": 1847
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-06T16:30:44.000Z",
+        "description": "请展示你的魅力亦或者钱包吸引我 滥交的滚。switch/ +v私信： @qazplm23333 暴露癖小号【通过申请看清楚置顶再入门槛】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "qazplm23333"
+              }
+            ]
+          }
+        },
+        "id": "1589294163182653440",
+        "name": "來點人類腦漿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963589983249526784/K9IdQOYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24144,
+          "following_count": 118,
+          "like_count": 7294,
+          "listed_count": 114,
+          "media_count": 19,
+          "tweet_count": 3226
+        },
+        "username": "KillPanta2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2076950705022406802",
+    "created_at": "2026-07-14T08:43:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T09:43:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076950705022406802"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076950705022406802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对不起，我不该时刻盯着你的消息框等待，一点点冷淡就暗自难过，把你的随口承诺反复回味，过度解读你的语气，频繁索要你的偏爱证明，害怕新鲜感慢慢褪去，不敢主动说出心里委屈，看到你忽略我就胡思乱想，一安静就脑补你不爱我，强求你时刻和我保持同频，总想抓住你不肯轻易放手，因为小事争执就掉眼泪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2076950705022406802",
+        "created_at": "2026-07-14T08:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T09:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076950705022406802"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076950705022406802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起，我不该时刻盯着你的消息框等待，一点点冷淡就暗自难过，把你的随口承诺反复回味，过度解读你的语气，频繁索要你的偏爱证明，害怕新鲜感慢慢褪去，不敢主动说出心里委屈，看到你忽略我就胡思乱想，一安静就脑补你不爱我，强求你时刻和我保持同频，总想抓住你不肯轻易放手，因为小事争执就掉眼泪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10774,
+          "following_count": 72,
+          "like_count": 8887,
+          "listed_count": 10,
+          "media_count": 196,
+          "tweet_count": 2082
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

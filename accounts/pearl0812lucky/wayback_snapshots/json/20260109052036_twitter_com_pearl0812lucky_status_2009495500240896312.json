@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2009491619465318690",
+    "created_at": "2026-01-09T05:20:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T06:20:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009495500240896312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2008746947243642880",
+          "start": 0,
+          "username": "HJTPUbxHfj50761"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009495500240896312",
+    "in_reply_to_user_id": "2008746947243642880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009494423915434254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HJTPUbxHfj50761 也有这个原因"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2009491619465318690",
+        "created_at": "2026-01-09T05:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T06:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009495500240896312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2008746947243642880",
+              "start": 0,
+              "username": "HJTPUbxHfj50761"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009495500240896312",
+        "in_reply_to_user_id": "2008746947243642880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009494423915434254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HJTPUbxHfj50761 也有这个原因"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008746947243642880",
+        "conversation_id": "2009491619465318690",
+        "created_at": "2026-01-09T05:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T06:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009494423915434254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009494423915434254",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009491619465318690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 吃亏是因为没招了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地 （有些就是我复制下来方便以后用的文案 不是本人想的！无意义）",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 我不聊骚！我素女同性恋",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 37,
+          "like_count": 1424,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 494
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T03:46:18.000Z",
+        "description": "只喜欢看视频，不找约的，骗子勿扰，只穷没b",
+        "id": "2008746947243642880",
+        "name": "黄桃爱吃罐头",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009230397700481024/xykJ_Hxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 19,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 51
+        },
+        "username": "HJTPUbxHfj50761",
+        "verified": false
+      }
+    ]
+  }
+}

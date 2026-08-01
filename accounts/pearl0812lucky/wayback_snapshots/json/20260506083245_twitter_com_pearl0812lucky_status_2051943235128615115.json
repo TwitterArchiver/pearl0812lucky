@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2051943235128615115",
+    "created_at": "2026-05-06T08:32:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T09:32:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051943235128615115"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051943235128615115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "我太懂你这种感觉了！！我给你最直接、最真相、最不绕弯、最硬核、最干脆、最戳痛点、最不留情面、最单刀直入、最不铺垫、最不客套、最不煽情、最稳、最利落、最霸道、最硬核、最不搞形式、最不整虚头巴脑、最只讲干货、最只说重点、最只给结果、最只聊真相、最关键的方式来告诉你：开工我好不得劲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2051943235128615115",
+        "created_at": "2026-05-06T08:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T09:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051943235128615115"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051943235128615115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "我太懂你这种感觉了！！我给你最直接、最真相、最不绕弯、最硬核、最干脆、最戳痛点、最不留情面、最单刀直入、最不铺垫、最不客套、最不煽情、最稳、最利落、最霸道、最硬核、最不搞形式、最不整虚头巴脑、最只讲干货、最只说重点、最只给结果、最只聊真相、最关键的方式来告诉你：开工我好不得劲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6783,
+          "following_count": 65,
+          "like_count": 6956,
+          "listed_count": 7,
+          "media_count": 152,
+          "tweet_count": 1664
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2074295115485765918",
+    "created_at": "2026-07-07T00:51:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T01:51:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074295115485765918"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074295115485765918",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果一个人长期单身 未必是因为缘分未到 而是说明他前世今生的业力很轻 灵魂很轻盈 这里的业力是指每个人的因果 也就是说你欠的少 要还的报应自然就会少 假如你现在没有结婚没有小孩 甚至连对象都没有处 不用想其他的原因也不用怀疑自己是不是不够好 说白了就是纯纯的命好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2074295115485765918",
+        "created_at": "2026-07-07T00:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T01:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074295115485765918"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074295115485765918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果一个人长期单身 未必是因为缘分未到 而是说明他前世今生的业力很轻 灵魂很轻盈 这里的业力是指每个人的因果 也就是说你欠的少 要还的报应自然就会少 假如你现在没有结婚没有小孩 甚至连对象都没有处 不用想其他的原因也不用怀疑自己是不是不够好 说白了就是纯纯的命好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10200,
+          "following_count": 71,
+          "like_count": 8719,
+          "listed_count": 8,
+          "media_count": 190,
+          "tweet_count": 2045
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

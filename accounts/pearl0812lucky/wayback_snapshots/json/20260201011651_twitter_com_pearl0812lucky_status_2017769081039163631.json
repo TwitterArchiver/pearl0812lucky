@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2017608080138375547",
+    "created_at": "2026-02-01T01:16:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T02:16:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017769081039163631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "4696698811",
+          "start": 0,
+          "username": "0xSijijiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017769081039163631",
+    "in_reply_to_user_id": "4696698811",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017768812578541756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xSijijiu 支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2017608080138375547",
+        "created_at": "2026-02-01T01:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T02:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017769081039163631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "4696698811",
+              "start": 0,
+              "username": "0xSijijiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017769081039163631",
+        "in_reply_to_user_id": "4696698811",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017768812578541756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xSijijiu 支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4696698811",
+        "conversation_id": "2017608080138375547",
+        "created_at": "2026-02-01T01:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T02:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017768812578541756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017768812578541756",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017608080138375547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 自己本就可以\n无需借助外力\n\n靠山山倒\n靠人人跑\n只有自己信自己最靠谱🤣🤣🤣\n\n而且这一点不是盲目的\n多内观修行学习\n自己自然就会发现这一点\n自我的一切完全接纳才是真正的自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地  已婚女同性恋 和老婆过得很幸福～",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1732,
+          "following_count": 48,
+          "like_count": 3499,
+          "listed_count": 3,
+          "media_count": 69,
+          "tweet_count": 817
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-02T14:38:43.000Z",
+        "description": "1BTC=1BTC   专注",
+        "id": "4696698811",
+        "name": "四季韭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970678358460805120/g8hCJprF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2781,
+          "following_count": 110,
+          "like_count": 4958,
+          "listed_count": 58,
+          "media_count": 13555,
+          "tweet_count": 22344
+        },
+        "username": "0xSijijiu",
+        "verified": false
+      }
+    ]
+  }
+}

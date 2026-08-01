@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2056922229569683767",
+    "created_at": "2026-05-20T02:17:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T03:17:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056922229569683767"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056922229569683767",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "女孩你这辈子都不会完蛋\n一个人去食堂不会完蛋\n刘海被吹乱不会完蛋\n和朋友绝交不会完蛋\n不擅长理科不会完蛋\n中考失利不会完蛋\n素颜出门不会完蛋\n熬夜脱发不会完蛋\n例假侧漏不会完蛋\n走了弯路不会完蛋\n喜欢错了人不会完蛋\n原生家庭的痛不会完蛋\n没钱不会完蛋\n眼泪和坚持一样伟大\n女孩你这辈子都不会完蛋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2056922229569683767",
+        "created_at": "2026-05-20T02:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T03:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056922229569683767"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056922229569683767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女孩你这辈子都不会完蛋\n一个人去食堂不会完蛋\n刘海被吹乱不会完蛋\n和朋友绝交不会完蛋\n不擅长理科不会完蛋\n中考失利不会完蛋\n素颜出门不会完蛋\n熬夜脱发不会完蛋\n例假侧漏不会完蛋\n走了弯路不会完蛋\n喜欢错了人不会完蛋\n原生家庭的痛不会完蛋\n没钱不会完蛋\n眼泪和坚持一样伟大\n女孩你这辈子都不会完蛋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7849,
+          "following_count": 67,
+          "like_count": 7311,
+          "listed_count": 8,
+          "media_count": 162,
+          "tweet_count": 1761
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

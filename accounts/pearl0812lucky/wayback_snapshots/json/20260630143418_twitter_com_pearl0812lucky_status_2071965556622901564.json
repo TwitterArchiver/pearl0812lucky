@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2071926729841774755",
+    "created_at": "2026-06-30T14:34:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T15:34:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071965556622901564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1928494794525052928",
+          "start": 0,
+          "username": "iwant2seeyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071965556622901564",
+    "in_reply_to_user_id": "1928494794525052928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071961293809184926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iwant2seeyo 特别是直播间答疑有粉丝群的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2071926729841774755",
+        "created_at": "2026-06-30T14:34:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T15:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071965556622901564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1928494794525052928",
+              "start": 0,
+              "username": "iwant2seeyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071965556622901564",
+        "in_reply_to_user_id": "1928494794525052928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071961293809184926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iwant2seeyo 特别是直播间答疑有粉丝群的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928494794525052928",
+        "conversation_id": "2071926729841774755",
+        "created_at": "2026-06-30T14:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T15:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071961293809184926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071961293809184926",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071926729841774755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 加一个男律师"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9880,
+          "following_count": 72,
+          "like_count": 8632,
+          "listed_count": 8,
+          "media_count": 184,
+          "tweet_count": 2012
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-30T16:53:20.000Z",
+        "description": "如果这生命如同一段旅程",
+        "id": "1928494794525052928",
+        "name": "*^_^*",
+        "pinned_tweet_id": "2043225286423322652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064933099037966336/yr-25YAu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 50,
+          "like_count": 39784,
+          "listed_count": 0,
+          "media_count": 245,
+          "tweet_count": 3489
+        },
+        "url": "",
+        "username": "iwant2seeyo",
+        "verified": false
+      }
+    ]
+  }
+}

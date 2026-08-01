@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2046204925340942465",
+    "created_at": "2026-04-20T13:32:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T14:32:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046220550012538905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1975245236453711874",
+          "start": 0,
+          "username": "To_ska_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046220550012538905",
+    "in_reply_to_user_id": "1975245236453711874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046217686238347643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@To_ska_ 我复制的你的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2046204925340942465",
+        "created_at": "2026-04-20T13:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T14:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046220550012538905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1975245236453711874",
+              "start": 0,
+              "username": "To_ska_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046220550012538905",
+        "in_reply_to_user_id": "1975245236453711874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046217686238347643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@To_ska_ 我复制的你的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975245236453711874",
+        "conversation_id": "2046204925340942465",
+        "created_at": "2026-04-20T13:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T14:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046217686238347643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046217686238347643",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046215608912797913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 这个也是文案吗🫪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5809,
+          "following_count": 58,
+          "like_count": 6031,
+          "listed_count": 4,
+          "media_count": 144,
+          "tweet_count": 1494
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T17:02:39.000Z",
+        "description": "我们的关系胜过任何一种爱情。",
+        "id": "1975245236453711874",
+        "name": "木安",
+        "pinned_tweet_id": "2032036347247214714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045072665577484288/sXhDNWer_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 45,
+          "like_count": 1221,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 551
+        },
+        "username": "To_ska_",
+        "verified": false
+      }
+    ]
+  }
+}

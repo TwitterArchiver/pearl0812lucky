@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2076950705022406802",
+    "created_at": "2026-07-14T13:42:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T14:42:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077025827074826449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2060302010604470272",
+          "start": 0,
+          "username": "nilaomal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077025827074826449",
+    "in_reply_to_user_id": "2060302010604470272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076968538728747188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nilaomal 啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊我求你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2076950705022406802",
+        "created_at": "2026-07-14T13:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T14:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077025827074826449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2060302010604470272",
+              "start": 0,
+              "username": "nilaomal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077025827074826449",
+        "in_reply_to_user_id": "2060302010604470272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076968538728747188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nilaomal 啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊我求你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060302010604470272",
+        "conversation_id": "2076950705022406802",
+        "created_at": "2026-07-14T09:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T10:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076968538728747188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076968538728747188",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076950705022406802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 喜欢看这个账号的人都是m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10792,
+          "following_count": 72,
+          "like_count": 8887,
+          "listed_count": 10,
+          "media_count": 196,
+          "tweet_count": 2083
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-29T10:08:20.000Z",
+        "description": "武松，你在听吗   我并非不能杀你，而是我知道，性情刚烈快意恩仇的你闯荡世间需要打虎英雄这个名号。希望你披在肩头的能是我，最好是左肩，给你温暖的同时，也靠近你的心，尽管未曾有我",
+        "id": "2060302010604470272",
+        "location": "Iceland",
+        "name": "武松，你在听吗 我并非不能杀你，而是我知道，性情刚烈快意恩仇的你闯荡世间需要打虎英雄这个名号。希",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076669406638145536/OkO8wrFg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 70,
+          "like_count": 3194,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 135
+        },
+        "url": "",
+        "username": "nilaomal",
+        "verified": false
+      }
+    ]
+  }
+}

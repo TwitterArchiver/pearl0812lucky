@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2049497312398078443",
+    "created_at": "2026-04-30T06:20:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T07:20:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049735521380044815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1833807739090575360",
+          "start": 0,
+          "username": "rachelyourlove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049735521380044815",
+    "in_reply_to_user_id": "1833807739090575360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049546147216359450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rachelyourlove 对！反方向的钟听起来！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2049497312398078443",
+        "created_at": "2026-04-30T06:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T07:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049735521380044815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1833807739090575360",
+              "start": 0,
+              "username": "rachelyourlove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049735521380044815",
+        "in_reply_to_user_id": "1833807739090575360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049546147216359450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rachelyourlove 对！反方向的钟听起来！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833807739090575360",
+        "conversation_id": "2049497312398078443",
+        "created_at": "2026-04-29T17:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T18:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049546147216359450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049546147216359450",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2000,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049497312398078443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 是不是听一万遍反方向的钟听的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6475,
+          "following_count": 60,
+          "like_count": 6665,
+          "listed_count": 6,
+          "media_count": 148,
+          "tweet_count": 1598
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T10:00:23.000Z",
+        "description": "你为什么好奇我？",
+        "id": "1833807739090575360",
+        "location": "Washington, USA",
+        "name": "荔枝理智",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047686560917901312/mZNL1aZp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 29,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 581
+        },
+        "username": "rachelyourlove",
+        "verified": false
+      }
+    ]
+  }
+}

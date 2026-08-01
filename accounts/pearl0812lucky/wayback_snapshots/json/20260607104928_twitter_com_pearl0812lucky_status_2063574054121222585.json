@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2063574054121222585",
+    "created_at": "2026-06-07T10:49:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T11:49:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063574054121222585"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063574054121222585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "告诉你一个秘密：命运是有伏笔的，你相信什么就会吸引什么，你会成为你曾经羡慕过的那类人，尽管在你羡慕的那一刻也许只是由衷地欣赏和称赞。当无数事情发生在你生命中时，每一件都是为铺垫你走上那条本就会踏上的路，直到某天你不经意间发现，你已经成为多年前你曾真心艳羡过的人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2063574054121222585",
+        "created_at": "2026-06-07T10:49:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063574054121222585"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063574054121222585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "告诉你一个秘密：命运是有伏笔的，你相信什么就会吸引什么，你会成为你曾经羡慕过的那类人，尽管在你羡慕的那一刻也许只是由衷地欣赏和称赞。当无数事情发生在你生命中时，每一件都是为铺垫你走上那条本就会踏上的路，直到某天你不经意间发现，你已经成为多年前你曾真心艳羡过的人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8756,
+          "following_count": 72,
+          "like_count": 8008,
+          "listed_count": 7,
+          "media_count": 173,
+          "tweet_count": 1896
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

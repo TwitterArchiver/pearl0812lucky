@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2074658809772163099",
+    "created_at": "2026-07-08T00:56:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T01:56:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074658809772163099"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074658809772163099",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人和人真是奇怪，明明那么多个夜晚聊到凌晨，彼此坦然心迹，但是在某一天就普通的一天突然变成已读不回的消息，没有下文的聊天记录，不再分享的生活，平淡如水的情绪，人与人之间的羁绊本就薄如蝉翼，感情就是不联系就没有的东西。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2074658809772163099",
+        "created_at": "2026-07-08T00:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T01:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074658809772163099"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074658809772163099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人和人真是奇怪，明明那么多个夜晚聊到凌晨，彼此坦然心迹，但是在某一天就普通的一天突然变成已读不回的消息，没有下文的聊天记录，不再分享的生活，平淡如水的情绪，人与人之间的羁绊本就薄如蝉翼，感情就是不联系就没有的东西。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10254,
+          "following_count": 72,
+          "like_count": 8746,
+          "listed_count": 8,
+          "media_count": 190,
+          "tweet_count": 2049
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

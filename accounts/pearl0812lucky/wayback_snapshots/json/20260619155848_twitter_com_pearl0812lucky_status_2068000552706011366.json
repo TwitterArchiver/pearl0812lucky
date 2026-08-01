@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2068000552706011366",
+    "created_at": "2026-06-19T15:58:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T16:58:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068000552706011366"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068000552706011366",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在对方没有亲自说出口前 不要预设对方的真实想法 不要妄自菲薄 不要自己走进死胡同 也不要轻视对方的爱 如果你在乎 就去问对方 就去见对方 如果你不在乎 那你就往前走 你不是小孩子 不要徘徊 不要回避 请好好表达自己的内心 也要相信对方完全有能力接住你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2068000552706011366",
+        "created_at": "2026-06-19T15:58:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068000552706011366"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068000552706011366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在对方没有亲自说出口前 不要预设对方的真实想法 不要妄自菲薄 不要自己走进死胡同 也不要轻视对方的爱 如果你在乎 就去问对方 就去见对方 如果你不在乎 那你就往前走 你不是小孩子 不要徘徊 不要回避 请好好表达自己的内心 也要相信对方完全有能力接住你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9420,
+          "following_count": 73,
+          "like_count": 8413,
+          "listed_count": 8,
+          "media_count": 179,
+          "tweet_count": 1961
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2026804149015454038",
+    "created_at": "2026-02-26T02:04:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T03:04:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026840684289036387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1147467305422589957",
+          "start": 0,
+          "username": "EternityGuard66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026840684289036387",
+    "in_reply_to_user_id": "1147467305422589957",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026838368999584034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EternityGuard66 说的好好～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2026804149015454038",
+        "created_at": "2026-02-26T02:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T03:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026840684289036387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1147467305422589957",
+              "start": 0,
+              "username": "EternityGuard66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026840684289036387",
+        "in_reply_to_user_id": "1147467305422589957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026838368999584034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EternityGuard66 说的好好～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1147467305422589957",
+        "conversation_id": "2026804149015454038",
+        "created_at": "2026-02-26T01:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T02:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026838368999584034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026838368999584034",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026804149015454038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 会啊，我们会有自己的幸福。而且才22，我都快三十了我也这样。这样对待自己，对待感情幸福是长久的，痛苦只是短暂的。我们会永远充实，并时刻拥有饱满富有的灵魂。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3106,
+          "following_count": 52,
+          "like_count": 4517,
+          "listed_count": 4,
+          "media_count": 96,
+          "tweet_count": 1036
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-06T11:28:19.000Z",
+        "description": "我只爱我的🐈‍⬛还有🐕‍🦺",
+        "id": "1147467305422589957",
+        "location": "Iceland",
+        "name": "αιώνιος φρουρά",
+        "pinned_tweet_id": "2001613538285256802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1512938770878038018/uKQfSaMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 108,
+          "like_count": 14276,
+          "listed_count": 0,
+          "media_count": 328,
+          "tweet_count": 3315
+        },
+        "username": "EternityGuard66",
+        "verified": false
+      }
+    ]
+  }
+}

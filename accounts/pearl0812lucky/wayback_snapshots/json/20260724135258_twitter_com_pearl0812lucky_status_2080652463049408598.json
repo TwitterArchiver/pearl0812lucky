@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2080632449118396884",
+    "created_at": "2026-07-24T13:52:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T14:52:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080652463049408598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1616488252617396226",
+          "start": 0,
+          "username": "showlo5_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080652463049408598",
+    "in_reply_to_user_id": "1616488252617396226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080632449118396884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@showlo5_ 这个是什么和谁一起吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080632441472217088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_kLo4a8AAbPYo.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2080632449118396884",
+        "created_at": "2026-07-24T13:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080652463049408598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1616488252617396226",
+              "start": 0,
+              "username": "showlo5_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080652463049408598",
+        "in_reply_to_user_id": "1616488252617396226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080632449118396884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@showlo5_ 这个是什么和谁一起吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080632441472217088"
+          ]
+        },
+        "author_id": "1616488252617396226",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2080632449118396884",
+        "created_at": "2026-07-24T12:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080632449118396884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QvoPPNwrVD",
+              "end": 23,
+              "expanded_url": "https://x.com/showlo5_/status/2080632449118396884/photo/1",
+              "media_key": "3_2080632441472217088",
+              "start": 0,
+              "url": "https://t.co/QvoPPNwrVD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080632449118396884",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QvoPPNwrVD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11308,
+          "following_count": 78,
+          "like_count": 9032,
+          "listed_count": 12,
+          "media_count": 198,
+          "tweet_count": 2134
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-20T17:30:18.000Z",
+        "description": "男的别私信我",
+        "id": "1616488252617396226",
+        "name": "showxxo",
+        "pinned_tweet_id": "2003881825320816858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077047301093408768/d62yRcLz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 144,
+          "like_count": 6810,
+          "listed_count": 0,
+          "media_count": 306,
+          "tweet_count": 2691
+        },
+        "url": "",
+        "username": "showlo5_",
+        "verified": false
+      }
+    ]
+  }
+}

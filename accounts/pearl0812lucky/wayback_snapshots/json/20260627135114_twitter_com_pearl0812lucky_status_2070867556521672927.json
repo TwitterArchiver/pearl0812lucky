@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2070867556521672927",
+    "created_at": "2026-06-27T13:51:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T14:51:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070867556521672927"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070867556521672927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小咪，小咪，你是怎么拥有独自一只咪在世间随意行走的从容与勇气的呢？明明没有口袋，又是个溜肩，带不了行李和干粮，就这样顶着两个妙脆角，分币没有，却行走天下。\n孤独和流浪都是人类创造出来的词语：对一只咪来说，它不想要大房子、车子、票子，它只要填饱肚子，睡个好觉，第二天又是新的开始。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2070867556521672927",
+        "created_at": "2026-06-27T13:51:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070867556521672927"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070867556521672927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小咪，小咪，你是怎么拥有独自一只咪在世间随意行走的从容与勇气的呢？明明没有口袋，又是个溜肩，带不了行李和干粮，就这样顶着两个妙脆角，分币没有，却行走天下。\n孤独和流浪都是人类创造出来的词语：对一只咪来说，它不想要大房子、车子、票子，它只要填饱肚子，睡个好觉，第二天又是新的开始。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9768,
+          "following_count": 71,
+          "like_count": 8533,
+          "listed_count": 7,
+          "media_count": 181,
+          "tweet_count": 1993
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

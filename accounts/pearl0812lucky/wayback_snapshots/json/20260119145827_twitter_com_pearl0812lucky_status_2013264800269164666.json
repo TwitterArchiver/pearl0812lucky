@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2013211440870723841",
+    "created_at": "2026-01-19T14:58:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T15:58:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013264800269164666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1853000120511631360",
+          "start": 0,
+          "username": "JTL199907"
+        },
+        {
+          "end": 18,
+          "id": "1978470449270120448",
+          "start": 11,
+          "username": "fxmi26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013264800269164666",
+    "in_reply_to_user_id": "1853000120511631360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013211545434833347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JTL199907 @fxmi26 我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2013211440870723841",
+        "created_at": "2026-01-19T14:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T15:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013264800269164666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1853000120511631360",
+              "start": 0,
+              "username": "JTL199907"
+            },
+            {
+              "end": 18,
+              "id": "1978470449270120448",
+              "start": 11,
+              "username": "fxmi26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013264800269164666",
+        "in_reply_to_user_id": "1853000120511631360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013211545434833347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JTL199907 @fxmi26 我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853000120511631360",
+        "conversation_id": "2013211440870723841",
+        "created_at": "2026-01-19T11:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T12:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013211545434833347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1978470449270120448",
+              "start": 0,
+              "username": "fxmi26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013211545434833347",
+        "in_reply_to_user_id": "1978470449270120448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013211440870723841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fxmi26 我就是f人 感觉会有点难受😳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹  我素女同性恋啦",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 37,
+          "like_count": 2152,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 615
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T09:04:00.000Z",
+        "description": "le，2026想做积极向上的坚果，碎碎念。放个提问箱：https://t.co/2Cz22imyIv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tdz199907",
+                "end": 50,
+                "expanded_url": "https://ngl.link/tdz199907",
+                "start": 27,
+                "url": "https://t.co/2Cz22imyIv"
+              }
+            ]
+          }
+        },
+        "id": "1853000120511631360",
+        "location": "树洞",
+        "name": "坚果2026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010740543983362049/BzHbHOfR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 233,
+          "like_count": 5973,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 1406
+        },
+        "username": "JTL199907",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-15T14:38:17.000Z",
+        "description": "intp 0.5 /有老婆",
+        "id": "1978470449270120448",
+        "name": "徐绵羊",
+        "pinned_tweet_id": "1994711168544657633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009263292347502601/8r0iZ6O1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6702,
+          "following_count": 287,
+          "like_count": 2495,
+          "listed_count": 4,
+          "media_count": 245,
+          "tweet_count": 1434
+        },
+        "username": "fxmi26",
+        "verified": false
+      }
+    ]
+  }
+}

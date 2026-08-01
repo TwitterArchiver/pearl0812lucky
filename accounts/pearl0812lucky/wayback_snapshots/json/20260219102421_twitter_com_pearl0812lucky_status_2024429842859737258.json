@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2024429842859737258",
+    "created_at": "2026-02-19T10:24:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T11:24:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024429842859737258"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2024429842859737258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我突然觉得爱好伟大\n在遇到每一个 要不要爱的时刻\n其实都是自我在和自尊抗争\n要不要允许那个人进入我的生活\n接受自己被改变\n把我的一部分交出去\n要不要相信他\n承担掉眼泪的风险\n而每一次你摇摇脑袋\n对自己说 不管了\n然后毅然决然fall in love的时刻\n都是一次最小单位的勇敢\n爱是一场冒险 然而值得一试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2024429842859737258",
+        "created_at": "2026-02-19T10:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T11:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024429842859737258"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024429842859737258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我突然觉得爱好伟大\n在遇到每一个 要不要爱的时刻\n其实都是自我在和自尊抗争\n要不要允许那个人进入我的生活\n接受自己被改变\n把我的一部分交出去\n要不要相信他\n承担掉眼泪的风险\n而每一次你摇摇脑袋\n对自己说 不管了\n然后毅然决然fall in love的时刻\n都是一次最小单位的勇敢\n爱是一场冒险 然而值得一试"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2722,
+          "following_count": 50,
+          "like_count": 4342,
+          "listed_count": 3,
+          "media_count": 87,
+          "tweet_count": 995
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

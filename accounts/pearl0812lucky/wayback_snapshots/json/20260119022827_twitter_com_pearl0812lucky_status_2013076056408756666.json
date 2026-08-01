@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2013076056408756666",
+    "created_at": "2026-01-19T02:28:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T03:28:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013076056408756666"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2013076056408756666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你掉一滴泪，我吃猪蹄＋螺蛳粉＋羊肉串＋酸辣粉＋炸鸡腿＋虾饺＋牛肉粉丝汤＋麻辣烫＋烤鱿鱼＋馄饨＋肉末粉丝＋龙虾＋炸酱面＋螃蟹＋鸭脖＋可乐＋肠粉＋虾饺＋烤肉＋火锅＋鸡柳卷饼＋肯德基＋必胜客＋麦当劳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2013076056408756666",
+        "created_at": "2026-01-19T02:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T03:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013076056408756666"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013076056408756666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你掉一滴泪，我吃猪蹄＋螺蛳粉＋羊肉串＋酸辣粉＋炸鸡腿＋虾饺＋牛肉粉丝汤＋麻辣烫＋烤鱿鱼＋馄饨＋肉末粉丝＋龙虾＋炸酱面＋螃蟹＋鸭脖＋可乐＋肠粉＋虾饺＋烤肉＋火锅＋鸡柳卷饼＋肯德基＋必胜客＋麦当劳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹  我素女同性恋啦",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 37,
+          "like_count": 2082,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 600
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

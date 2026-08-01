@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2049006615186276707",
+    "created_at": "2026-04-28T07:54:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T08:54:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049034621820830141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1425715039693000707",
+          "start": 0,
+          "username": "chang01422279"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049034621820830141",
+    "in_reply_to_user_id": "1425715039693000707",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049030721227141558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chang01422279 那就不要在接住ta的痛苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2049006615186276707",
+        "created_at": "2026-04-28T07:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049034621820830141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1425715039693000707",
+              "start": 0,
+              "username": "chang01422279"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049034621820830141",
+        "in_reply_to_user_id": "1425715039693000707",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049030721227141558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chang01422279 那就不要在接住ta的痛苦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1425715039693000707",
+        "conversation_id": "2049006615186276707",
+        "created_at": "2026-04-28T07:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049030721227141558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049030721227141558",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049006615186276707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 所以遇到将自己的痛苦抛过来 但又不愿意同等接住我的痛苦的朋友 怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6302,
+          "following_count": 59,
+          "like_count": 6400,
+          "listed_count": 5,
+          "media_count": 146,
+          "tweet_count": 1567
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-12T07:05:38.000Z",
+        "description": "情绪呕吐物存放地",
+        "id": "1425715039693000707",
+        "name": "备忘录重度依赖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027035911322730496/ac1UF4d9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 100,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 116
+        },
+        "username": "chang01422279",
+        "verified": false
+      }
+    ]
+  }
+}

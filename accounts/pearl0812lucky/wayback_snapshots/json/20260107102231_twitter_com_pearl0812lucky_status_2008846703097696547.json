@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2008844991892967661",
+    "created_at": "2026-01-07T10:22:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T11:22:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008846703097696547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1618639105944084482",
+          "start": 0,
+          "username": "OTATO_11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008846703097696547",
+    "in_reply_to_user_id": "1618639105944084482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008845482437853478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OTATO_11 项圈我套的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2008844991892967661",
+        "created_at": "2026-01-07T10:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T11:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008846703097696547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1618639105944084482",
+              "start": 0,
+              "username": "OTATO_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008846703097696547",
+        "in_reply_to_user_id": "1618639105944084482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008845482437853478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OTATO_11 项圈我套的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618639105944084482",
+        "conversation_id": "2008844991892967661",
+        "created_at": "2026-01-07T10:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T11:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008845482437853478"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008845482437853478",
+        "in_reply_to_user_id": "1618639105944084482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008844991892967661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关键词，猫耳(画的)，虎牙(画的)，项圈(真的)。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎来到我的生活连续剧 不聊骚 女同性恋",
+        "name": "orange cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 25,
+          "like_count": 845,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 344
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T15:57:12.000Z",
+        "description": "02le/h/不约不调不四爱/enfp/发一张照片后奖励自己发无数条碎嘴子日常/vx不常发别问我要好不但是聊天可以🥹https://t.co/ogDddeM4AL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/potatot2711",
+                "end": 81,
+                "expanded_url": "https://ngl.link/potatot2711",
+                "start": 58,
+                "url": "https://t.co/ogDddeM4AL"
+              }
+            ]
+          }
+        },
+        "id": "1618639105944084482",
+        "location": "Why do we only have one chance",
+        "name": "螺蛳粉主人🍜",
+        "pinned_tweet_id": "2007064226247160195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003797269968191489/La-N4TCt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 37,
+          "like_count": 163,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 696
+        },
+        "username": "OTATO_11",
+        "verified": false
+      }
+    ]
+  }
+}

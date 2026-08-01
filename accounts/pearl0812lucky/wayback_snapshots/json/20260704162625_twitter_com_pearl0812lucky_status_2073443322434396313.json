@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2073322374771130449",
+    "created_at": "2026-07-04T16:26:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T17:26:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073443322434396313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1596863151814766594",
+          "start": 0,
+          "username": "Cc123456789ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073443322434396313",
+    "in_reply_to_user_id": "1596863151814766594",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073418826360967541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cc123456789ovo 我抖音也刷到惹 没关系 我的账号本来也是转载的别人的啦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2073418799513219072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZDaaeaMAAalQj.jpg",
+        "width": 474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2073322374771130449",
+        "created_at": "2026-07-04T16:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T17:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073443322434396313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1596863151814766594",
+              "start": 0,
+              "username": "Cc123456789ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073443322434396313",
+        "in_reply_to_user_id": "1596863151814766594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073418826360967541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cc123456789ovo 我抖音也刷到惹 没关系 我的账号本来也是转载的别人的啦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073418799513219072"
+          ]
+        },
+        "author_id": "1596863151814766594",
+        "conversation_id": "2073322374771130449",
+        "created_at": "2026-07-04T14:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073418826360967541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hZ1SGgoHaz",
+              "end": 45,
+              "expanded_url": "https://x.com/Cc123456789ovo/status/2073418826360967541/photo/1",
+              "media_key": "3_2073418799513219072",
+              "start": 22,
+              "url": "https://t.co/hZ1SGgoHaz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073418826360967541",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073322374771130449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 橘子猫你看 https://t.co/hZ1SGgoHaz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10091,
+          "following_count": 70,
+          "like_count": 8711,
+          "listed_count": 8,
+          "media_count": 189,
+          "tweet_count": 2034
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T13:47:56.000Z",
+        "description": "喜欢瞎说点小几把话",
+        "id": "1596863151814766594",
+        "name": "心心欧尼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993136806070452225/p1PrRvkB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 51,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 784
+        },
+        "url": "",
+        "username": "Cc123456789ovo",
+        "verified": false
+      }
+    ]
+  }
+}

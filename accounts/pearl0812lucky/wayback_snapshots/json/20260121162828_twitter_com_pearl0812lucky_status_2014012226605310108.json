@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2013996539744776426",
+    "created_at": "2026-01-21T16:28:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T17:28:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014012226605310108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2888060375",
+          "start": 0,
+          "username": "w3bD4nny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014012226605310108",
+    "in_reply_to_user_id": "2888060375",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014008985033073027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@w3bD4nny 因为我很脆弱，评论区有我不喜欢的争论我就删了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2013996539744776426",
+        "created_at": "2026-01-21T16:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T17:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014012226605310108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2888060375",
+              "start": 0,
+              "username": "w3bD4nny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014012226605310108",
+        "in_reply_to_user_id": "2888060375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014008985033073027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@w3bD4nny 因为我很脆弱，评论区有我不喜欢的争论我就删了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2888060375",
+        "conversation_id": "2013996539744776426",
+        "created_at": "2026-01-21T16:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T17:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014008985033073027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014008985033073027",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013996539744776426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 买米饭那个段子你怎么删掉了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹  我素女同性恋啦",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1162,
+          "following_count": 41,
+          "like_count": 2256,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 660
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-22T17:10:44.000Z",
+        "description": "专注撸毛，链上交互为辅；兼顾土狗与新机会；覆盖一二级+现货合约。",
+        "id": "2888060375",
+        "location": "Italia",
+        "name": "Old Six ✦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013639100578889729/YY2dOS_R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3325,
+          "following_count": 4321,
+          "like_count": 8314,
+          "listed_count": 50,
+          "media_count": 505,
+          "tweet_count": 26904
+        },
+        "username": "w3bD4nny",
+        "verified": true
+      }
+    ]
+  }
+}

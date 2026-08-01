@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071101366941200384"
+      ]
+    },
+    "author_id": "1991711672684421121",
+    "conversation_id": "2071101397245010040",
+    "created_at": "2026-06-28T05:20:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T06:20:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071101397245010040"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/H1wsbracLE",
+          "end": 32,
+          "expanded_url": "https://x.com/pearl0812lucky/status/2071101397245010040/photo/1",
+          "media_key": "3_2071101366941200384",
+          "start": 9,
+          "url": "https://t.co/H1wsbracLE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071101397245010040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "母女是天然的同盟 https://t.co/H1wsbracLE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1727,
+        "media_key": "3_2071101366941200384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4HuFZbMAAncOD.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071101366941200384"
+          ]
+        },
+        "author_id": "1991711672684421121",
+        "conversation_id": "2071101397245010040",
+        "created_at": "2026-06-28T05:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T06:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071101397245010040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H1wsbracLE",
+              "end": 32,
+              "expanded_url": "https://x.com/pearl0812lucky/status/2071101397245010040/photo/1",
+              "media_key": "3_2071101366941200384",
+              "start": 9,
+              "url": "https://t.co/H1wsbracLE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071101397245010040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "母女是天然的同盟 https://t.co/H1wsbracLE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9785,
+          "following_count": 71,
+          "like_count": 8596,
+          "listed_count": 7,
+          "media_count": 182,
+          "tweet_count": 1999
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

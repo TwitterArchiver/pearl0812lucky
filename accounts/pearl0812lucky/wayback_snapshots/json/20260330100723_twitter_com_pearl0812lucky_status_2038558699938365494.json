@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2038188476445966382",
+    "created_at": "2026-03-30T10:07:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T11:07:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038558699938365494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1897385240735240192",
+          "start": 0,
+          "username": "Shen20020210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038558699938365494",
+    "in_reply_to_user_id": "1897385240735240192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038554046810710193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shen20020210 已经是同性恋了^_^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2038188476445966382",
+        "created_at": "2026-03-30T10:07:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T11:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038558699938365494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1897385240735240192",
+              "start": 0,
+              "username": "Shen20020210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038558699938365494",
+        "in_reply_to_user_id": "1897385240735240192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038554046810710193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shen20020210 已经是同性恋了^_^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897385240735240192",
+        "conversation_id": "2038188476445966382",
+        "created_at": "2026-03-30T09:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T10:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038554046810710193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038554046810710193",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038188476445966382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 学设计真的还能有三代吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4616,
+          "following_count": 53,
+          "like_count": 5324,
+          "listed_count": 6,
+          "media_count": 124,
+          "tweet_count": 1232
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-05T20:34:49.000Z",
+        "description": "我真的不系拉拉呀…/ ENTJ-A /水瓶座 /我想像风一样自由 /喜欢画画听歌散步/分享我的日常和碎碎念/一些疑惑和自省/不约炮不聊骚不鉴鸡 / 内向但不社恐/给我发照片会被我锐评\n\n提问箱：https://t.co/nhgGIeVP69",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/s_far02",
+                "end": 120,
+                "expanded_url": "http://ngl.link/s_far02",
+                "start": 97,
+                "url": "https://t.co/nhgGIeVP69"
+              }
+            ]
+          }
+        },
+        "id": "1897385240735240192",
+        "location": "距离你1008km ",
+        "name": "懒大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004553048597880832/wF2u16g2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1434,
+          "following_count": 550,
+          "like_count": 38320,
+          "listed_count": 0,
+          "media_count": 655,
+          "tweet_count": 5154
+        },
+        "username": "Shen20020210",
+        "verified": false
+      }
+    ]
+  }
+}

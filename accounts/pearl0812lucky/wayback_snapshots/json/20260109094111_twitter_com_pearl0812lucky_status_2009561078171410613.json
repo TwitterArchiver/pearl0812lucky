@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2009561078171410613",
+    "created_at": "2026-01-09T09:41:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T10:41:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009561078171410613"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/abskoop/status…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/abskoop/status/2009257749876519047",
+          "start": 41,
+          "url": "https://t.co/lCAGY1Hn8g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009561078171410613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009257749876519047",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "也要看老板顺不顺眼，我感觉面试是双向选择，你感觉这里的人和你磁场不合也赶紧跑吧！ https://t.co/lCAGY1Hn8g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 450,
+        "media_key": "3_2009257723230343170",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-JRQPda0AI2-5y.jpg",
+        "width": 1278
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2009561078171410613",
+        "created_at": "2026-01-09T09:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T10:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009561078171410613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/abskoop/status…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/abskoop/status/2009257749876519047",
+              "start": 41,
+              "url": "https://t.co/lCAGY1Hn8g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009561078171410613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009257749876519047",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "也要看老板顺不顺眼，我感觉面试是双向选择，你感觉这里的人和你磁场不合也赶紧跑吧！ https://t.co/lCAGY1Hn8g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009257723230343170"
+          ]
+        },
+        "author_id": "2262723812",
+        "conversation_id": "2009257749876519047",
+        "created_at": "2026-01-08T13:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T14:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009257749876519047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yknqy3hw33",
+              "end": 34,
+              "expanded_url": "https://x.com/abskoop/status/2009257749876519047/photo/1",
+              "media_key": "3_2009257723230343170",
+              "start": 11,
+              "url": "https://t.co/Yknqy3hw33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009257749876519047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 252233,
+          "like_count": 1301,
+          "quote_count": 17,
+          "reply_count": 182,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "？现在外面都这样的吗 https://t.co/Yknqy3hw33"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地 （有些就是我复制下来方便以后用的文案 不是本人想的！无意义）",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 我不聊骚！我素女同性恋",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 38,
+          "like_count": 1499,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 515
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-26T11:26:41.000Z",
+        "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 107,
+                "start": 104,
+                "tag": "AI"
+              },
+              {
+                "end": 113,
+                "start": 108,
+                "tag": "Tech"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "Tools"
+              },
+              {
+                "end": 135,
+                "start": 121,
+                "tag": "InternetTools"
+              },
+              {
+                "end": 145,
+                "start": 136,
+                "tag": "Learning"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 85,
+                "start": 77,
+                "username": "ahhhhfs"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/abskoop",
+                "end": 72,
+                "expanded_url": "http://t.me/abskoop",
+                "start": 49,
+                "url": "https://t.co/OmSvNms9yl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dizhi.abskoop.com",
+                "end": 23,
+                "expanded_url": "https://dizhi.abskoop.com/",
+                "start": 0,
+                "url": "https://t.co/cidh0H49OY"
+              }
+            ]
+          }
+        },
+        "id": "2262723812",
+        "location": "有空翻翻👉",
+        "name": "ahhhhfs",
+        "pinned_tweet_id": "1864977466198257739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737478,
+          "following_count": 1198,
+          "like_count": 26098,
+          "listed_count": 2650,
+          "media_count": 23172,
+          "tweet_count": 59725
+        },
+        "url": "https://t.co/cidh0H49OY",
+        "username": "abskoop",
+        "verified": true
+      }
+    ]
+  }
+}

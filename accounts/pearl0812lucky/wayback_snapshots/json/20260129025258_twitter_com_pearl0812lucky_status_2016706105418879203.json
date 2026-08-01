@@ -1,0 +1,138 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2016158589589848522",
+    "created_at": "2026-01-29T02:52:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T03:52:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1945701405840539648",
+          "start": 0,
+          "username": "Jessica_cnmsbxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016706105418879203",
+    "in_reply_to_user_id": "1945701405840539648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016533933710803241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jessica_cnmsbxx 啊啊啊啊啊啊啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945701405840539648",
+        "conversation_id": "2016158589589848522",
+        "created_at": "2026-01-28T15:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T16:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016533933710803241",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016158589589848522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 玛雅兄弟我找到男朋友了🙄💅🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 45,
+          "like_count": 3152,
+          "listed_count": 3,
+          "media_count": 65,
+          "tweet_count": 782
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T04:25:47.000Z",
+        "description": "",
+        "id": "1945701405840539648",
+        "name": "meow 😺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002060029424513025/6fxLbM6V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 269,
+          "like_count": 1329,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 475
+        },
+        "username": "Jessica_cnmsbxx",
+        "verified": false
+      }
+    ]
+  }
+}

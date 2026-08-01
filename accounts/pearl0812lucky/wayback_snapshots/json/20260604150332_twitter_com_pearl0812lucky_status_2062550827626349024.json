@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2062550827626349024",
+    "created_at": "2026-06-04T15:03:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T16:03:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062550827626349024"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062550827626349024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不太喜欢和太聪明的人打交道，我脑子迟钝，够不上。我心思太敏感了，对一些东西，我是很恐惧的，所以我不会交太多朋友，因为我没那个本事，我就是还是喜欢自己，那个我行我素，我想干什么就干什么，只要不违法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2062550827626349024",
+        "created_at": "2026-06-04T15:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062550827626349024"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062550827626349024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不太喜欢和太聪明的人打交道，我脑子迟钝，够不上。我心思太敏感了，对一些东西，我是很恐惧的，所以我不会交太多朋友，因为我没那个本事，我就是还是喜欢自己，那个我行我素，我想干什么就干什么，只要不违法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8677,
+          "following_count": 72,
+          "like_count": 7932,
+          "listed_count": 8,
+          "media_count": 172,
+          "tweet_count": 1887
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

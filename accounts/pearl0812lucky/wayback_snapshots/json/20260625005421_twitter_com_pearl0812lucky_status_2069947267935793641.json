@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2069947267935793641",
+    "created_at": "2026-06-25T00:54:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T01:54:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069947267935793641"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069947267935793641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "勾手再到牵手的这个过程也太纯爱了 先通过小心翼翼地勾手来试探对方 在得到默许后 又慢慢犹豫地去牵住手掌 内心也在害怕 如果对方拒绝该怎么办 但对方牵住了 选择了将彼此的温暖传递给对方 完全就是沉默地在表达爱意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2069947267935793641",
+        "created_at": "2026-06-25T00:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T01:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069947267935793641"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069947267935793641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "勾手再到牵手的这个过程也太纯爱了 先通过小心翼翼地勾手来试探对方 在得到默许后 又慢慢犹豫地去牵住手掌 内心也在害怕 如果对方拒绝该怎么办 但对方牵住了 选择了将彼此的温暖传递给对方 完全就是沉默地在表达爱意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9673,
+          "following_count": 71,
+          "like_count": 8496,
+          "listed_count": 8,
+          "media_count": 180,
+          "tweet_count": 1983
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

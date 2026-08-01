@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2081944674236084722",
+    "created_at": "2026-07-28T03:27:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T04:27:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081944674236084722"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081944674236084722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的完全听不得同龄的男男女女上岸下海怀孕流产卖屁股干灰产这种裤裆子里的破事你们知道吗 我人生中绝大部分时间都在维持一种无性别低智商儿童的状态 这种事在我看来就像儿童邪典一样可怕 别再吓我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2081944674236084722",
+        "created_at": "2026-07-28T03:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T04:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081944674236084722"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081944674236084722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的完全听不得同龄的男男女女上岸下海怀孕流产卖屁股干灰产这种裤裆子里的破事你们知道吗 我人生中绝大部分时间都在维持一种无性别低智商儿童的状态 这种事在我看来就像儿童邪典一样可怕 别再吓我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11445,
+          "following_count": 78,
+          "like_count": 9081,
+          "listed_count": 12,
+          "media_count": 199,
+          "tweet_count": 2150
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

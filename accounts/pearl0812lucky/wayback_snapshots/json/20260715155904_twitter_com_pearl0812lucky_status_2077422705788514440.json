@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2077422705788514440",
+    "created_at": "2026-07-15T15:59:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T16:59:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077422705788514440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1991711672684421121",
+          "start": 3,
+          "username": "pearl0812lucky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077422705788514440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009431887333486776",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pearl0812lucky: 有人评论我每天发那么多有人理吗？不好意思，没有人理我！\nps：这个账号绝大部分都是我复制黏贴的文案！不要上升高度，也不要用你的恶意来评价！不好的通通屏蔽，这个账号就是发文案的！不爱看就屏蔽我，恶语伤人心！我超级无敌巨巨巨脆弱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2077422705788514440",
+        "created_at": "2026-07-15T15:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077422705788514440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1991711672684421121",
+              "start": 3,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077422705788514440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009431887333486776",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pearl0812lucky: 有人评论我每天发那么多有人理吗？不好意思，没有人理我！\nps：这个账号绝大部分都是我复制黏贴的文案！不要上升高度，也不要用你的恶意来评价！不好的通通屏蔽，这个账号就是发文案的！不爱看就屏蔽我，恶语伤人心！我超级无敌巨巨巨脆弱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2009431887333486776",
+        "created_at": "2026-01-09T01:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T02:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009431887333486776"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009431887333486776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 149582,
+          "like_count": 235,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "有人评论我每天发那么多有人理吗？不好意思，没有人理我！\nps：这个账号绝大部分都是我复制黏贴的文案！不要上升高度，也不要用你的恶意来评价！不好的通通屏蔽，这个账号就是发文案的！不爱看就屏蔽我，恶语伤人心！我超级无敌巨巨巨脆弱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10944,
+          "following_count": 74,
+          "like_count": 8936,
+          "listed_count": 10,
+          "media_count": 197,
+          "tweet_count": 2091
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2018179078139138428",
+    "created_at": "2026-02-02T05:01:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T06:01:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018188053475705306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1961806047871729664",
+          "start": 0,
+          "username": "pi_shao12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018188053475705306",
+    "in_reply_to_user_id": "1961806047871729664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018187705788837903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pi_shao12138 想买就把钱转我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2018179078139138428",
+        "created_at": "2026-02-02T05:01:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T06:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018188053475705306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1961806047871729664",
+              "start": 0,
+              "username": "pi_shao12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018188053475705306",
+        "in_reply_to_user_id": "1961806047871729664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018187705788837903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pi_shao12138 想买就把钱转我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961806047871729664",
+        "conversation_id": "2018179078139138428",
+        "created_at": "2026-02-02T05:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T06:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018187705788837903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018187705788837903",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018179078139138428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 知道了以后不买枪皮了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1823,
+          "following_count": 48,
+          "like_count": 3639,
+          "listed_count": 3,
+          "media_count": 71,
+          "tweet_count": 827
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T14:59:57.000Z",
+        "description": "女同",
+        "id": "1961806047871729664",
+        "name": "苕皮大王",
+        "pinned_tweet_id": "2015098225246789758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004333508559327232/1P2YmPqE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 32,
+          "like_count": 584,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 491
+        },
+        "username": "pi_shao12138",
+        "verified": false
+      }
+    ]
+  }
+}

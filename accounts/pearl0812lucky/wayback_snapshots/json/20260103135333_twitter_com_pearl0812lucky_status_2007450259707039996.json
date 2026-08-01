@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2007264393051148429",
+    "created_at": "2026-01-03T13:53:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T14:53:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007450259707039996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1892256538213175298",
+          "start": 0,
+          "username": "wanyhwqswwj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007450259707039996",
+    "in_reply_to_user_id": "1892256538213175298",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007448719097049484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wanyhwqswwj 我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2007264393051148429",
+        "created_at": "2026-01-03T13:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T14:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007450259707039996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1892256538213175298",
+              "start": 0,
+              "username": "wanyhwqswwj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007450259707039996",
+        "in_reply_to_user_id": "1892256538213175298",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007448719097049484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wanyhwqswwj 我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892256538213175298",
+        "conversation_id": "2007264393051148429",
+        "created_at": "2026-01-03T13:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T14:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007448719097049484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007448719097049484",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007264393051148429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 整个瓜里除了排行榜外最好奇的一点了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "世界巨大，我以渺小来爱它",
+        "name": "orange cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 12,
+          "like_count": 446,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 202
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T16:55:11.000Z",
+        "description": "发情发癫发脾气三重人格^ω^｜骚扰窝一律先给钱好咪？｜上推为了碎碎念看萌妹帅哥和段子｜❗不聊政治不聊敏感话题不想起冲突变成谋杀案女主",
+        "id": "1892256538213175298",
+        "location": "难过了就会躲起来",
+        "name": "寄想碎觉zz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005252287338561537/vfQGAZKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 65,
+          "like_count": 9122,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 3291
+        },
+        "username": "wanyhwqswwj",
+        "verified": false
+      }
+    ]
+  }
+}

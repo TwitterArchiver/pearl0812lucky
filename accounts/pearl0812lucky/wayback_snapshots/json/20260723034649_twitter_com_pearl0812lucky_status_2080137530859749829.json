@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2080137530859749829",
+    "created_at": "2026-07-23T03:46:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T04:46:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080137530859749829"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080137530859749829",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你突如其来的短信很冒昧，对我来说是种困扰。这么久了，突然出现，是因为最近不太顺心吧？但和我再次建立联系又有什么意义？难道会让你我的生活更好过吗？我从来不做那些没意义的事，不被你在乎的关系早该放开了，现在突然打扰我的生活很没礼貌，你太自私。我不喜欢藕断丝连的感觉，安静当过客吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2080137530859749829",
+        "created_at": "2026-07-23T03:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T04:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080137530859749829"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080137530859749829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你突如其来的短信很冒昧，对我来说是种困扰。这么久了，突然出现，是因为最近不太顺心吧？但和我再次建立联系又有什么意义？难道会让你我的生活更好过吗？我从来不做那些没意义的事，不被你在乎的关系早该放开了，现在突然打扰我的生活很没礼貌，你太自私。我不喜欢藕断丝连的感觉，安静当过客吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11271,
+          "following_count": 78,
+          "like_count": 9033,
+          "listed_count": 12,
+          "media_count": 197,
+          "tweet_count": 2128
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

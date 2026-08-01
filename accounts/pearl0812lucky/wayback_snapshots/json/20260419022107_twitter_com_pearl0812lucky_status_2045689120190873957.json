@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2045689120190873957",
+    "created_at": "2026-04-19T02:21:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T03:21:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045689120190873957"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045689120190873957",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "可以辞职\n可以gap\n可以不结婚\n可以离婚\n可以没小孩\n可以不开心\n可以开心之后又不开心\n可以不爱做家务\n可以想吃什么吃什么\n放轻松 别焦虑 我的朋友们 人生没有正确答案\n这是很漫长很漫长的一生 可以按照自己想要的方式过的一生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2045689120190873957",
+        "created_at": "2026-04-19T02:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T03:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045689120190873957"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045689120190873957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可以辞职\n可以gap\n可以不结婚\n可以离婚\n可以没小孩\n可以不开心\n可以开心之后又不开心\n可以不爱做家务\n可以想吃什么吃什么\n放轻松 别焦虑 我的朋友们 人生没有正确答案\n这是很漫长很漫长的一生 可以按照自己想要的方式过的一生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5701,
+          "following_count": 58,
+          "like_count": 5982,
+          "listed_count": 3,
+          "media_count": 143,
+          "tweet_count": 1476
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

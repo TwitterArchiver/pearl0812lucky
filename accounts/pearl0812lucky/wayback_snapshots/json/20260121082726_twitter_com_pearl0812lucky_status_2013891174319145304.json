@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2013860804920283279",
+    "created_at": "2026-01-21T08:27:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T09:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013891174319145304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1999436769805365248",
+          "start": 0,
+          "username": "xiaobendanmimi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013891174319145304",
+    "in_reply_to_user_id": "1999436769805365248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013888303662277116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaobendanmimi 你叫他滚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2013860804920283279",
+        "created_at": "2026-01-21T08:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T09:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013891174319145304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1999436769805365248",
+              "start": 0,
+              "username": "xiaobendanmimi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013891174319145304",
+        "in_reply_to_user_id": "1999436769805365248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013888303662277116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaobendanmimi 你叫他滚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999436769805365248",
+        "conversation_id": "2013860804920283279",
+        "created_at": "2026-01-21T08:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T09:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013888303662277116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013888303662277116",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013860804920283279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 有人说我较真 呵呵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹  我素女同性恋啦",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1131,
+          "following_count": 41,
+          "like_count": 2198,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 648
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T11:11:10.000Z",
+        "description": "水瓶座/小绿老头/有点M属性/性取向：双/可以找我互的宝宝们((つ≧▽≦)つ\n15R就可以入🚪就有一个小话唠",
+        "id": "1999436769805365248",
+        "location": "我喜欢你一辈子了  因为明天就是世界末日",
+        "name": "一万零一次",
+        "pinned_tweet_id": "2008872239807209719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013674092826689536/TyYMCspD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 34,
+          "like_count": 2181,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 431
+        },
+        "username": "xiaobendanmimi",
+        "verified": false
+      }
+    ]
+  }
+}

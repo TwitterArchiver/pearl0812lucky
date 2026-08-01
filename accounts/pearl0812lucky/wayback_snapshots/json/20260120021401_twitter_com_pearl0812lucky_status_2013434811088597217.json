@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2013167944461934623",
+    "created_at": "2026-01-20T02:14:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T03:14:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013434811088597217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1951262468560527364",
+          "start": 0,
+          "username": "uNaMd1qVsv86150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013434811088597217",
+    "in_reply_to_user_id": "1951262468560527364",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013320992647720960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uNaMd1qVsv86150 ☆*:.｡. o(≧▽≦)o .｡.:*☆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2013167944461934623",
+        "created_at": "2026-01-20T02:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T03:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013434811088597217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1951262468560527364",
+              "start": 0,
+              "username": "uNaMd1qVsv86150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013434811088597217",
+        "in_reply_to_user_id": "1951262468560527364",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013320992647720960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uNaMd1qVsv86150 ☆*:.｡. o(≧▽≦)o .｡.:*☆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951262468560527364",
+        "conversation_id": "2013167944461934623",
+        "created_at": "2026-01-19T18:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T19:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013320992647720960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013320992647720960",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013167944461934623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 哎……！看的我心软软的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹  我素女同性恋啦",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 38,
+          "like_count": 2146,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 619
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-01T12:43:28.000Z",
+        "description": "表面上天天口嗨 说得比谁都黄 但其实是个纯爱高手。连牵手对视都会脸红",
+        "id": "1951262468560527364",
+        "name": "怎么可以吃兔兔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011785241602736128/O8yy8m-a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 18,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 25
+        },
+        "username": "uNaMd1qVsv86150",
+        "verified": false
+      }
+    ]
+  }
+}

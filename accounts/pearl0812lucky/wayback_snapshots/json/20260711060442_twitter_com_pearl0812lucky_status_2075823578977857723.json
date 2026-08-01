@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2075823578977857723",
+    "created_at": "2026-07-11T06:04:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T07:04:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075823578977857723"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075823578977857723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在我的记忆里，爸爸妈妈一直年轻，我曾疑惑、不解，为什么他们不像我一样老去，但是当他们回望我时眼神中满满的爱意时，我才明白，父母的年龄与我的不对等是命运给我的礼物。\n原来，我是一只小狗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2075823578977857723",
+        "created_at": "2026-07-11T06:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T07:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075823578977857723"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075823578977857723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在我的记忆里，爸爸妈妈一直年轻，我曾疑惑、不解，为什么他们不像我一样老去，但是当他们回望我时眼神中满满的爱意时，我才明白，父母的年龄与我的不对等是命运给我的礼物。\n原来，我是一只小狗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10532,
+          "following_count": 72,
+          "like_count": 8836,
+          "listed_count": 9,
+          "media_count": 192,
+          "tweet_count": 2064
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

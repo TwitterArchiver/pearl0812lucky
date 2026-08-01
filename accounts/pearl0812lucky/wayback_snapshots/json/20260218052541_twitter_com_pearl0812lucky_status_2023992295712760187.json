@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2023991694358966336",
+    "created_at": "2026-02-18T05:25:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T06:25:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023992295712760187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1719795378780782592",
+          "start": 0,
+          "username": "1Yesssss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023992295712760187",
+    "in_reply_to_user_id": "1719795378780782592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023991694358966336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1Yesssss 我也是 只能偶尔玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2023991694358966336",
+        "created_at": "2026-02-18T05:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T06:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023992295712760187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1719795378780782592",
+              "start": 0,
+              "username": "1Yesssss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023992295712760187",
+        "in_reply_to_user_id": "1719795378780782592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023991694358966336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1Yesssss 我也是 只能偶尔玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1719795378780782592",
+        "conversation_id": "2023991694358966336",
+        "created_at": "2026-02-18T05:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T06:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023991694358966336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pearl0812lucky…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/pearl0812lucky/status/2023938502057201747",
+              "start": 19,
+              "url": "https://t.co/aOORwGGCJm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023991694358966336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023938502057201747",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但是有人和我呆久了我又会很烦 sad https://t.co/aOORwGGCJm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2595,
+          "following_count": 50,
+          "like_count": 4320,
+          "listed_count": 3,
+          "media_count": 85,
+          "tweet_count": 988
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-01T19:15:53.000Z",
+        "description": "go away",
+        "id": "1719795378780782592",
+        "name": "Ciii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944400615888551936/LTSlQNvU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 114,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "1Yesssss",
+        "verified": false
+      }
+    ]
+  }
+}

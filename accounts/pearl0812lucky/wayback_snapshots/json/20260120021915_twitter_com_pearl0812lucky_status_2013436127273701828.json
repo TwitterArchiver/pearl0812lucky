@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2013436127273701828",
+    "created_at": "2026-01-20T02:19:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T03:19:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013436127273701828"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2013436127273701828",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "允许自己“不完美” \n不必强迫自己追求极致，接受自己有缺点、会犯错，偶尔偷懒、偶尔搞砸事情都没关系。完美主义只会带来无尽的内耗，而接纳不完美的自己，才能减少自我批判，让心态更松弛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2013436127273701828",
+        "created_at": "2026-01-20T02:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T03:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013436127273701828"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013436127273701828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "允许自己“不完美” \n不必强迫自己追求极致，接受自己有缺点、会犯错，偶尔偷懒、偶尔搞砸事情都没关系。完美主义只会带来无尽的内耗，而接纳不完美的自己，才能减少自我批判，让心态更松弛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹  我素女同性恋啦",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1101,
+          "following_count": 38,
+          "like_count": 2145,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 624
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2073738118885433456",
+    "created_at": "2026-07-05T11:57:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T12:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073738118885433456"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073738118885433456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "浅层的友谊其实很健康\n并不是生命中的每一个人 都必须成为那个与你生死与共 无话不谈的人\n有些朋友是一起健身的 有些是一起出去玩的 有些只是偶尔一起吐槽工作 抱怨官僚体制\n当你不再期待每个人都成为你的全部 失望反而会少很多\n真正深刻的对话和情感联结 留给生命中最亲近的两三个人 就已经很珍贵了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2073738118885433456",
+        "created_at": "2026-07-05T11:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073738118885433456"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073738118885433456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "浅层的友谊其实很健康\n并不是生命中的每一个人 都必须成为那个与你生死与共 无话不谈的人\n有些朋友是一起健身的 有些是一起出去玩的 有些只是偶尔一起吐槽工作 抱怨官僚体制\n当你不再期待每个人都成为你的全部 失望反而会少很多\n真正深刻的对话和情感联结 留给生命中最亲近的两三个人 就已经很珍贵了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10118,
+          "following_count": 71,
+          "like_count": 8720,
+          "listed_count": 8,
+          "media_count": 189,
+          "tweet_count": 2035
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

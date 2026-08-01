@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2042785280873369772",
+    "created_at": "2026-04-11T02:02:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T03:02:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042785280873369772"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042785280873369772",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你说到最尴尬的地方了。\n你们没有名分。不是恋人，所以不能说“分手”。不是普通朋友，所以不能说“绝交”。你们卡在中间，一个连名字都没有的关系里。有恋人的一切——暖昧、占有、依赖、争吵、和好、平淡——就是没有恋人的身份。所以连结束，都不知道该怎么开口。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2042785280873369772",
+        "created_at": "2026-04-11T02:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T03:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042785280873369772"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042785280873369772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你说到最尴尬的地方了。\n你们没有名分。不是恋人，所以不能说“分手”。不是普通朋友，所以不能说“绝交”。你们卡在中间，一个连名字都没有的关系里。有恋人的一切——暖昧、占有、依赖、争吵、和好、平淡——就是没有恋人的身份。所以连结束，都不知道该怎么开口。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5302,
+          "following_count": 54,
+          "like_count": 5617,
+          "listed_count": 4,
+          "media_count": 131,
+          "tweet_count": 1354
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

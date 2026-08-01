@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009085271464398851"
+      ]
+    },
+    "author_id": "1991711672684421121",
+    "conversation_id": "2009085280444391551",
+    "created_at": "2026-01-08T02:10:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T03:10:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009085280444391551"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gNHLJ4Pj3p",
+          "end": 129,
+          "expanded_url": "https://x.com/pearl0812lucky/status/2009085280444391551/photo/1",
+          "media_key": "3_2009085271464398851",
+          "start": 106,
+          "url": "https://t.co/gNHLJ4Pj3p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009085280444391551",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "深有感触，以前上学的时候，老师都会说“他家里是开厂的，你现在不好好读书和他一起混，以后人家毕业了家里能托举，你以后还要去给他打工么？离开了学校你们就不是一个阶级，除非你是更优秀的人，不然你们是不会一直玩下去的” https://t.co/gNHLJ4Pj3p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 436,
+        "media_key": "3_2009085271464398851",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-G0aOka0AMhpDQ.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009085271464398851"
+          ]
+        },
+        "author_id": "1991711672684421121",
+        "conversation_id": "2009085280444391551",
+        "created_at": "2026-01-08T02:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T03:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009085280444391551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gNHLJ4Pj3p",
+              "end": 129,
+              "expanded_url": "https://x.com/pearl0812lucky/status/2009085280444391551/photo/1",
+              "media_key": "3_2009085271464398851",
+              "start": 106,
+              "url": "https://t.co/gNHLJ4Pj3p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009085280444391551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "深有感触，以前上学的时候，老师都会说“他家里是开厂的，你现在不好好读书和他一起混，以后人家毕业了家里能托举，你以后还要去给他打工么？离开了学校你们就不是一个阶级，除非你是更优秀的人，不然你们是不会一直玩下去的” https://t.co/gNHLJ4Pj3p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎来到我的生活连续剧 不聊骚 女同性恋",
+        "name": "orange cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 28,
+          "like_count": 948,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 366
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

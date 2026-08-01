@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2061272607463502264",
+    "created_at": "2026-06-01T02:24:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T03:24:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061272607463502264"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061272607463502264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对于高考，我想说考完在成绩出之前尽快把能换的电子产品换了。假期也没有必要去打工，就享受好好玩就好了，因为在你未来的一生中打工的日子长着呢！考完就玩去吧，别挂那些什么最关键最关键的东西了，人生中再也不会有这么长的假期了，到了大学就是另一种痛苦了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2061272607463502264",
+        "created_at": "2026-06-01T02:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T03:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061272607463502264"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061272607463502264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对于高考，我想说考完在成绩出之前尽快把能换的电子产品换了。假期也没有必要去打工，就享受好好玩就好了，因为在你未来的一生中打工的日子长着呢！考完就玩去吧，别挂那些什么最关键最关键的东西了，人生中再也不会有这么长的假期了，到了大学就是另一种痛苦了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8449,
+          "following_count": 71,
+          "like_count": 7809,
+          "listed_count": 8,
+          "media_count": 166,
+          "tweet_count": 1853
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

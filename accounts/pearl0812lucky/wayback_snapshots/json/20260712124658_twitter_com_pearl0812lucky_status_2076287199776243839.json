@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2076287199776243839",
+    "created_at": "2026-07-12T12:46:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T13:46:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076287199776243839"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076287199776243839",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "被骂的万能回复\n1、小众操作不喜勿喷\n2、媳妇轻点骂\n3、美人嗔怒，爽哉爽哉\n4、多谢公公指点\n5、恨来恨去还是恨我不够爱你吧\n6、我现在在忙，你自己想开点吧\n7、你别生气，你别生气\n8、对不起队友，我是猪精，我已经很努力的在挥动我的猪蹄了，奈何我只有两个蹄子尽力了~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2076287199776243839",
+        "created_at": "2026-07-12T12:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076287199776243839"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076287199776243839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被骂的万能回复\n1、小众操作不喜勿喷\n2、媳妇轻点骂\n3、美人嗔怒，爽哉爽哉\n4、多谢公公指点\n5、恨来恨去还是恨我不够爱你吧\n6、我现在在忙，你自己想开点吧\n7、你别生气，你别生气\n8、对不起队友，我是猪精，我已经很努力的在挥动我的猪蹄了，奈何我只有两个蹄子尽力了~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10650,
+          "following_count": 72,
+          "like_count": 8866,
+          "listed_count": 10,
+          "media_count": 193,
+          "tweet_count": 2070
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

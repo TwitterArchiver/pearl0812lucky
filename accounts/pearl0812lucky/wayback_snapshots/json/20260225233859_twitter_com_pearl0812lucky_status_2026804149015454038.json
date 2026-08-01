@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2026804149015454038",
+    "created_at": "2026-02-25T23:38:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T00:38:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026804149015454038"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2026804149015454038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "都快22岁了 谈个恋爱还想搞纯爱还和小孩子一样无时无刻期待对方的消息 自己无论多忙也想和她说话 遇到喜欢的人看到什么就想给对方买 也是高敏感人群会内耗会想东想西老天爷在这个快餐时代像我们这样的人真的还能幸福吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2026804149015454038",
+        "created_at": "2026-02-25T23:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T00:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026804149015454038"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026804149015454038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "都快22岁了 谈个恋爱还想搞纯爱还和小孩子一样无时无刻期待对方的消息 自己无论多忙也想和她说话 遇到喜欢的人看到什么就想给对方买 也是高敏感人群会内耗会想东想西老天爷在这个快餐时代像我们这样的人真的还能幸福吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3099,
+          "following_count": 52,
+          "like_count": 4506,
+          "listed_count": 4,
+          "media_count": 96,
+          "tweet_count": 1034
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

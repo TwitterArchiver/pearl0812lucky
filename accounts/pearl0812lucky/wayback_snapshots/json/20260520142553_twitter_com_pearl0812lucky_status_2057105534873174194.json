@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2057105265686929845",
+    "created_at": "2026-05-20T14:25:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T15:25:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057105534873174194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1906009349975351296",
+          "start": 0,
+          "username": "xiaozhi110222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057105534873174194",
+    "in_reply_to_user_id": "1906009349975351296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057105265686929845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaozhi110222 保卫刘海！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2057105265686929845",
+        "created_at": "2026-05-20T14:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057105534873174194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1906009349975351296",
+              "start": 0,
+              "username": "xiaozhi110222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057105534873174194",
+        "in_reply_to_user_id": "1906009349975351296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057105265686929845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaozhi110222 保卫刘海！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906009349975351296",
+        "conversation_id": "2057105265686929845",
+        "created_at": "2026-05-20T14:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057105265686929845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pearl0812lucky…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/pearl0812lucky/status/2056922229569683767",
+              "start": 13,
+              "url": "https://t.co/MeL1Nr9aEP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057105265686929845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056922229569683767",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的刘海被吹飞真的会完蛋 https://t.co/MeL1Nr9aEP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7901,
+          "following_count": 67,
+          "like_count": 7362,
+          "listed_count": 8,
+          "media_count": 162,
+          "tweet_count": 1770
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-29T15:43:51.000Z",
+        "description": "如id所见",
+        "id": "1906009349975351296",
+        "name": "不想和人类打交道",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040438555072499714/EqC713-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 29,
+          "like_count": 711,
+          "listed_count": 3,
+          "media_count": 21,
+          "tweet_count": 211
+        },
+        "username": "xiaozhi110222",
+        "verified": false
+      }
+    ]
+  }
+}

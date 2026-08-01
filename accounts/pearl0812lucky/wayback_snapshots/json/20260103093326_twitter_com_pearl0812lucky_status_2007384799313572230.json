@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2007264393051148429",
+    "created_at": "2026-01-03T09:33:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T10:33:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007384799313572230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1994387456461062144",
+          "start": 0,
+          "username": "kswsrppkrx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007384799313572230",
+    "in_reply_to_user_id": "1994387456461062144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007344822332592314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kswsrppkrx 笑得想死 到底什么情况下需要擦屁股我真的想知道！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2007264393051148429",
+        "created_at": "2026-01-03T09:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T10:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007384799313572230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1994387456461062144",
+              "start": 0,
+              "username": "kswsrppkrx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007384799313572230",
+        "in_reply_to_user_id": "1994387456461062144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007344822332592314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kswsrppkrx 笑得想死 到底什么情况下需要擦屁股我真的想知道！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994387456461062144",
+        "conversation_id": "2007264393051148429",
+        "created_at": "2026-01-03T06:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T07:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007344822332592314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007344822332592314",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007264393051148429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 我一直在笑 就仗着我哥哥在里面没法申冤胡作非为吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "世界巨大，我以渺小来爱它",
+        "name": "orange cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 11,
+          "like_count": 434,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 197
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-28T12:46:49.000Z",
+        "description": "",
+        "id": "1994387456461062144",
+        "name": "Lepnos",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994458813962096647/YfzCzT2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 5,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "kswsrppkrx",
+        "verified": false
+      }
+    ]
+  }
+}

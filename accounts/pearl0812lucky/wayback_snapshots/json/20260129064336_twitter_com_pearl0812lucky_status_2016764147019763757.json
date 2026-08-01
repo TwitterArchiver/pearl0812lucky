@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2016764147019763757",
+    "created_at": "2026-01-29T06:43:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T07:43:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016764147019763757"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2016764147019763757",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "女生超级扣分的行为，快来看看自己中了几条：\n1.讨论函数性质不考虑定义域 \n2.立体几何建系不证明垂直 \n3.解析几何不考虑直线斜率不存在 \n4.求出数列通项后不验证n=1 \n5.定义新变量不考虑取值范围 \n6.概率题目不设事件 \n7.引用二级结论不加以证明"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2016764147019763757",
+        "created_at": "2026-01-29T06:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T07:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016764147019763757"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016764147019763757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女生超级扣分的行为，快来看看自己中了几条：\n1.讨论函数性质不考虑定义域 \n2.立体几何建系不证明垂直 \n3.解析几何不考虑直线斜率不存在 \n4.求出数列通项后不验证n=1 \n5.定义新变量不考虑取值范围 \n6.概率题目不设事件 \n7.引用二级结论不加以证明"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1521,
+          "following_count": 45,
+          "like_count": 3214,
+          "listed_count": 3,
+          "media_count": 65,
+          "tweet_count": 785
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

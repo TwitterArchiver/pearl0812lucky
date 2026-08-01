@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2015684601621209535",
+    "created_at": "2026-01-26T09:45:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T10:45:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015722739659948209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1974464495964803072",
+          "start": 0,
+          "username": "Maroon1553798"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015722739659948209",
+    "in_reply_to_user_id": "1974464495964803072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015701779237982689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maroon1553798 是的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2015684601621209535",
+        "created_at": "2026-01-26T09:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T10:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015722739659948209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1974464495964803072",
+              "start": 0,
+              "username": "Maroon1553798"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015722739659948209",
+        "in_reply_to_user_id": "1974464495964803072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015701779237982689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maroon1553798 是的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974464495964803072",
+        "conversation_id": "2015684601621209535",
+        "created_at": "2026-01-26T08:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T09:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015701779237982689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015701779237982689",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015684601621209535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 也有可能是自己遭遇过不好的情况时希望能够被这样对待和偏爱，才会在看到他人困难时伸出援手🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1477,
+          "following_count": 42,
+          "like_count": 2831,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 737
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T13:20:06.000Z",
+        "description": "\"Toda mi ambición es ser libre toda mi vida\"",
+        "id": "1974464495964803072",
+        "name": "Maroon🍒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015704541153599488/Zh7ratyB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 56,
+          "like_count": 705,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "username": "Maroon1553798",
+        "verified": false
+      }
+    ]
+  }
+}

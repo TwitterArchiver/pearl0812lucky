@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2075768579535032441",
+    "created_at": "2026-07-11T02:26:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T03:26:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075768579535032441"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075768579535032441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "爱应该有一种最基础的善意，叫做我不忍心看你陷入猜忌和恐慌里。哪怕我当下觉得自己并没有错，但在你的焦虑完全蔓延开来之前，我愿意陪你把这件事捋一捋，而不是用一句“你又来了”就把这件事情打发掉。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2075768579535032441",
+        "created_at": "2026-07-11T02:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T03:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075768579535032441"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075768579535032441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爱应该有一种最基础的善意，叫做我不忍心看你陷入猜忌和恐慌里。哪怕我当下觉得自己并没有错，但在你的焦虑完全蔓延开来之前，我愿意陪你把这件事捋一捋，而不是用一句“你又来了”就把这件事情打发掉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10515,
+          "following_count": 72,
+          "like_count": 8829,
+          "listed_count": 9,
+          "media_count": 192,
+          "tweet_count": 2063
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

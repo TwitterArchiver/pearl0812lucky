@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2043873265446465560",
+    "created_at": "2026-04-14T02:05:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T03:05:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043873265446465560"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043873265446465560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "当你和一个人聊得来 分享日常 天天聊天的话形成习惯和依赖 那你就要做好她会离开的准备人和人之间的缘分本就如履薄冰 想要和別人制造羁绊 就要承担掉眼泪的风险"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2043873265446465560",
+        "created_at": "2026-04-14T02:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T03:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043873265446465560"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043873265446465560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当你和一个人聊得来 分享日常 天天聊天的话形成习惯和依赖 那你就要做好她会离开的准备人和人之间的缘分本就如履薄冰 想要和別人制造羁绊 就要承担掉眼泪的风险"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5520,
+          "following_count": 54,
+          "like_count": 5759,
+          "listed_count": 3,
+          "media_count": 136,
+          "tweet_count": 1416
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

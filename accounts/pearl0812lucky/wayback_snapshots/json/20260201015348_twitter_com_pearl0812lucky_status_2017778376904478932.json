@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017778359116435458"
+      ]
+    },
+    "author_id": "1991711672684421121",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2017778376904478932",
+    "created_at": "2026-02-01T01:53:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T02:53:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017778376904478932"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DTU5AcNb5G",
+          "end": 43,
+          "expanded_url": "https://x.com/pearl0812lucky/status/2017778376904478932/photo/1",
+          "media_key": "3_2017778359116435458",
+          "start": 20,
+          "url": "https://t.co/DTU5AcNb5G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017778376904478932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哄我一下我就好了的，主动来找我我也好了 https://t.co/DTU5AcNb5G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1409,
+        "media_key": "3_2017778359116435458",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HACWuhqbEAItIJ5.jpg",
+        "width": 1094
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017778359116435458"
+          ]
+        },
+        "author_id": "1991711672684421121",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2017778376904478932",
+        "created_at": "2026-02-01T01:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T02:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017778376904478932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DTU5AcNb5G",
+              "end": 43,
+              "expanded_url": "https://x.com/pearl0812lucky/status/2017778376904478932/photo/1",
+              "media_key": "3_2017778359116435458",
+              "start": 20,
+              "url": "https://t.co/DTU5AcNb5G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017778376904478932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哄我一下我就好了的，主动来找我我也好了 https://t.co/DTU5AcNb5G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1733,
+          "following_count": 48,
+          "like_count": 3503,
+          "listed_count": 3,
+          "media_count": 70,
+          "tweet_count": 818
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

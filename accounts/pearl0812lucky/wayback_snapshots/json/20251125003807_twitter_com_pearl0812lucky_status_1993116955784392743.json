@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992879740269838336"
+      ],
+      "media_source_tweet_id": [
+        "1992879757109907741"
+      ]
+    },
+    "author_id": "1991711672684421121",
+    "conversation_id": "1993116955784392743",
+    "created_at": "2025-11-25T00:38:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T01:38:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993116955784392743"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 34,
+          "tag": "le"
+        },
+        {
+          "end": 42,
+          "start": 38,
+          "tag": "les"
+        },
+        {
+          "end": 47,
+          "start": 43,
+          "tag": "wlw"
+        },
+        {
+          "end": 53,
+          "start": 48,
+          "tag": "喜欢女的"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1731315135569076224",
+          "start": 3,
+          "username": "yixinyisansan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gmI1kdKEHl",
+          "end": 77,
+          "expanded_url": "https://x.com/yixinyisansan/status/1992879757109907741/photo/1",
+          "media_key": "3_1992879740269838336",
+          "start": 54,
+          "url": "https://t.co/gmI1kdKEHl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993116955784392743",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992879757109907741",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yixinyisansan: 香香饭一碗 宝宝们请食用🍽️\n#le #les #wlw #喜欢女的 https://t.co/gmI1kdKEHl"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1993116955784392743].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1993116955784392743",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1993116955784392743"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992879740269838336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ghkKbbQAAMM5u.jpg",
+        "width": 754
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992879740269838336"
+          ]
+        },
+        "author_id": "1731315135569076224",
+        "conversation_id": "1992879757109907741",
+        "created_at": "2025-11-24T08:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T09:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992879757109907741"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "le"
+            },
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "les"
+            },
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "wlw"
+            },
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "喜欢女的"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gmI1kdKEHl",
+              "end": 58,
+              "expanded_url": "https://x.com/yixinyisansan/status/1992879757109907741/photo/1",
+              "media_key": "3_1992879740269838336",
+              "start": 35,
+              "url": "https://t.co/gmI1kdKEHl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992879757109907741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1889,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "香香饭一碗 宝宝们请食用🍽️\n#le #les #wlw #喜欢女的 https://t.co/gmI1kdKEHl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "",
+        "id": "1991711672684421121",
+        "name": "橘子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991711826652893184/uMUi2WWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-03T14:11:15.000Z",
+        "description": "欢迎小女孩阅读kitty的日记",
+        "id": "1731315135569076224",
+        "location": "这是我的日记本  只喜欢女孩 男的勿扰",
+        "name": "kittyovo",
+        "pinned_tweet_id": "1965600835515371927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523554405580800/evr7d1_K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 221,
+          "like_count": 7569,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1667
+        },
+        "username": "yixinyisansan",
+        "verified": false
+      }
+    ]
+  }
+}

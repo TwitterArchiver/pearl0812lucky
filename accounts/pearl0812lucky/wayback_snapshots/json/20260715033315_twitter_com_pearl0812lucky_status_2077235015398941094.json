@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2077235015398941094",
+    "created_at": "2026-07-15T03:33:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T04:33:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077235015398941094"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2077235015398941094",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你半路丢下她 然后让她回归正常好好生活 告诉她长痛不如短痛 对她才公平 祝她幸福 说她适合更好的就像一把刀捅进她的心脏然后叫她好好的生活 你权衡利弊之后唯独没有考虑过她的感受 人和人之间久了不只是爱还有依赖 分开了不仅是痛还有不舍比起你不爱我 我更恨你都这样了我还会为你难过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2077235015398941094",
+        "created_at": "2026-07-15T03:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T04:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077235015398941094"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077235015398941094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你半路丢下她 然后让她回归正常好好生活 告诉她长痛不如短痛 对她才公平 祝她幸福 说她适合更好的就像一把刀捅进她的心脏然后叫她好好的生活 你权衡利弊之后唯独没有考虑过她的感受 人和人之间久了不只是爱还有依赖 分开了不仅是痛还有不舍比起你不爱我 我更恨你都这样了我还会为你难过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10884,
+          "following_count": 73,
+          "like_count": 8919,
+          "listed_count": 10,
+          "media_count": 196,
+          "tweet_count": 2086
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

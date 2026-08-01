@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2016189119898988905",
+    "created_at": "2026-01-28T02:05:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T03:05:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016331702285787554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1618639105944084482",
+          "start": 0,
+          "username": "OTATO_11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016331702285787554",
+    "in_reply_to_user_id": "1618639105944084482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016189119898988905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OTATO_11 逐帧学习绝对的浪漫主义语录"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 489,
+        "media_key": "3_2016189116690345986",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_rxUcRWMAIz6gj.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2016189119898988905",
+        "created_at": "2026-01-28T02:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T03:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016331702285787554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1618639105944084482",
+              "start": 0,
+              "username": "OTATO_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016331702285787554",
+        "in_reply_to_user_id": "1618639105944084482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016189119898988905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OTATO_11 逐帧学习绝对的浪漫主义语录"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016189116690345986"
+          ]
+        },
+        "author_id": "1618639105944084482",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2016189119898988905",
+        "created_at": "2026-01-27T16:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T17:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016189119898988905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dZ0gSKljtH",
+              "end": 23,
+              "expanded_url": "https://x.com/OTATO_11/status/2016189119898988905/photo/1",
+              "media_key": "3_2016189116690345986",
+              "start": 0,
+              "url": "https://t.co/dZ0gSKljtH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016189119898988905",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 271,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dZ0gSKljtH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1515,
+          "following_count": 45,
+          "like_count": 3070,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 768
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T15:57:12.000Z",
+        "description": "我的功能就是保护你",
+        "id": "1618639105944084482",
+        "location": "Why do we only have one chance",
+        "name": "最近睡眠好吗",
+        "pinned_tweet_id": "2013599850986709343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013899499836506113/NwXSWA4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 50,
+          "like_count": 245,
+          "listed_count": 0,
+          "media_count": 432,
+          "tweet_count": 2768
+        },
+        "username": "OTATO_11",
+        "verified": false
+      }
+    ]
+  }
+}

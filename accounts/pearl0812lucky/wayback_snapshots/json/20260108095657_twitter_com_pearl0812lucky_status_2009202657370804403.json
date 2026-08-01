@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2009164576932417967",
+    "created_at": "2026-01-08T09:56:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T10:56:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009202657370804403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2004844517263114241",
+          "start": 0,
+          "username": "qwqcoii1214"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009202657370804403",
+    "in_reply_to_user_id": "2004844517263114241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009202477854560380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwqcoii1214 我们想笑的时候不说囧架架囧架架 我们说……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2009164576932417967",
+        "created_at": "2026-01-08T09:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T10:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009202657370804403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004844517263114241",
+              "start": 0,
+              "username": "qwqcoii1214"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009202657370804403",
+        "in_reply_to_user_id": "2004844517263114241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009202477854560380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwqcoii1214 我们想笑的时候不说囧架架囧架架 我们说……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004844517263114241",
+        "conversation_id": "2009164576932417967",
+        "created_at": "2026-01-08T09:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T10:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009202477854560380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009202477854560380",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009164576932417967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 笑的我囧架架囧架架"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地 （有些就是我复制下来方便以后用的文案 不是本人想的！无意义）",
+        "id": "1991711672684421121",
+        "location": "欢迎来看我的文案收藏夹 我不聊骚！我素女同性恋",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009154002546774061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 34,
+          "like_count": 1132,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 417
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T09:19:32.000Z",
+        "description": "jojo/进巨狂热迷欢迎同好戳戳ww～会发少量炫压抑和大量悲催的读研生活。",
+        "id": "2004844517263114241",
+        "name": "记忆结成冰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007376051064950784/dPzpnXXd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 76,
+          "like_count": 1004,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 282
+        },
+        "username": "qwqcoii1214",
+        "verified": false
+      }
+    ]
+  }
+}

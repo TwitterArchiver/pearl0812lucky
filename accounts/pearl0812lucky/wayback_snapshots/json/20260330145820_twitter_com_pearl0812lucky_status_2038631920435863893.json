@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2038631920435863893",
+    "created_at": "2026-03-30T14:58:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T15:58:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038631920435863893"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038631920435863893",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁发明的觉得眼睛漂亮这个概念。\n和觉得其他地方漂亮不一样，觉得对方眼睛漂亮的时候，绝对已经觉得对方的灵魂也漂亮得要死了，那个装载着灵魂、情感和思考的容器，说着喜欢眼睛的同时，也因为和对方内心对视而感到心跳不已了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2038631920435863893",
+        "created_at": "2026-03-30T14:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T15:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038631920435863893"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038631920435863893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁发明的觉得眼睛漂亮这个概念。\n和觉得其他地方漂亮不一样，觉得对方眼睛漂亮的时候，绝对已经觉得对方的灵魂也漂亮得要死了，那个装载着灵魂、情感和思考的容器，说着喜欢眼睛的同时，也因为和对方内心对视而感到心跳不已了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4620,
+          "following_count": 53,
+          "like_count": 5328,
+          "listed_count": 6,
+          "media_count": 124,
+          "tweet_count": 1233
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

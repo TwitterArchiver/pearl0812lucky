@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2061997393273626989",
+    "created_at": "2026-06-03T02:25:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T03:25:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061997610211447142"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061997610211447142",
+    "in_reply_to_user_id": "1991711672684421121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061997586568093889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "16.大学网课不行就找代刷，但是要手工慢刷的，不然成绩要被清退\n17.考完了赶紧去旅游！赶紧去赶紧去赶紧去\n18.山东考生高考完了别放松，买本行测申论\n19.考完别去打暑假工 把工作留给大学生  你们还小 以后有的是班上\n20.别紧张，高考而已，考上好学校也不一定能混出头，找到自己想做的就行。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2061997393273626989",
+        "created_at": "2026-06-03T02:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T03:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061997610211447142"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061997610211447142",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061997586568093889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "16.大学网课不行就找代刷，但是要手工慢刷的，不然成绩要被清退\n17.考完了赶紧去旅游！赶紧去赶紧去赶紧去\n18.山东考生高考完了别放松，买本行测申论\n19.考完别去打暑假工 把工作留给大学生  你们还小 以后有的是班上\n20.别紧张，高考而已，考上好学校也不一定能混出头，找到自己想做的就行。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2061997393273626989",
+        "created_at": "2026-06-03T02:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T03:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061997586568093889"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061997586568093889",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061997526639923357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "12.男生考完，去b站自学一下，c盘清理，内存分区，上大学在校园墙接c盘清理软件安装环境配置，包赚钱的\n13.高中的名牌别扔 因为大学超过9.9真买不起\n14.室友一定要找消费水平一致的   不然35度都不让你开空调\n15.考完就表白，失败了也没关系，反正你们八百年不会见面了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8635,
+          "following_count": 71,
+          "like_count": 7880,
+          "listed_count": 8,
+          "media_count": 171,
+          "tweet_count": 1872
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

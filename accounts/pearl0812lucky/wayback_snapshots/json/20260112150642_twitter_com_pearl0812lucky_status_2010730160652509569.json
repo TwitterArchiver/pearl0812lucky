@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2010730160652509569",
+    "created_at": "2026-01-12T15:06:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T16:06:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010730160652509569"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2010730160652509569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我一定要住明亮宽大的房子，穿漂亮的衣服，拥有一颗聪明豁达的脑子。\n我一定会有一份稳定的工作，一定会经济独立，买一间属于自己的家，不再被任何人左右。\n我永远会有向前的勇气，我一定要收割幸福，也相信我可以获得幸福，获得我想要的幸福！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2010730160652509569",
+        "created_at": "2026-01-12T15:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T16:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010730160652509569"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010730160652509569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一定要住明亮宽大的房子，穿漂亮的衣服，拥有一颗聪明豁达的脑子。\n我一定会有一份稳定的工作，一定会经济独立，买一间属于自己的家，不再被任何人左右。\n我永远会有向前的勇气，我一定要收割幸福，也相信我可以获得幸福，获得我想要的幸福！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹  我素女同性恋啦",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 36,
+          "like_count": 1763,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 529
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

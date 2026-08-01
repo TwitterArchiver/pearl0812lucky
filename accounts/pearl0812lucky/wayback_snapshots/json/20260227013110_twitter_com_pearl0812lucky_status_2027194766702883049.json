@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2027194766702883049",
+    "created_at": "2026-02-27T01:31:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T02:31:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027194766702883049"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027194766702883049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你不需要为这些小事感到抱歉\n1.拒绝了别人的请求\n2.减肥期间，忍不住吃了炸鸡\n3.付款时，发现物品太贵决定不要\n4.素颜出门不想化妆\n5.为自己花了一笔“不必要”的钱\n6.不想考证提升自己，只想安于现状\n7.没有接别人的话茬\n8.忍不住在公共场合哭泣\n9.晚上的碗留到第二天再洗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2027194766702883049",
+        "created_at": "2026-02-27T01:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T02:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027194766702883049"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027194766702883049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你不需要为这些小事感到抱歉\n1.拒绝了别人的请求\n2.减肥期间，忍不住吃了炸鸡\n3.付款时，发现物品太贵决定不要\n4.素颜出门不想化妆\n5.为自己花了一笔“不必要”的钱\n6.不想考证提升自己，只想安于现状\n7.没有接别人的话茬\n8.忍不住在公共场合哭泣\n9.晚上的碗留到第二天再洗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3259,
+          "following_count": 51,
+          "like_count": 4625,
+          "listed_count": 4,
+          "media_count": 99,
+          "tweet_count": 1052
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

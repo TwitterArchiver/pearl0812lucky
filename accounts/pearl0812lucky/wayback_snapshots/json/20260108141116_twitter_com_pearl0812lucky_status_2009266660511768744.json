@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2009265697960931736",
+    "created_at": "2026-01-08T14:11:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T15:11:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009266660511768744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1883161469065564160",
+          "start": 0,
+          "username": "_y2kid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009266660511768744",
+    "in_reply_to_user_id": "1883161469065564160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009265697960931736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_y2kid 麦田怪圈也被打假惹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2009265697960931736",
+        "created_at": "2026-01-08T14:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T15:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009266660511768744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1883161469065564160",
+              "start": 0,
+              "username": "_y2kid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009266660511768744",
+        "in_reply_to_user_id": "1883161469065564160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009265697960931736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_y2kid 麦田怪圈也被打假惹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883161469065564160",
+        "conversation_id": "2009265697960931736",
+        "created_at": "2026-01-08T14:07:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T15:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009265697960931736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pearl0812lucky…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/pearl0812lucky/status/2009156123174293690",
+              "start": 53,
+              "url": "https://t.co/PUNUPp13w3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009265697960931736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009156123174293690",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜马拉雅山的野人，蝙蝠孩，麦田怪圈，泰坦尼克号上的木乃伊和蓝色希望钻石…简直了。\n简直是童年回忆兼阴影。 https://t.co/PUNUPp13w3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地 （有些就是我复制下来方便以后用的文案 不是本人想的！无意义）",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 我不聊骚！我素女同性恋",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009154002546774061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 37,
+          "like_count": 1232,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 455
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T14:34:28.000Z",
+        "description": "欲望 焦虑 灰色地带 快乐 ଈ",
+        "id": "1883161469065564160",
+        "location": "Japan",
+        "name": "いも",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008108757272895488/gieSYx22_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 34,
+          "like_count": 1824,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 1929
+        },
+        "username": "_y2kid",
+        "verified": false
+      }
+    ]
+  }
+}

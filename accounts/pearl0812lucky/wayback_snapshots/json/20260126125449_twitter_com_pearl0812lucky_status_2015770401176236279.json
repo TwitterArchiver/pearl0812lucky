@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2015767775013433781",
+    "created_at": "2026-01-26T12:54:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T13:54:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015770401176236279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1967067951594696719",
+          "start": 0,
+          "username": "Shanzhu77077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015770401176236279",
+    "in_reply_to_user_id": "1967067951594696719",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015769591293919697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shanzhu77077 啊啊啊啊啊啊啊啊啊啊啊！其实or2也可以是腰窝里有一颗冰块在滑动"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2015767775013433781",
+        "created_at": "2026-01-26T12:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T13:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015770401176236279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1967067951594696719",
+              "start": 0,
+              "username": "Shanzhu77077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015770401176236279",
+        "in_reply_to_user_id": "1967067951594696719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015769591293919697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shanzhu77077 啊啊啊啊啊啊啊啊啊啊啊！其实or2也可以是腰窝里有一颗冰块在滑动"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967067951594696719",
+        "conversation_id": "2015767775013433781",
+        "created_at": "2026-01-26T12:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T13:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015769591293919697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015769591293919697",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015767775013433781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky or2是跪下但屁股翘的可以顶起一瓶汽水"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1485,
+          "following_count": 44,
+          "like_count": 2912,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 746
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-14T03:28:53.000Z",
+        "description": "理论知识大王  @shannzhuu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "shannzhuu"
+              }
+            ]
+          }
+        },
+        "id": "1967067951594696719",
+        "name": "南瓜包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982480397033156609/V-8lCJCA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 148,
+          "like_count": 8964,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 2387
+        },
+        "username": "Shanzhu77077",
+        "verified": false
+      }
+    ]
+  }
+}

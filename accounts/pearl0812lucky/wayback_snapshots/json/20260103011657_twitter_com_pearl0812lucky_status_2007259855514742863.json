@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006927404850352128"
+      ],
+      "media_source_tweet_id": [
+        "2006927416346947989"
+      ]
+    },
+    "author_id": "1991711672684421121",
+    "conversation_id": "2007259855514742863",
+    "created_at": "2026-01-03T01:16:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T02:16:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007259855514742863"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 33,
+          "tag": "le"
+        },
+        {
+          "end": 41,
+          "start": 37,
+          "tag": "les"
+        },
+        {
+          "end": 46,
+          "start": 42,
+          "tag": "wlw"
+        },
+        {
+          "end": 52,
+          "start": 47,
+          "tag": "女同性戀"
+        },
+        {
+          "end": 57,
+          "start": 54,
+          "tag": "百合"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1731315135569076224",
+          "start": 3,
+          "username": "yixinyisansan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eI4nLN5ulq",
+          "end": 81,
+          "expanded_url": "https://x.com/yixinyisansan/status/2006927416346947989/photo/1",
+          "media_key": "3_2006927404850352128",
+          "start": 58,
+          "url": "https://t.co/eI4nLN5ulq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007259855514742863",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006927416346947989",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yixinyisansan: 伪骨科 姐1妹0 劲爆百合 #le #les #wlw #女同性戀  #百合 https://t.co/eI4nLN5ulq"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2007259855514742863].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2007259855514742863",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2007259855514742863"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2006927404850352128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9oJ13AaEAAwRoT.jpg",
+        "width": 404
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006927404850352128"
+          ]
+        },
+        "author_id": "1731315135569076224",
+        "conversation_id": "2006927416346947989",
+        "created_at": "2026-01-02T03:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T04:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006927416346947989"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "le"
+            },
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "les"
+            },
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "wlw"
+            },
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "女同性戀"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "百合"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eI4nLN5ulq",
+              "end": 62,
+              "expanded_url": "https://x.com/yixinyisansan/status/2006927416346947989/photo/1",
+              "media_key": "3_2006927404850352128",
+              "start": 39,
+              "url": "https://t.co/eI4nLN5ulq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006927416346947989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 17529,
+          "like_count": 401,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "伪骨科 姐1妹0 劲爆百合 #le #les #wlw #女同性戀  #百合 https://t.co/eI4nLN5ulq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "世界巨大，我以渺小来爱它",
+        "name": "orange cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 10,
+          "like_count": 423,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 195
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-03T14:11:15.000Z",
+        "description": "欢迎小女孩阅读kitty的日记",
+        "id": "1731315135569076224",
+        "location": "这是我的日记本  只喜欢小女孩～",
+        "name": "kittyovo",
+        "pinned_tweet_id": "1965600835515371927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004224801175724032/DbVT94GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2288,
+          "following_count": 199,
+          "like_count": 14279,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 3164
+        },
+        "username": "yixinyisansan",
+        "verified": false
+      }
+    ]
+  }
+}

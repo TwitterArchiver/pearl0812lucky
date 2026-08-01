@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2027547557661184230",
+    "created_at": "2026-02-28T00:55:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T01:55:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027548169752764828"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027548169752764828",
+    "in_reply_to_user_id": "1991711672684421121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027548015335248350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这么关心我吗？那你借我20万吧\n你这个人真的很没有文化\n不借，不想借\n你冒犯到我了\n你在浪费我的时间\n我不需要\n别装了，你什么人我很清楚\n当然不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2027547557661184230",
+        "created_at": "2026-02-28T00:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T01:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027548169752764828"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027548169752764828",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027548015335248350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这么关心我吗？那你借我20万吧\n你这个人真的很没有文化\n不借，不想借\n你冒犯到我了\n你在浪费我的时间\n我不需要\n别装了，你什么人我很清楚\n当然不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2027547557661184230",
+        "created_at": "2026-02-28T00:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T01:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027548015335248350"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027548015335248350",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027547557661184230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要装傻了，我说的就是你\n你这个人很不善良\n有你什么事吗\n请你不要插队\n别装了我看着都累\n这是你自己的事，跟我没有关系\n你太虚伪了，可以真诚一点吗\n这是我自己的事\n我是真的不喜欢你\n不用了没有必要\n不要再打扰我了\n难怪别人都那样说你\n你知道就好\n没胆子直说就憋着，少在那阴阳怪气\n我替你觉得丢人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3622,
+          "following_count": 51,
+          "like_count": 4698,
+          "listed_count": 4,
+          "media_count": 98,
+          "tweet_count": 1060
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

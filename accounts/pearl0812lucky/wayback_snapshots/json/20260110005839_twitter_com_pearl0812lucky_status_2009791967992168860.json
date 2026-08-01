@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2009791967992168860",
+    "created_at": "2026-01-10T00:58:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T01:58:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009791967992168860"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2009791967992168860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又跟谁聊了？你怎么老是这样，你到底有没有想过我的感受？你跟别人聊天的时候有想过我吗？你难道不知道我一直在等你吗？我早就知道你会这样，都是你把我逼成了这样。我好恨你，但我又最爱你了。你到底想让我怎么样？可以不可以不要跟别人聊天了，多在乎我一点吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2009791967992168860",
+        "created_at": "2026-01-10T00:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T01:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009791967992168860"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009791967992168860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又跟谁聊了？你怎么老是这样，你到底有没有想过我的感受？你跟别人聊天的时候有想过我吗？你难道不知道我一直在等你吗？我早就知道你会这样，都是你把我逼成了这样。我好恨你，但我又最爱你了。你到底想让我怎么样？可以不可以不要跟别人聊天了，多在乎我一点吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地 （有些就是我复制下来方便以后用的文案 不是本人想的！无意义）",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 我不聊骚！我素女同性恋",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 40,
+          "like_count": 1576,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 528
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

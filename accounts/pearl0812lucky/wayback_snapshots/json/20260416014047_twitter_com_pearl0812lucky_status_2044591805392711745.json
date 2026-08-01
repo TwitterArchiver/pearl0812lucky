@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2044334066233999602",
+    "created_at": "2026-04-16T01:40:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T02:40:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044591805392711745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1568550705606049797",
+          "start": 0,
+          "username": "Mahya_HB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044591805392711745",
+    "in_reply_to_user_id": "1568550705606049797",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044590704308220011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mahya_HB 可以之"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2044334066233999602",
+        "created_at": "2026-04-16T01:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044591805392711745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1568550705606049797",
+              "start": 0,
+              "username": "Mahya_HB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044591805392711745",
+        "in_reply_to_user_id": "1568550705606049797",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044590704308220011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mahya_HB 可以之"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568550705606049797",
+        "conversation_id": "2044334066233999602",
+        "created_at": "2026-04-16T01:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044590704308220011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044590704308220011",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044334066233999602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 文案可以复制吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5606,
+          "following_count": 58,
+          "like_count": 5852,
+          "listed_count": 3,
+          "media_count": 138,
+          "tweet_count": 1440
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-10T10:43:46.000Z",
+        "description": "一个无趣的人\n\nhttps://t.co/JoVTbYxx9C",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mahya_hb1",
+                "end": 31,
+                "expanded_url": "https://ngl.link/mahya_hb1",
+                "start": 8,
+                "url": "https://t.co/JoVTbYxx9C"
+              }
+            ]
+          }
+        },
+        "id": "1568550705606049797",
+        "location": "Tokyo",
+        "name": "奇怪枕头",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065752686346240/J61r5RWy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 11,
+          "like_count": 280,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 252
+        },
+        "username": "Mahya_HB",
+        "verified": false
+      }
+    ]
+  }
+}

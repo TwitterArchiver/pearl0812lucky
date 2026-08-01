@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "1999442673133117495",
+    "created_at": "2025-12-12T11:34:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T12:34:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999442673133117495"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 121,
+          "start": 118,
+          "tag": "le"
+        },
+        {
+          "end": 126,
+          "start": 122,
+          "tag": "wlw"
+        },
+        {
+          "end": 132,
+          "start": 127,
+          "tag": "喜欢女的"
+        },
+        {
+          "end": 137,
+          "start": 133,
+          "tag": "les"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1731315135569076224",
+          "start": 3,
+          "username": "yixinyisansan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999442673133117495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999435708059295749",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yixinyisansan: 宝宝 为什么昨天晚上说了晚安还没有挂电话 以为我睡着了是么 \n电话那端是你玩玩具的黏腻抽插声 还有即使捂着嘴还是从指缝中泄露的嘤咛 我怎么睡的着 \n乖乖的 下次直接把遥控链接发给我 我会帮助你的 \n#le #wlw #喜欢女的 #les"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "1999442673133117495",
+        "created_at": "2025-12-12T11:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T12:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999442673133117495"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "le"
+            },
+            {
+              "end": 126,
+              "start": 122,
+              "tag": "wlw"
+            },
+            {
+              "end": 132,
+              "start": 127,
+              "tag": "喜欢女的"
+            },
+            {
+              "end": 137,
+              "start": 133,
+              "tag": "les"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1731315135569076224",
+              "start": 3,
+              "username": "yixinyisansan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999442673133117495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999435708059295749",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yixinyisansan: 宝宝 为什么昨天晚上说了晚安还没有挂电话 以为我睡着了是么 \n电话那端是你玩玩具的黏腻抽插声 还有即使捂着嘴还是从指缝中泄露的嘤咛 我怎么睡的着 \n乖乖的 下次直接把遥控链接发给我 我会帮助你的 \n#le #wlw #喜欢女的 #les"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731315135569076224",
+        "conversation_id": "1999435708059295749",
+        "created_at": "2025-12-12T11:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T12:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999435708059295749"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "le"
+            },
+            {
+              "end": 107,
+              "start": 103,
+              "tag": "wlw"
+            },
+            {
+              "end": 113,
+              "start": 108,
+              "tag": "喜欢女的"
+            },
+            {
+              "end": 118,
+              "start": 114,
+              "tag": "les"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999435708059295749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 42,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝 为什么昨天晚上说了晚安还没有挂电话 以为我睡着了是么 \n电话那端是你玩玩具的黏腻抽插声 还有即使捂着嘴还是从指缝中泄露的嘤咛 我怎么睡的着 \n乖乖的 下次直接把遥控链接发给我 我会帮助你的 \n#le #wlw #喜欢女的 #les"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "👭",
+        "id": "1991711672684421121",
+        "name": "橘子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997895340184530944/9ore7GRm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 14,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 15
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-03T14:11:15.000Z",
+        "description": "欢迎小女孩阅读kitty的日记",
+        "id": "1731315135569076224",
+        "location": "这是我的日记本  只喜欢女孩 男的勿扰",
+        "name": "kittyovo",
+        "pinned_tweet_id": "1965600835515371927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997511464547201024/4fTQgm4__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1572,
+          "following_count": 236,
+          "like_count": 10907,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 2819
+        },
+        "username": "yixinyisansan",
+        "verified": false
+      }
+    ]
+  }
+}

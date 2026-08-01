@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2048713504576999461",
+    "created_at": "2026-04-27T14:43:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T15:43:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048775024472199670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1890279111173763075",
+          "start": 0,
+          "username": "NidouKi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048775024472199670",
+    "in_reply_to_user_id": "1890279111173763075",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048772976447983929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NidouKi 啊哈哈哈哈哈哈哈哈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1941,
+        "media_key": "3_2048772957892435968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG60Jnya4AAy6kD.jpg",
+        "width": 861
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2048713504576999461",
+        "created_at": "2026-04-27T14:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048775024472199670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1890279111173763075",
+              "start": 0,
+              "username": "NidouKi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048775024472199670",
+        "in_reply_to_user_id": "1890279111173763075",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048772976447983929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NidouKi 啊哈哈哈哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048772957892435968"
+          ]
+        },
+        "author_id": "1890279111173763075",
+        "conversation_id": "2048713504576999461",
+        "created_at": "2026-04-27T14:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048772976447983929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7cxVDAckJy",
+              "end": 39,
+              "expanded_url": "https://x.com/NidouKi/status/2048772976447983929/photo/1",
+              "media_key": "3_2048772957892435968",
+              "start": 16,
+              "url": "https://t.co/7cxVDAckJy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048772976447983929",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048713504576999461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky https://t.co/7cxVDAckJy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6267,
+          "following_count": 58,
+          "like_count": 6376,
+          "listed_count": 5,
+          "media_count": 146,
+          "tweet_count": 1559
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-14T05:57:34.000Z",
+        "description": "写给90岁的自己看。",
+        "id": "1890279111173763075",
+        "name": "玉兰花tattoo",
+        "pinned_tweet_id": "1909568802846917008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044473976865624068/YNY9-B1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 10,
+          "like_count": 738,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 112
+        },
+        "username": "NidouKi",
+        "verified": false
+      }
+    ]
+  }
+}

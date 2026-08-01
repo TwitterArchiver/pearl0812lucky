@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2036710288842748144",
+    "created_at": "2026-03-25T07:48:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T08:48:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036711750067011987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1262271478180966402",
+          "start": 0,
+          "username": "dWdsgbp5LExOSXP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036711750067011987",
+    "in_reply_to_user_id": "1262271478180966402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036711348865020120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dWdsgbp5LExOSXP 让让我们(╥﹏╥)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2036710288842748144",
+        "created_at": "2026-03-25T07:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T08:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036711750067011987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1262271478180966402",
+              "start": 0,
+              "username": "dWdsgbp5LExOSXP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036711750067011987",
+        "in_reply_to_user_id": "1262271478180966402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036711348865020120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dWdsgbp5LExOSXP 让让我们(╥﹏╥)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1262271478180966402",
+        "conversation_id": "2036710288842748144",
+        "created_at": "2026-03-25T07:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T08:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036711348865020120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036711348865020120",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036710288842748144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 让让我们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4510,
+          "following_count": 53,
+          "like_count": 5252,
+          "listed_count": 6,
+          "media_count": 120,
+          "tweet_count": 1205
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-18T06:39:14.000Z",
+        "description": "普通知识传播者\n~欢迎和我说everything~\n咨询、占卜、风水、家居",
+        "id": "1262271478180966402",
+        "name": "冉阿不让是ZOE呐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1615673774191398912/T926b43O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 124,
+          "like_count": 12443,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1193
+        },
+        "username": "dWdsgbp5LExOSXP",
+        "verified": false
+      }
+    ]
+  }
+}

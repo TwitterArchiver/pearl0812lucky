@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2049503042878505084",
+    "created_at": "2026-04-29T14:58:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T15:58:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049503546253676812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2035622287471206400",
+          "start": 0,
+          "username": "llin9xfj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049503546253676812",
+    "in_reply_to_user_id": "2035622287471206400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049503042878505084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@llin9xfj 我就要保持矫情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2049503042878505084",
+        "created_at": "2026-04-29T14:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049503546253676812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2035622287471206400",
+              "start": 0,
+              "username": "llin9xfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049503546253676812",
+        "in_reply_to_user_id": "2035622287471206400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049503042878505084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@llin9xfj 我就要保持矫情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035622287471206400",
+        "conversation_id": "2049503042878505084",
+        "created_at": "2026-04-29T14:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049503042878505084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pearl0812lucky…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/pearl0812lucky/status/2049304082612191518",
+              "start": 24,
+              "url": "https://t.co/UyD84nTKGN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049503042878505084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049304082612191518",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就像我朋友说我矫情，矫情这个词本身就高高在上的 https://t.co/UyD84nTKGN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6421,
+          "following_count": 60,
+          "like_count": 6572,
+          "listed_count": 6,
+          "media_count": 148,
+          "tweet_count": 1588
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-22T07:39:39.000Z",
+        "description": "",
+        "id": "2035622287471206400",
+        "name": "llin",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 24,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 33
+        },
+        "username": "llin9xfj",
+        "verified": false
+      }
+    ]
+  }
+}

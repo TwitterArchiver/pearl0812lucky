@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2065093371925033061",
+    "created_at": "2026-06-12T08:27:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T09:27:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065350242644746704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "739429484500123648",
+          "start": 0,
+          "username": "catboneAs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065350242644746704",
+    "in_reply_to_user_id": "739429484500123648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065318396716327394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@catboneAs 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2065093371925033061",
+        "created_at": "2026-06-12T08:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T09:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065350242644746704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "739429484500123648",
+              "start": 0,
+              "username": "catboneAs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065350242644746704",
+        "in_reply_to_user_id": "739429484500123648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065318396716327394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catboneAs 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "739429484500123648",
+        "conversation_id": "2065093371925033061",
+        "created_at": "2026-06-12T06:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065318396716327394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065318396716327394",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065093371925033061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 喜欢钱是因为穷吗（x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8923,
+          "following_count": 73,
+          "like_count": 8304,
+          "listed_count": 7,
+          "media_count": 176,
+          "tweet_count": 1928
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-05T12:11:42.000Z",
+        "description": "⭐二次元\\人外控\\无性恋\\主机游戏玩家\\动漫漫画爱好者\\画手\\学计算机\\最喜欢数学\\随意更新日常\\精神状况不稳定",
+        "id": "739429484500123648",
+        "location": "Sydney, New South Wales",
+        "name": "K",
+        "pinned_tweet_id": "1994048452121260354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1689931569304346624/QdjAoLyr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 251,
+          "like_count": 4456,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 1938
+        },
+        "username": "catboneAs",
+        "verified": false
+      }
+    ]
+  }
+}

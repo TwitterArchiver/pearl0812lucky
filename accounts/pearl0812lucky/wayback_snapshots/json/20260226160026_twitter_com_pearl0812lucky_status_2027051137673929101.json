@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2026474841747107861",
+    "created_at": "2026-02-26T16:00:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T17:00:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027051137673929101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1379865846185553921",
+          "start": 0,
+          "username": "CN_PolarBear"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027051137673929101",
+    "in_reply_to_user_id": "1379865846185553921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026816549173211483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CN_PolarBear 你这个好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026816543372476416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCCy6FyaAAATEAZ.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2026474841747107861",
+        "created_at": "2026-02-26T16:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T17:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027051137673929101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1379865846185553921",
+              "start": 0,
+              "username": "CN_PolarBear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027051137673929101",
+        "in_reply_to_user_id": "1379865846185553921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026816549173211483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CN_PolarBear 你这个好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026816543372476416"
+          ]
+        },
+        "author_id": "1379865846185553921",
+        "conversation_id": "2026474841747107861",
+        "created_at": "2026-02-26T00:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T01:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026816549173211483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DcvFA0AJVZ",
+              "end": 58,
+              "expanded_url": "https://x.com/CN_PolarBear/status/2026816549173211483/photo/1",
+              "media_key": "3_2026816543372476416",
+              "start": 35,
+              "url": "https://t.co/DcvFA0AJVZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026816549173211483",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1104,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026474841747107861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 我以为只有我会收藏这些奇奇怪怪的东西 https://t.co/DcvFA0AJVZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3162,
+          "following_count": 51,
+          "like_count": 4585,
+          "listed_count": 4,
+          "media_count": 98,
+          "tweet_count": 1046
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-07T18:37:23.000Z",
+        "description": "陈眠 可以叫我眠眠或者小陈",
+        "id": "1379865846185553921",
+        "location": "🈶🚪",
+        "name": "Cmmm.",
+        "pinned_tweet_id": "2025669398758076599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023865973149954049/v3_cGrVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 0,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 29
+        },
+        "username": "CN_PolarBear",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2081549631729918223",
+    "created_at": "2026-07-27T15:37:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T16:37:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081765904824893873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1914548499204775936",
+          "start": 0,
+          "username": "12ui1123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081765904824893873",
+    "in_reply_to_user_id": "1914548499204775936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081723655927857413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@12ui1123 钱钱像尿尿一样流走呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2081549631729918223",
+        "created_at": "2026-07-27T15:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T16:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081765904824893873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1914548499204775936",
+              "start": 0,
+              "username": "12ui1123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081765904824893873",
+        "in_reply_to_user_id": "1914548499204775936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081723655927857413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@12ui1123 钱钱像尿尿一样流走呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914548499204775936",
+        "conversation_id": "2081549631729918223",
+        "created_at": "2026-07-27T12:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081723655927857413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081723655927857413",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081549631729918223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 钱就像尿尿一样溜走"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11439,
+          "following_count": 78,
+          "like_count": 9072,
+          "listed_count": 12,
+          "media_count": 199,
+          "tweet_count": 2146
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T05:15:18.000Z",
+        "description": "🤍🩶",
+        "id": "1914548499204775936",
+        "name": "iicociv7^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081071197476081664/wh1o-2oO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 69,
+          "like_count": 3355,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 132
+        },
+        "url": "",
+        "username": "12ui1123",
+        "verified": false
+      }
+    ]
+  }
+}

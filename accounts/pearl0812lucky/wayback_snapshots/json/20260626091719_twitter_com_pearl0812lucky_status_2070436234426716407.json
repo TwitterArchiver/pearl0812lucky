@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2070436234426716407",
+    "created_at": "2026-06-26T09:17:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T10:17:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070436234426716407"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070436234426716407",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我支持以下装逼犯死直接枪毙\n一身腱子肉说自己没有锻炼痕迹的\n手机养了一群鱼说自己没有人爱的\n高薪体面工作说自己是民工哭穷的\n吃尽时代红利转头教育人不努力的\n家境优渥托举但说感谢自己奋斗的\n锦衣玉食说没有人懂自己的痛苦的\n五官周正天天说自己自卑长得丑的\n名校上学说自己是XXX技术学院的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2070436234426716407",
+        "created_at": "2026-06-26T09:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T10:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070436234426716407"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070436234426716407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我支持以下装逼犯死直接枪毙\n一身腱子肉说自己没有锻炼痕迹的\n手机养了一群鱼说自己没有人爱的\n高薪体面工作说自己是民工哭穷的\n吃尽时代红利转头教育人不努力的\n家境优渥托举但说感谢自己奋斗的\n锦衣玉食说没有人懂自己的痛苦的\n五官周正天天说自己自卑长得丑的\n名校上学说自己是XXX技术学院的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9695,
+          "following_count": 71,
+          "like_count": 8527,
+          "listed_count": 8,
+          "media_count": 181,
+          "tweet_count": 1992
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

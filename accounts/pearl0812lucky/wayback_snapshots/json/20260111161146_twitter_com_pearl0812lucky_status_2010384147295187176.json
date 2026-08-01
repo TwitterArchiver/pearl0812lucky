@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2010366168033640716",
+    "created_at": "2026-01-11T16:11:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T17:11:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010384147295187176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1893729370554167296",
+          "start": 0,
+          "username": "lng09230604"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010384147295187176",
+    "in_reply_to_user_id": "1893729370554167296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010383218655236494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lng09230604 我也是…感觉中间隔了很多东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2010366168033640716",
+        "created_at": "2026-01-11T16:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T17:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010384147295187176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1893729370554167296",
+              "start": 0,
+              "username": "lng09230604"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010384147295187176",
+        "in_reply_to_user_id": "1893729370554167296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010383218655236494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lng09230604 我也是…感觉中间隔了很多东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893729370554167296",
+        "conversation_id": "2010366168033640716",
+        "created_at": "2026-01-11T16:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T17:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010383218655236494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010383218655236494",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010366168033640716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 好吧其实绝交之后就再也不会发出求和的祈求了吧！ o(╥﹏╥)o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹  我素女同性恋啦",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 36,
+          "like_count": 1745,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 518
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T18:27:36.000Z",
+        "description": "小翎大王驾到0.o（也可以叫我小铃）｜07年enfp｜1i（但偷吃4i肌肉男妈妈饭版）｜互关宝宝我爱你萌｜低精力低能量人｜希望私信里没有机器人全是练的棒棒的大奶（敢给我发牛子我让你飞起来）｜王者荣耀免费百星掉星耀谁想让我玩你号｜ 没有爱 世界会冻僵的｜",
+        "id": "1893729370554167296",
+        "location": "我爱你们",
+        "name": "铃铃铃翎翎灵",
+        "pinned_tweet_id": "1984607825746931749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998428756365705216/3rG3lcPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 186,
+          "like_count": 964,
+          "listed_count": 2,
+          "media_count": 325,
+          "tweet_count": 3371
+        },
+        "username": "lng09230604",
+        "verified": false
+      }
+    ]
+  }
+}

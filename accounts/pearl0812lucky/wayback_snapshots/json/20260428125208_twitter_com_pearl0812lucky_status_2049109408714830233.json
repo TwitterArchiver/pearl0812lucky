@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2049109408714830233",
+    "created_at": "2026-04-28T12:52:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T13:52:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049109408714830233"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049109408714830233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的生活里路过太多太多人 或好或坏都不过是萍水相逢缘分浅薄 但是你不同 如果缘分看得见摸得着那我们之间的红线应该早已交织不清一层又一层缠的那样紧我时常感慨我们的相遇 也庆幸我们一直是我们你说你走进我的世界就再没想过离开 我想我也同样离不开你就让我们一直陪伴在彼此身边 永远不分离"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2049109408714830233",
+        "created_at": "2026-04-28T12:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T13:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049109408714830233"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049109408714830233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的生活里路过太多太多人 或好或坏都不过是萍水相逢缘分浅薄 但是你不同 如果缘分看得见摸得着那我们之间的红线应该早已交织不清一层又一层缠的那样紧我时常感慨我们的相遇 也庆幸我们一直是我们你说你走进我的世界就再没想过离开 我想我也同样离不开你就让我们一直陪伴在彼此身边 永远不分离"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6319,
+          "following_count": 59,
+          "like_count": 6415,
+          "listed_count": 5,
+          "media_count": 146,
+          "tweet_count": 1571
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

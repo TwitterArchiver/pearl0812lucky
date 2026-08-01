@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2069747565378326932",
+    "created_at": "2026-06-24T12:38:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T13:38:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069762195517477010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1553638217936945153",
+          "start": 0,
+          "username": "tpdsmz11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069762195517477010",
+    "in_reply_to_user_id": "1553638217936945153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069747565378326932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tpdsmz11 对"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1526,
+        "media_key": "3_2069747555345264640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLk4b4MWcAAykze.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2069747565378326932",
+        "created_at": "2026-06-24T12:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T13:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069762195517477010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1553638217936945153",
+              "start": 0,
+              "username": "tpdsmz11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069762195517477010",
+        "in_reply_to_user_id": "1553638217936945153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069747565378326932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tpdsmz11 对"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069747555345264640"
+          ]
+        },
+        "author_id": "1553638217936945153",
+        "conversation_id": "2069747565378326932",
+        "created_at": "2026-06-24T11:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069747565378326932"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "le"
+            },
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "wlw"
+            },
+            {
+              "end": 40,
+              "start": 36,
+              "tag": "les"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cEeEVtJYg0",
+              "end": 64,
+              "expanded_url": "https://x.com/tpdsmz11/status/2069747565378326932/photo/1",
+              "media_key": "3_2069747555345264640",
+              "start": 41,
+              "url": "https://t.co/cEeEVtJYg0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069747565378326932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就自己而言的话真的对于双不理解…\n我也不会找双谈恋爱…#le #wlw #les https://t.co/cEeEVtJYg0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9655,
+          "following_count": 71,
+          "like_count": 8484,
+          "listed_count": 8,
+          "media_count": 180,
+          "tweet_count": 1982
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-31T07:06:52.000Z",
+        "description": "记忆是落在心脏上第一片雪花",
+        "id": "1553638217936945153",
+        "location": "Amsterdam, The Netherlands",
+        "name": "逃跑的三明治",
+        "pinned_tweet_id": "1987190273127162159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045829472725925888/W2CCUHm0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 66,
+          "like_count": 3323,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1341
+        },
+        "url": "",
+        "username": "tpdsmz11",
+        "verified": false
+      }
+    ]
+  }
+}

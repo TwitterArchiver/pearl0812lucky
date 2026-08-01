@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2058911417626186048",
+    "created_at": "2026-05-27T13:53:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T14:53:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059634202635800925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1651835661568323586",
+          "start": 0,
+          "username": "douzixiangsese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059634202635800925",
+    "in_reply_to_user_id": "1651835661568323586",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059632984559632895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@douzixiangsese 妈妈咪呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2058911417626186048",
+        "created_at": "2026-05-27T13:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059634202635800925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1651835661568323586",
+              "start": 0,
+              "username": "douzixiangsese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059634202635800925",
+        "in_reply_to_user_id": "1651835661568323586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059632984559632895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@douzixiangsese 妈妈咪呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1651835661568323586",
+        "conversation_id": "2058911417626186048",
+        "created_at": "2026-05-27T13:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059632984559632895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059632984559632895",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058911417626186048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 我有发言权。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8346,
+          "following_count": 70,
+          "like_count": 7669,
+          "listed_count": 8,
+          "media_count": 164,
+          "tweet_count": 1820
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-28T06:28:26.000Z",
+        "description": "日常发癫冲浪，偶尔会发喘\n\n欢迎找我聊天，有喜欢的本子可以发给我🥰🥰\n\n接陪玩，有本事用钱侮辱我😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dozui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dozui",
+                "start": 0,
+                "url": "https://t.co/UlN3kxWgCI"
+              }
+            ]
+          }
+        },
+        "id": "1651835661568323586",
+        "location": "右边是匿名信哦，什么都可以发哦",
+        "name": "被当0后我立志做萌男",
+        "pinned_tweet_id": "2056242260795429154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045597437470048256/y3j0s1JM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 111,
+          "like_count": 1659,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 854
+        },
+        "url": "https://t.co/UlN3kxWgCI",
+        "username": "douzixiangsese",
+        "verified": false
+      }
+    ]
+  }
+}

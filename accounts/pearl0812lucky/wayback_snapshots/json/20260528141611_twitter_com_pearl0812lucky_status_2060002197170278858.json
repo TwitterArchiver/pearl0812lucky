@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2059973481815736678",
+    "created_at": "2026-05-28T14:16:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T15:16:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060002197170278858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1616488252617396226",
+          "start": 0,
+          "username": "showlo5_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060002197170278858",
+    "in_reply_to_user_id": "1616488252617396226",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059973481815736678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@showlo5_ 科普博主"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2059973481815736678",
+        "created_at": "2026-05-28T14:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060002197170278858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1616488252617396226",
+              "start": 0,
+              "username": "showlo5_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060002197170278858",
+        "in_reply_to_user_id": "1616488252617396226",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059973481815736678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@showlo5_ 科普博主"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1616488252617396226",
+        "conversation_id": "2059973481815736678",
+        "created_at": "2026-05-28T12:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059973481815736678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/k_yulobsession…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/k_yulobsession/status/2059608946068034021",
+              "start": 5,
+              "url": "https://t.co/wntyd5ybRg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059973481815736678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059608946068034021",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一次见 https://t.co/wntyd5ybRg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8396,
+          "following_count": 70,
+          "like_count": 7730,
+          "listed_count": 8,
+          "media_count": 164,
+          "tweet_count": 1829
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-20T17:30:18.000Z",
+        "description": "男的别私信我",
+        "id": "1616488252617396226",
+        "name": "showxxo",
+        "pinned_tweet_id": "2003881825320816858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007115255839870976/3ir874kJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 127,
+          "like_count": 6010,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 2393
+        },
+        "username": "showlo5_",
+        "verified": false
+      }
+    ]
+  }
+}

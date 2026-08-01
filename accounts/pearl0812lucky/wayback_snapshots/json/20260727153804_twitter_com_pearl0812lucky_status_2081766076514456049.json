@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2081549631729918223",
+    "created_at": "2026-07-27T15:38:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T16:38:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081766076514456049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2005114951346913282",
+          "start": 0,
+          "username": "ngc2237miaoa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081766076514456049",
+    "in_reply_to_user_id": "2005114951346913282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081726723507519689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ngc2237miaoa 其实是震撼转发"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2081549631729918223",
+        "created_at": "2026-07-27T15:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T16:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081766076514456049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2005114951346913282",
+              "start": 0,
+              "username": "ngc2237miaoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081766076514456049",
+        "in_reply_to_user_id": "2005114951346913282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081726723507519689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ngc2237miaoa 其实是震撼转发"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005114951346913282",
+        "conversation_id": "2081549631729918223",
+        "created_at": "2026-07-27T13:01:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T14:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081726723507519689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081726723507519689",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081549631729918223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 震撼首发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11439,
+          "following_count": 78,
+          "like_count": 9072,
+          "listed_count": 12,
+          "media_count": 199,
+          "tweet_count": 2148
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-28T03:14:14.000Z",
+        "description": "05\n不玩别的号了嗯遂回归之 不想看碎碎念可以直接看视频分栏\n纯清水 乐意看点💪🏻和碎碎念  只回礼貌消息\nhttps://t.co/NpLxjov2gc没人问也挂\nhttps://t.co/GyiVULONqu擦。给我通过理由",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miao14449",
+                "end": 77,
+                "expanded_url": "https://ngl.link/miao14449",
+                "start": 54,
+                "url": "https://t.co/NpLxjov2gc"
+              },
+              {
+                "display_url": "x.com/shijiediyimeng",
+                "end": 106,
+                "expanded_url": "https://x.com/shijiediyimeng",
+                "start": 83,
+                "url": "https://t.co/GyiVULONqu"
+              }
+            ]
+          }
+        },
+        "id": "2005114951346913282",
+        "location": "别人的钱乃我身外之物",
+        "name": "全自动闯祸机^^",
+        "pinned_tweet_id": "2077740883936747540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080246669564903424/E4lm5L0T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 11,
+          "like_count": 465,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 113
+        },
+        "url": "",
+        "username": "ngc2237miaoa",
+        "verified": true
+      }
+    ]
+  }
+}

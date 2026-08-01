@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2059611869611196656",
+    "created_at": "2026-05-27T12:46:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T13:46:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059617267093328221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1616488252617396226",
+          "start": 0,
+          "username": "showlo5_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059617267093328221",
+    "in_reply_to_user_id": "1616488252617396226",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059611869611196656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@showlo5_ 天下第一美味"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059611800229072896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJU2BR_bUAAsDwv.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059611800216485888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJU2BR8bQAAwcu9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059611800224886785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJU2BR-bcAE7PC9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059611800220696576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJU2BR9bgAAYtV0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2059611869611196656",
+        "created_at": "2026-05-27T12:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059617267093328221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1616488252617396226",
+              "start": 0,
+              "username": "showlo5_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059617267093328221",
+        "in_reply_to_user_id": "1616488252617396226",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059611869611196656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@showlo5_ 天下第一美味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059611800229072896",
+            "3_2059611800216485888",
+            "3_2059611800224886785",
+            "3_2059611800220696576"
+          ]
+        },
+        "author_id": "1616488252617396226",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2059611869611196656",
+        "created_at": "2026-05-27T12:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059611869611196656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/341h0hTbxH",
+              "end": 28,
+              "expanded_url": "https://x.com/showlo5_/status/2059611869611196656/photo/1",
+              "media_key": "3_2059611800229072896",
+              "start": 5,
+              "url": "https://t.co/341h0hTbxH"
+            },
+            {
+              "display_url": "pic.x.com/341h0hTbxH",
+              "end": 28,
+              "expanded_url": "https://x.com/showlo5_/status/2059611869611196656/photo/1",
+              "media_key": "3_2059611800216485888",
+              "start": 5,
+              "url": "https://t.co/341h0hTbxH"
+            },
+            {
+              "display_url": "pic.x.com/341h0hTbxH",
+              "end": 28,
+              "expanded_url": "https://x.com/showlo5_/status/2059611869611196656/photo/1",
+              "media_key": "3_2059611800224886785",
+              "start": 5,
+              "url": "https://t.co/341h0hTbxH"
+            },
+            {
+              "display_url": "pic.x.com/341h0hTbxH",
+              "end": 28,
+              "expanded_url": "https://x.com/showlo5_/status/2059611869611196656/photo/1",
+              "media_key": "3_2059611800220696576",
+              "start": 5,
+              "url": "https://t.co/341h0hTbxH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059611869611196656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "亚而咪之 https://t.co/341h0hTbxH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8344,
+          "following_count": 69,
+          "like_count": 7659,
+          "listed_count": 8,
+          "media_count": 164,
+          "tweet_count": 1818
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-20T17:30:18.000Z",
+        "description": "男的别私信我",
+        "id": "1616488252617396226",
+        "name": "showxxo",
+        "pinned_tweet_id": "2003881825320816858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007115255839870976/3ir874kJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 127,
+          "like_count": 5939,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 2389
+        },
+        "username": "showlo5_",
+        "verified": false
+      }
+    ]
+  }
+}

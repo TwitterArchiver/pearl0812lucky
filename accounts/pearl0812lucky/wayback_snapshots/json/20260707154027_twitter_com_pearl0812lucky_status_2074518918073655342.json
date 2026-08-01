@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2074518918073655342",
+    "created_at": "2026-07-07T15:40:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T16:40:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074518918073655342"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074518918073655342",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉人与人之间没有严格意义上的happy ending\n此刻还联络不能证明这段关系能持续一辈子\n此刻断联也不能证明曾经相处时的快乐都是假的\n浓度不能决定长度  二者毫无关联\n我们还是要去筛选本身就很好的人  就算会走散\n可再回想起交错的日子也会被温暖填满\n不是遗憾  也不会觉得自己的时间被浪费掉了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2074518918073655342",
+        "created_at": "2026-07-07T15:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074518918073655342"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074518918073655342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉人与人之间没有严格意义上的happy ending\n此刻还联络不能证明这段关系能持续一辈子\n此刻断联也不能证明曾经相处时的快乐都是假的\n浓度不能决定长度  二者毫无关联\n我们还是要去筛选本身就很好的人  就算会走散\n可再回想起交错的日子也会被温暖填满\n不是遗憾  也不会觉得自己的时间被浪费掉了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10224,
+          "following_count": 71,
+          "like_count": 8749,
+          "listed_count": 8,
+          "media_count": 190,
+          "tweet_count": 2048
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

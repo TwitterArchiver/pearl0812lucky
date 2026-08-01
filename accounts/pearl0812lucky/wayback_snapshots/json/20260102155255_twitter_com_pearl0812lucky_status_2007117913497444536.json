@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2007117913497444536",
+    "created_at": "2026-01-02T15:52:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T16:52:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007117913497444536"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2007117913497444536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我很多时候觉得把mbti或者性取向及性取向分类挂在主页会显得我蠢蠢的，或者说我不想要别人通过简短的主页简介认识我，我感觉对我来说是一件非常不妙的事情！我不想别人通过我的帖子及简介来了解我，莫名进入我的世界。人和人是需要长时间的沟通接触来深入了解，我一般情况下接受不了快餐式的社交😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2007117913497444536",
+        "created_at": "2026-01-02T15:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T16:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007117913497444536"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007117913497444536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很多时候觉得把mbti或者性取向及性取向分类挂在主页会显得我蠢蠢的，或者说我不想要别人通过简短的主页简介认识我，我感觉对我来说是一件非常不妙的事情！我不想别人通过我的帖子及简介来了解我，莫名进入我的世界。人和人是需要长时间的沟通接触来深入了解，我一般情况下接受不了快餐式的社交😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "世界巨大，我以渺小来爱它",
+        "name": "orange cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 9,
+          "like_count": 401,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 190
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

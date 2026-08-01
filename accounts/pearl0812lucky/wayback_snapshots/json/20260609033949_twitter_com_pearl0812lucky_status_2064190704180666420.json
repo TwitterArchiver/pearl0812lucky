@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2064190704180666420",
+    "created_at": "2026-06-09T03:39:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T04:39:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064190704180666420"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064190704180666420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人这一生就是一个不断祛魅的过程。\n当你不再对事物与人产生不切实际的幻想时，就会发现许多你曾经痴迷的东西其实也不过如此，它们并不能真正填补内心的空缺，只有建设自己的内心才能得到真正意义上的圆满，将“向外求”转变成“向内求”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2064190704180666420",
+        "created_at": "2026-06-09T03:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T04:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064190704180666420"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064190704180666420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人这一生就是一个不断祛魅的过程。\n当你不再对事物与人产生不切实际的幻想时，就会发现许多你曾经痴迷的东西其实也不过如此，它们并不能真正填补内心的空缺，只有建设自己的内心才能得到真正意义上的圆满，将“向外求”转变成“向内求”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8816,
+          "following_count": 73,
+          "like_count": 8130,
+          "listed_count": 7,
+          "media_count": 174,
+          "tweet_count": 1912
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

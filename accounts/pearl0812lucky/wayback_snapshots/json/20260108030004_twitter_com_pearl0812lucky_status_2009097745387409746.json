@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2009097745387409746",
+    "created_at": "2026-01-08T03:00:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T04:00:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009097745387409746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1905566526595629060",
+          "start": 3,
+          "username": "Apipleeeee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009097745387409746",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008747246117155014",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Apipleeeee: 之前看过一个调查，忠诚程度与智力水平有关，简单说就是人越蠢越渣 智力不足的人选择伴侣和相处过程中的注意力在需求金字塔的最底部，这种人更注重满足原始欲望，理解不了更不会去追求更高层次的东西，说白了，就是需要两个人不停的去动脑思考，双方一起迭代。所以…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2009097745387409746",
+        "created_at": "2026-01-08T03:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T04:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009097745387409746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1905566526595629060",
+              "start": 3,
+              "username": "Apipleeeee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009097745387409746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008747246117155014",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Apipleeeee: 之前看过一个调查，忠诚程度与智力水平有关，简单说就是人越蠢越渣 智力不足的人选择伴侣和相处过程中的注意力在需求金字塔的最底部，这种人更注重满足原始欲望，理解不了更不会去追求更高层次的东西，说白了，就是需要两个人不停的去动脑思考，双方一起迭代。所以…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905566526595629060",
+        "conversation_id": "2008747246117155014",
+        "created_at": "2026-01-07T03:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T04:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008747246117155014"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008747246117155014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 7838,
+          "like_count": 162,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "之前看过一个调查，忠诚程度与智力水平有关，简单说就是人越蠢越渣 智力不足的人选择伴侣和相处过程中的注意力在需求金字塔的最底部，这种人更注重满足原始欲望，理解不了更不会去追求更高层次的东西，说白了，就是需要两个人不停的去动脑思考，双方一起迭代。所以说。真爱属于两个真正的聪明人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎来到我的生活连续剧 不聊骚 女同性恋",
+        "name": "orange cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 31,
+          "like_count": 968,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 369
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T10:24:09.000Z",
+        "description": "虚室生白",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fengniaocloud.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fengniaocloud.top/#/register?code=Fs8KeJ0x",
+                "start": 0,
+                "url": "https://t.co/TMmfJOdrNV"
+              }
+            ]
+          }
+        },
+        "id": "1905566526595629060",
+        "location": "🚪 821",
+        "name": "苹果",
+        "pinned_tweet_id": "1945862273358336217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007783323607896064/tHD2doYh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8366,
+          "following_count": 7,
+          "like_count": 1276,
+          "listed_count": 31,
+          "media_count": 554,
+          "tweet_count": 2144
+        },
+        "url": "https://t.co/TMmfJOdrNV",
+        "username": "Apipleeeee",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2066143341478326480",
+    "created_at": "2026-06-14T12:58:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T13:58:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066143341478326480"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066143341478326480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "断绝一段关系就像是呕吐，把手伸进嗓子眼里，将从前的记忆全部抠挖出来吐一地，酸的苦的糊一嘴弄得眼泪婆娑。只有完全吐干净才罢休，一直吐一直吐，吐出酸水吐出胃液吐干吐净，才罢休。太恶心了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2066143341478326480",
+        "created_at": "2026-06-14T12:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066143341478326480"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066143341478326480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "断绝一段关系就像是呕吐，把手伸进嗓子眼里，将从前的记忆全部抠挖出来吐一地，酸的苦的糊一嘴弄得眼泪婆娑。只有完全吐干净才罢休，一直吐一直吐，吐出酸水吐出胃液吐干吐净，才罢休。太恶心了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9161,
+          "following_count": 73,
+          "like_count": 8329,
+          "listed_count": 7,
+          "media_count": 177,
+          "tweet_count": 1934
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

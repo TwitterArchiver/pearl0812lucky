@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2037065728097214708",
+    "created_at": "2026-03-27T03:37:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T04:37:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037373355695952273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1894690102770909184",
+          "start": 0,
+          "username": "chidngdng365957"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037373355695952273",
+    "in_reply_to_user_id": "1894690102770909184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037369446600417484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chidngdng365957 杨红樱写的真的特别好，我为笑猫日记留了好多眼泪亚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2037065728097214708",
+        "created_at": "2026-03-27T03:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T04:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037373355695952273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1894690102770909184",
+              "start": 0,
+              "username": "chidngdng365957"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037373355695952273",
+        "in_reply_to_user_id": "1894690102770909184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037369446600417484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chidngdng365957 杨红樱写的真的特别好，我为笑猫日记留了好多眼泪亚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894690102770909184",
+        "conversation_id": "2037065728097214708",
+        "created_at": "2026-03-27T03:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T04:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037369446600417484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037369446600417484",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037065728097214708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 那会儿真的很纯真 小学暑假最喜欢和同学们约到新华书店里玩 一起找什么杨红樱老师的笑猫日记、淘气包马小跳来看 大家就安安静静的缩在角落里 吹着空调 喝着以前那种色素糖浆小汽水 记得好像是叫太子乐来着 呜呜呜我的童年🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4579,
+          "following_count": 53,
+          "like_count": 5264,
+          "listed_count": 6,
+          "media_count": 121,
+          "tweet_count": 1214
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T10:05:10.000Z",
+        "description": "讨厌洗头洗碗...",
+        "id": "1894690102770909184",
+        "name": "此木铛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032007373079134209/8VS4c5E8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 84,
+          "like_count": 163,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "chidngdng365957",
+        "verified": false
+      }
+    ]
+  }
+}

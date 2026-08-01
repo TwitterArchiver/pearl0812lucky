@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2019331011197403639",
+    "created_at": "2026-02-05T08:43:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T09:43:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019331011197403639"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2019331011197403639",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实有的时候感觉自己淡淡的，情绪低落时什么都提不起兴趣，有时明明渴望有人懂自己和自己聊天，但是看见消息的时候还是想要自己一个人呆着，不知道回复什么。日复一日每天都要做差不多的事情，感觉过得很慢，但是也一转眼就过去了。曾经觉得遥不可及的成为大人的日子，也慢慢变得渐行渐远了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2019331011197403639",
+        "created_at": "2026-02-05T08:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T09:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019331011197403639"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019331011197403639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实有的时候感觉自己淡淡的，情绪低落时什么都提不起兴趣，有时明明渴望有人懂自己和自己聊天，但是看见消息的时候还是想要自己一个人呆着，不知道回复什么。日复一日每天都要做差不多的事情，感觉过得很慢，但是也一转眼就过去了。曾经觉得遥不可及的成为大人的日子，也慢慢变得渐行渐远了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2090,
+          "following_count": 50,
+          "like_count": 3946,
+          "listed_count": 3,
+          "media_count": 72,
+          "tweet_count": 890
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

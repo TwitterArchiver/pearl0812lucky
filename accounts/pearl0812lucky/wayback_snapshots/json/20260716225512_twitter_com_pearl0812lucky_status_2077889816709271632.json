@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2077654312063504857",
+    "created_at": "2026-07-16T22:55:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T23:55:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077889816709271632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1964895417331552256",
+          "start": 0,
+          "username": "linyuan0521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077889816709271632",
+    "in_reply_to_user_id": "1964895417331552256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077698050890318099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linyuan0521 多喝水呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2077654312063504857",
+        "created_at": "2026-07-16T22:55:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T23:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077889816709271632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1964895417331552256",
+              "start": 0,
+              "username": "linyuan0521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077889816709271632",
+        "in_reply_to_user_id": "1964895417331552256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077698050890318099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linyuan0521 多喝水呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964895417331552256",
+        "conversation_id": "2077654312063504857",
+        "created_at": "2026-07-16T10:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T11:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077698050890318099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077698050890318099",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077654312063504857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 我草今天刚好喉咙发炎了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11039,
+          "following_count": 74,
+          "like_count": 8948,
+          "listed_count": 11,
+          "media_count": 197,
+          "tweet_count": 2098
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-08T03:36:06.000Z",
+        "description": "记录操蛋人生",
+        "id": "1964895417331552256",
+        "name": "园园",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074537954886758400/nlWt3Tip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 24,
+          "like_count": 795,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 434
+        },
+        "url": "",
+        "username": "linyuan0521",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2021859860082761841",
+    "created_at": "2026-02-12T11:01:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T12:01:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021902565278159271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1961806047871729664",
+          "start": 0,
+          "username": "pi_shao12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021902565278159271",
+    "in_reply_to_user_id": "1961806047871729664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021863912845762619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pi_shao12138 对妹妹也可以用～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2021859860082761841",
+        "created_at": "2026-02-12T11:01:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T12:01:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021902565278159271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1961806047871729664",
+              "start": 0,
+              "username": "pi_shao12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021902565278159271",
+        "in_reply_to_user_id": "1961806047871729664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021863912845762619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pi_shao12138 对妹妹也可以用～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961806047871729664",
+        "conversation_id": "2021859860082761841",
+        "created_at": "2026-02-12T08:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T09:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021863912845762619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021863912845762619",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021859860082761841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 根本没有姐姐！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2304,
+          "following_count": 50,
+          "like_count": 4187,
+          "listed_count": 3,
+          "media_count": 78,
+          "tweet_count": 947
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T14:59:57.000Z",
+        "description": "女同",
+        "id": "1961806047871729664",
+        "name": "苕皮大王",
+        "pinned_tweet_id": "2015098225246789758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004333508559327232/1P2YmPqE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 30,
+          "like_count": 617,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 542
+        },
+        "username": "pi_shao12138",
+        "verified": false
+      }
+    ]
+  }
+}

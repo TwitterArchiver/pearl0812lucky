@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2029724624133754945",
+    "created_at": "2026-03-06T17:17:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T18:17:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029969569490817439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2026525641101946884",
+          "start": 0,
+          "username": "swfully99227"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029969569490817439",
+    "in_reply_to_user_id": "2026525641101946884",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029956542808870956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@swfully99227 辣条加进去有点咸了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2029724624133754945",
+        "created_at": "2026-03-06T17:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T18:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029969569490817439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026525641101946884",
+              "start": 0,
+              "username": "swfully99227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029969569490817439",
+        "in_reply_to_user_id": "2026525641101946884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029956542808870956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@swfully99227 辣条加进去有点咸了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026525641101946884",
+        "conversation_id": "2029724624133754945",
+        "created_at": "2026-03-06T16:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T17:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029956542808870956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029956542808870956",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029724624133754945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 这个时候就有家长要问了，那老师老师，我们家辣条呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3883,
+          "following_count": 51,
+          "like_count": 4913,
+          "listed_count": 4,
+          "media_count": 106,
+          "tweet_count": 1107
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T05:12:29.000Z",
+        "description": "喜欢你",
+        "id": "2026525641101946884",
+        "location": "你心里",
+        "name": "Swfulllllly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029928109680791552/kXzltp37_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 5,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 32
+        },
+        "username": "swfully99227",
+        "verified": false
+      }
+    ]
+  }
+}

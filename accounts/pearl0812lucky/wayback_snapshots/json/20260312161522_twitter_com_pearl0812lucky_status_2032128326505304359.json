@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2032128151825125602",
+    "created_at": "2026-03-12T16:15:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T17:15:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032128326505304359"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2032128326505304359",
+    "in_reply_to_user_id": "1991711672684421121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032128151825125602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "爱是一个很坏的东西，它会让聪明人自缚手脚，让勇敢的人迟疑，让迟钝的木头学着怎么去关注对方的感受，让一个小气鬼去献出自己的真心。一旦决定去爱，在意的东西好像就会变多，我没办法洒脱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2032128151825125602",
+        "created_at": "2026-03-12T16:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T17:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032128326505304359"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032128326505304359",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032128151825125602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "爱是一个很坏的东西，它会让聪明人自缚手脚，让勇敢的人迟疑，让迟钝的木头学着怎么去关注对方的感受，让一个小气鬼去献出自己的真心。一旦决定去爱，在意的东西好像就会变多，我没办法洒脱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2032128151825125602",
+        "created_at": "2026-03-12T16:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T17:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032128151825125602"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032128151825125602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还是没法做到很轻盈的去爱\n我一直以为爱是重重的，如果我爱你，那我应该会有很多个问题想问你。你在意我吗？我在你心里重要吗？你明天想吃什么？周末能和我一起出去玩吗？你生气的时候能别一直不理我不？和我在一起你总是开心吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4070,
+          "following_count": 51,
+          "like_count": 5023,
+          "listed_count": 4,
+          "media_count": 110,
+          "tweet_count": 1129
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

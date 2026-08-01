@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2061371332638691368",
+    "created_at": "2026-06-01T08:56:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T09:56:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061371332638691368"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061371332638691368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "什么叫情感漠视啊，你疯了吧，我必须按照你所有预想的方式对待你是吗，我是什么杠杆工具吗，你付了多少努力多少爱，我就必须按你的比例和公式给你回报多少是吗。别搞我了大家活着都挺累的，你既然要留在我身边就必须接受我对人对事的态度和方式，受不了就滚，情感漠视这么大的帽子扣我头上你真是疯了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2061371332638691368",
+        "created_at": "2026-06-01T08:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T09:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061371332638691368"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061371332638691368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么叫情感漠视啊，你疯了吧，我必须按照你所有预想的方式对待你是吗，我是什么杠杆工具吗，你付了多少努力多少爱，我就必须按你的比例和公式给你回报多少是吗。别搞我了大家活着都挺累的，你既然要留在我身边就必须接受我对人对事的态度和方式，受不了就滚，情感漠视这么大的帽子扣我头上你真是疯了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8458,
+          "following_count": 72,
+          "like_count": 7834,
+          "listed_count": 8,
+          "media_count": 169,
+          "tweet_count": 1860
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

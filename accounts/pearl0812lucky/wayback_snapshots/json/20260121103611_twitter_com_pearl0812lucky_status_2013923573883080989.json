@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2013863172080574651",
+    "created_at": "2026-01-21T10:36:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T11:36:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013923573883080989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "838194675928346624",
+          "start": 0,
+          "username": "Lightning_Hand"
+        },
+        {
+          "end": 31,
+          "id": "1996166572558409728",
+          "start": 16,
+          "username": "GuangBang78535"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013923573883080989",
+    "in_reply_to_user_id": "838194675928346624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013918245766504577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lightning_Hand @GuangBang78535 听过她的歌啦！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2013863172080574651",
+        "created_at": "2026-01-21T10:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T11:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013923573883080989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "838194675928346624",
+              "start": 0,
+              "username": "Lightning_Hand"
+            },
+            {
+              "end": 31,
+              "id": "1996166572558409728",
+              "start": 16,
+              "username": "GuangBang78535"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013923573883080989",
+        "in_reply_to_user_id": "838194675928346624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013918245766504577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lightning_Hand @GuangBang78535 听过她的歌啦！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "838194675928346624",
+        "conversation_id": "2013863172080574651",
+        "created_at": "2026-01-21T10:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T11:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013918245766504577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            },
+            {
+              "end": 31,
+              "id": "1996166572558409728",
+              "start": 16,
+              "username": "GuangBang78535"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013918245766504577",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013883068667383993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky @GuangBang78535 太聪明，你也是陈老师粉丝啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹  我素女同性恋啦",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132,
+          "following_count": 41,
+          "like_count": 2217,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 653
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-05T01:09:18.000Z",
+        "description": "Give me a wide universe.",
+        "id": "838194675928346624",
+        "name": "Bot D",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873187720497119234/m8gxPCCJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 460,
+          "like_count": 5748,
+          "listed_count": 2,
+          "media_count": 158,
+          "tweet_count": 3363
+        },
+        "username": "Lightning_Hand",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-03T10:36:41.000Z",
+        "description": "🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗",
+        "id": "1996166572558409728",
+        "name": "我要搶新鮮雞腿🍗🍗🍗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012124796302327809/WGm5GZGP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 40,
+          "like_count": 6908,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 193
+        },
+        "username": "GuangBang78535",
+        "verified": false
+      }
+    ]
+  }
+}

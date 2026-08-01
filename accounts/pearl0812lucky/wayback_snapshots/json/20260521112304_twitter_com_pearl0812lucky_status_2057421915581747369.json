@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2057421915581747369",
+    "created_at": "2026-05-21T11:23:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T12:23:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057421915581747369"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057421915581747369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我常常会反思自己 为什么开始说喜欢我的人 最后都离我而去 可能因为你刚认识我的时候 我用有趣的灵魂 开朗阳光自信的性格和你聊天 你说你好像遇到了知己 很放松很开心 可是慢慢熟悉过后你才发现 原来我有很多负面情绪多愁善感 敏感多疑 让你厌烦 让你受不了 可是我也很讨厌自己过高的共情能力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2057421915581747369",
+        "created_at": "2026-05-21T11:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057421915581747369"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057421915581747369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我常常会反思自己 为什么开始说喜欢我的人 最后都离我而去 可能因为你刚认识我的时候 我用有趣的灵魂 开朗阳光自信的性格和你聊天 你说你好像遇到了知己 很放松很开心 可是慢慢熟悉过后你才发现 原来我有很多负面情绪多愁善感 敏感多疑 让你厌烦 让你受不了 可是我也很讨厌自己过高的共情能力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8062,
+          "following_count": 67,
+          "like_count": 7413,
+          "listed_count": 8,
+          "media_count": 163,
+          "tweet_count": 1778
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

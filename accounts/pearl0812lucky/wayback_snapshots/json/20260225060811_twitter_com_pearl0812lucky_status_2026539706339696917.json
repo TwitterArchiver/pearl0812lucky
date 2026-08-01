@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026539697980551168"
+      ]
+    },
+    "author_id": "1991711672684421121",
+    "conversation_id": "2026539706339696917",
+    "created_at": "2026-02-25T06:08:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T07:08:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026539706339696917"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BoKr5kupvW",
+          "end": 23,
+          "expanded_url": "https://x.com/pearl0812lucky/status/2026539706339696917/photo/1",
+          "media_key": "3_2026539697980551168",
+          "start": 0,
+          "url": "https://t.co/BoKr5kupvW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026539706339696917",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/BoKr5kupvW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1593,
+        "media_key": "3_2026539697980551168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB-3HkVbsAA7zg1.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026539697980551168"
+          ]
+        },
+        "author_id": "1991711672684421121",
+        "conversation_id": "2026539706339696917",
+        "created_at": "2026-02-25T06:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T07:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026539706339696917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BoKr5kupvW",
+              "end": 23,
+              "expanded_url": "https://x.com/pearl0812lucky/status/2026539706339696917/photo/1",
+              "media_key": "3_2026539697980551168",
+              "start": 0,
+              "url": "https://t.co/BoKr5kupvW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026539706339696917",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BoKr5kupvW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2907,
+          "following_count": 52,
+          "like_count": 4504,
+          "listed_count": 4,
+          "media_count": 96,
+          "tweet_count": 1032
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

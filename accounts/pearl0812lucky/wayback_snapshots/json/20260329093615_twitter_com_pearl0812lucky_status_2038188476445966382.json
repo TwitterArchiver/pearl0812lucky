@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038188465553358848"
+      ]
+    },
+    "author_id": "1991711672684421121",
+    "conversation_id": "2038188476445966382",
+    "created_at": "2026-03-29T09:36:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T10:36:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038188476445966382"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ar2wWFtq2q",
+          "end": 116,
+          "expanded_url": "https://x.com/pearl0812lucky/status/2038188476445966382/photo/1",
+          "media_key": "3_2038188465553358848",
+          "start": 93,
+          "url": "https://t.co/Ar2wWFtq2q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038188476445966382",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "从我开始，我家三代不许学设计类专业，不许从事设计类职业，不与学设计的结亲结盟结友邻，学服装设计大不敬，学视传大不孝，学工业设计大不悌，学首饰大逆不道，学产设逐出家门，学环设城门曝尸百日 https://t.co/Ar2wWFtq2q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1455,
+        "media_key": "3_2038188465553358848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEkZnFKbQAAFMyn.jpg",
+        "width": 1292
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038188465553358848"
+          ]
+        },
+        "author_id": "1991711672684421121",
+        "conversation_id": "2038188476445966382",
+        "created_at": "2026-03-29T09:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T10:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038188476445966382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ar2wWFtq2q",
+              "end": 116,
+              "expanded_url": "https://x.com/pearl0812lucky/status/2038188476445966382/photo/1",
+              "media_key": "3_2038188465553358848",
+              "start": 93,
+              "url": "https://t.co/Ar2wWFtq2q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038188476445966382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从我开始，我家三代不许学设计类专业，不许从事设计类职业，不与学设计的结亲结盟结友邻，学服装设计大不敬，学视传大不孝，学工业设计大不悌，学首饰大逆不道，学产设逐出家门，学环设城门曝尸百日 https://t.co/Ar2wWFtq2q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4608,
+          "following_count": 53,
+          "like_count": 5304,
+          "listed_count": 6,
+          "media_count": 123,
+          "tweet_count": 1221
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

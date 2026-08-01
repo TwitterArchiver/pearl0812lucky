@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2064905555114955214",
+    "created_at": "2026-06-11T03:00:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T04:00:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064905555114955214"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064905555114955214",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很多人说要学会隐藏感情和情绪 不要过度表现出自己的爱 能真诚地表达自己真实情感的 比那些装作什么 都不在乎的人更有魅力 我始终认为爱应该是大大方方的 让对方真实感受到你对他的爱 对待自己在意的关系 一定要敢于表达 我永远真诚 永远不觉得真诚有错 我也喜欢真诚善良的人 现在是 以后也一定是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2064905555114955214",
+        "created_at": "2026-06-11T03:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T04:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064905555114955214"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064905555114955214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很多人说要学会隐藏感情和情绪 不要过度表现出自己的爱 能真诚地表达自己真实情感的 比那些装作什么 都不在乎的人更有魅力 我始终认为爱应该是大大方方的 让对方真实感受到你对他的爱 对待自己在意的关系 一定要敢于表达 我永远真诚 永远不觉得真诚有错 我也喜欢真诚善良的人 现在是 以后也一定是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8872,
+          "following_count": 73,
+          "like_count": 8274,
+          "listed_count": 7,
+          "media_count": 176,
+          "tweet_count": 1921
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

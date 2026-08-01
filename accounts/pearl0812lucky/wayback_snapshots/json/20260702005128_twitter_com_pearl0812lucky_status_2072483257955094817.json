@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2072483257955094817",
+    "created_at": "2026-07-02T00:51:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T01:51:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072483257955094817"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072483257955094817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我从来不害怕失去任何人 我的不可替代性会让每个失去我的人后悔 仅仅是时间问题 因为我确信 我就是他们能遇到的最好的 无论是当下 还是未来 我都是最好的 我都发自内心的认同自己  感情中从不质疑自己的价值和真心 仅仅质疑过他人的承载能力和个人眼光是否能和我的价值对位 天下无双这世间绝无第二个我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2072483257955094817",
+        "created_at": "2026-07-02T00:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T01:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072483257955094817"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072483257955094817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我从来不害怕失去任何人 我的不可替代性会让每个失去我的人后悔 仅仅是时间问题 因为我确信 我就是他们能遇到的最好的 无论是当下 还是未来 我都是最好的 我都发自内心的认同自己  感情中从不质疑自己的价值和真心 仅仅质疑过他人的承载能力和个人眼光是否能和我的价值对位 天下无双这世间绝无第二个我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9933,
+          "following_count": 72,
+          "like_count": 8663,
+          "listed_count": 8,
+          "media_count": 185,
+          "tweet_count": 2020
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2058934005429653785",
+    "created_at": "2026-05-25T15:31:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T16:31:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058934005429653785"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058934005429653785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "只上班不挣钱 很淡泊的人\n只减肥不掉称 很敦实的人\n只抽卡不出金 很清高的人\n只打游戏不打人 很仁善的人\n只交学费不学习 很慷慨的人\n只学知识不管成绩 很淡泊的人\n上课点名不在场 很神秘的人\n闹钟响了不起床 很有定力的人\n消息弹出不秒回 很沉得住气的人\n老师说话不偷听 很有教养的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2058934005429653785",
+        "created_at": "2026-05-25T15:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058934005429653785"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058934005429653785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只上班不挣钱 很淡泊的人\n只减肥不掉称 很敦实的人\n只抽卡不出金 很清高的人\n只打游戏不打人 很仁善的人\n只交学费不学习 很慷慨的人\n只学知识不管成绩 很淡泊的人\n上课点名不在场 很神秘的人\n闹钟响了不起床 很有定力的人\n消息弹出不秒回 很沉得住气的人\n老师说话不偷听 很有教养的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8297,
+          "following_count": 68,
+          "like_count": 7601,
+          "listed_count": 8,
+          "media_count": 164,
+          "tweet_count": 1803
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

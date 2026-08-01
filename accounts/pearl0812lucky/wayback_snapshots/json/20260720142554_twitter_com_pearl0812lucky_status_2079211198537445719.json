@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2079211198537445719",
+    "created_at": "2026-07-20T14:25:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T15:25:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079211198537445719"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079211198537445719",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你其实并不喜欢我吧 你其实根本就不了解我 不知道我哪里有痣不知道我晚睡的原因 我为什么哭 我内耗的样子 你也不愿意看见我刚起床邋遢的素颜 我并不无暇的皮肤 我身上的赘肉 你只喜欢我立的人设你并不愿意了解我究竟是个怎么样的人 我的内心是什么样的 这些你都不好奇 也不在乎 你其实没有真正的喜欢我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2079211198537445719",
+        "created_at": "2026-07-20T14:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T15:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079211198537445719"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079211198537445719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你其实并不喜欢我吧 你其实根本就不了解我 不知道我哪里有痣不知道我晚睡的原因 我为什么哭 我内耗的样子 你也不愿意看见我刚起床邋遢的素颜 我并不无暇的皮肤 我身上的赘肉 你只喜欢我立的人设你并不愿意了解我究竟是个怎么样的人 我的内心是什么样的 这些你都不好奇 也不在乎 你其实没有真正的喜欢我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11171,
+          "following_count": 75,
+          "like_count": 9013,
+          "listed_count": 11,
+          "media_count": 197,
+          "tweet_count": 2118
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

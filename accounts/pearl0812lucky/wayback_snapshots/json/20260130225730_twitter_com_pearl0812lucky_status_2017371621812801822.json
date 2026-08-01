@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2017208537404014820",
+    "created_at": "2026-01-30T22:57:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T23:57:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017371621812801822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1922213296998141952",
+          "start": 0,
+          "username": "fishbone_022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017371621812801822",
+    "in_reply_to_user_id": "1922213296998141952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017266797884436541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fishbone_022 豌豆公主"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2017208537404014820",
+        "created_at": "2026-01-30T22:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T23:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017371621812801822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1922213296998141952",
+              "start": 0,
+              "username": "fishbone_022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017371621812801822",
+        "in_reply_to_user_id": "1922213296998141952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017266797884436541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fishbone_022 豌豆公主"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922213296998141952",
+        "conversation_id": "2017208537404014820",
+        "created_at": "2026-01-30T16:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T17:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017266797884436541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017266797884436541",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017208537404014820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 为什么是豌豆捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1562,
+          "following_count": 45,
+          "like_count": 3414,
+          "listed_count": 3,
+          "media_count": 68,
+          "tweet_count": 806
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-13T08:52:26.000Z",
+        "description": "没有眼泪的明天",
+        "id": "1922213296998141952",
+        "name": "我一点也不坏",
+        "pinned_tweet_id": "2013289349882720444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016897030321295360/kRhcuaK4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 92,
+          "like_count": 960,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 767
+        },
+        "username": "fishbone_022",
+        "verified": false
+      }
+    ]
+  }
+}

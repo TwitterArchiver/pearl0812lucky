@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2014144895225610565",
+    "created_at": "2026-01-22T01:15:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T02:15:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014144895225610565"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2014144895225610565",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁说东亚人都特别吃恨海情天这一套，你大大方方说爱我，我也会大方回应你的爱。你说你恨死我了，做鬼也要缠着我，我就相信你特别恨我，并且回馈给你相同的恶意直到忘记你，爱就是爱，不许参杂恨和其他阴暗的感情，爱就大大方方的说出来吧！让我们都谈健健康康的恋爱～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2014144895225610565",
+        "created_at": "2026-01-22T01:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T02:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014144895225610565"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014144895225610565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁说东亚人都特别吃恨海情天这一套，你大大方方说爱我，我也会大方回应你的爱。你说你恨死我了，做鬼也要缠着我，我就相信你特别恨我，并且回馈给你相同的恶意直到忘记你，爱就是爱，不许参杂恨和其他阴暗的感情，爱就大大方方的说出来吧！让我们都谈健健康康的恋爱～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹  我素女同性恋啦",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1202,
+          "following_count": 41,
+          "like_count": 2307,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 665
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

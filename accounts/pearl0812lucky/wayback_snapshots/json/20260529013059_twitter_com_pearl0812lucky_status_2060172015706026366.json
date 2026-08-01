@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2059816253897023603",
+    "created_at": "2026-05-29T01:30:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T02:30:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060172015706026366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1266234387206508549",
+          "start": 0,
+          "username": "starskynay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060172015706026366",
+    "in_reply_to_user_id": "1266234387206508549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060144444171837747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@starskynay 是呀！一切都是要适量均衡～不管什么过度都是不好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2059816253897023603",
+        "created_at": "2026-05-29T01:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T02:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060172015706026366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1266234387206508549",
+              "start": 0,
+              "username": "starskynay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060172015706026366",
+        "in_reply_to_user_id": "1266234387206508549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060144444171837747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@starskynay 是呀！一切都是要适量均衡～不管什么过度都是不好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1266234387206508549",
+        "conversation_id": "2059816253897023603",
+        "created_at": "2026-05-28T23:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T00:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060144444171837747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060144444171837747",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 203,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059816253897023603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 能吃饱饭才过去三四十年。\n碳水嘲讽别人确实是有点离谱，以吃蛋白质自豪也离谱。\n虽然我也觉得蛋白质更好但是这是科学意义上，更应该均衡摄入。\n我不觉得可以以此为去嘲笑别人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8409,
+          "following_count": 70,
+          "like_count": 7739,
+          "listed_count": 8,
+          "media_count": 164,
+          "tweet_count": 1833
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-29T05:06:32.000Z",
+        "description": "",
+        "id": "1266234387206508549",
+        "name": "你有猫饼丶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046533195429208064/TjZ9V6zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 287,
+          "like_count": 12245,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 2068
+        },
+        "username": "starskynay",
+        "verified": false
+      }
+    ]
+  }
+}

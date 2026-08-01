@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2008378424147026147",
+    "created_at": "2026-01-06T03:32:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T04:32:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008381123718414545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1961806047871729664",
+          "start": 0,
+          "username": "pi_shao12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008381123718414545",
+    "in_reply_to_user_id": "1961806047871729664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008378424147026147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pi_shao12138 暧昧结束也不能当朋友 为什么有的人还是不明白这个道理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2008378424147026147",
+        "created_at": "2026-01-06T03:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T04:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008381123718414545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1961806047871729664",
+              "start": 0,
+              "username": "pi_shao12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008381123718414545",
+        "in_reply_to_user_id": "1961806047871729664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008378424147026147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pi_shao12138 暧昧结束也不能当朋友 为什么有的人还是不明白这个道理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961806047871729664",
+        "conversation_id": "2008378424147026147",
+        "created_at": "2026-01-06T03:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T04:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008378424147026147"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008378424147026147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分手了不能当朋友为什么前妻姐还是不明白这个道理"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "世界巨大，我以渺小来爱它",
+        "name": "orange cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 15,
+          "like_count": 558,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 262
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T14:59:57.000Z",
+        "description": "女同  想到什么发什么 男的别来",
+        "id": "1961806047871729664",
+        "name": "买不起低温蜡调m 拿热熔胶被 骂超雄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004333508559327232/1P2YmPqE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 29,
+          "like_count": 511,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 302
+        },
+        "username": "pi_shao12138",
+        "verified": false
+      }
+    ]
+  }
+}

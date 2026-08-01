@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041414567876829184"
+      ]
+    },
+    "author_id": "1991711672684421121",
+    "conversation_id": "2041414575611126071",
+    "created_at": "2026-04-07T07:15:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T08:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041414575611126071"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xxuRZrLaUJ",
+          "end": 45,
+          "expanded_url": "https://x.com/pearl0812lucky/status/2041414575611126071/photo/1",
+          "media_key": "3_2041414567876829184",
+          "start": 22,
+          "url": "https://t.co/xxuRZrLaUJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041414575611126071",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "终于有人点出本人多年观看bg小说难受的点了 https://t.co/xxuRZrLaUJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1407,
+        "media_key": "3_2041414567876829184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFSPu82bIAA38L1.jpg",
+        "width": 1205
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041414567876829184"
+          ]
+        },
+        "author_id": "1991711672684421121",
+        "conversation_id": "2041414575611126071",
+        "created_at": "2026-04-07T07:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T08:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041414575611126071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xxuRZrLaUJ",
+              "end": 45,
+              "expanded_url": "https://x.com/pearl0812lucky/status/2041414575611126071/photo/1",
+              "media_key": "3_2041414567876829184",
+              "start": 22,
+              "url": "https://t.co/xxuRZrLaUJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041414575611126071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于有人点出本人多年观看bg小说难受的点了 https://t.co/xxuRZrLaUJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5033,
+          "following_count": 53,
+          "like_count": 5614,
+          "listed_count": 4,
+          "media_count": 130,
+          "tweet_count": 1314
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

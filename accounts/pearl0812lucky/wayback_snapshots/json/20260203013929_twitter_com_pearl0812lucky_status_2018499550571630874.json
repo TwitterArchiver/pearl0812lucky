@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2018499550571630874",
+    "created_at": "2026-02-03T01:39:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T02:39:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018499550571630874"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2018499550571630874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "16岁的时候，你觉得100%的给予才叫爱。\n现在你的生活已被太多责任和琐事占据，只有20%的精力留给爱情，但你依然愿意把这20%的精力留给一个人的时候，这比16岁的100%更珍贵！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2018499550571630874",
+        "created_at": "2026-02-03T01:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T02:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018499550571630874"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018499550571630874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "16岁的时候，你觉得100%的给予才叫爱。\n现在你的生活已被太多责任和琐事占据，只有20%的精力留给爱情，但你依然愿意把这20%的精力留给一个人的时候，这比16岁的100%更珍贵！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1847,
+          "following_count": 48,
+          "like_count": 3727,
+          "listed_count": 3,
+          "media_count": 71,
+          "tweet_count": 845
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2007419422215209389",
+    "created_at": "2026-01-03T11:51:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T12:51:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007419422215209389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1994654689846312960",
+          "start": 3,
+          "username": "youzifantuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007419422215209389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 565
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006684943884366006",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youzifantuan: 我就是要和那种很黏我、很喜欢我、很在乎我、很宠着我的人在一起，才会变得萌萌的。不然就这个焦虑症发作一天疑神疑鬼感觉对面不喜欢我了，开始作作作。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2007419422215209389",
+        "created_at": "2026-01-03T11:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T12:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007419422215209389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1994654689846312960",
+              "start": 3,
+              "username": "youzifantuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007419422215209389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 565
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006684943884366006",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youzifantuan: 我就是要和那种很黏我、很喜欢我、很在乎我、很宠着我的人在一起，才会变得萌萌的。不然就这个焦虑症发作一天疑神疑鬼感觉对面不喜欢我了，开始作作作。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994654689846312960",
+        "conversation_id": "2006684943884366006",
+        "created_at": "2026-01-01T11:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T12:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006684943884366006"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006684943884366006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 173416,
+          "like_count": 3236,
+          "quote_count": 67,
+          "reply_count": 73,
+          "retweet_count": 565
+        },
+        "reply_settings": "everyone",
+        "text": "我就是要和那种很黏我、很喜欢我、很在乎我、很宠着我的人在一起，才会变得萌萌的。不然就这个焦虑症发作一天疑神疑鬼感觉对面不喜欢我了，开始作作作。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "世界巨大，我以渺小来爱它",
+        "name": "orange cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 12,
+          "like_count": 435,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 197
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T06:29:00.000Z",
+        "description": "发言只代表自己与其他人无关！｜年龄三岁｜都是小孩子不懂事乱发的｜文案全复制没有思考能力别骂我。",
+        "id": "1994654689846312960",
+        "name": "斯然",
+        "pinned_tweet_id": "1994682239712727485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994655022274285570/dq-NHiKt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 33,
+          "like_count": 229,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 393
+        },
+        "username": "youzifantuan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2009438074548441362",
+    "created_at": "2026-01-09T01:32:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T02:32:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009438074548441362"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pearl0812lucky…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/pearl0812lucky/status/2009156123174293690",
+          "start": 141,
+          "url": "https://t.co/Qwhas3rYqD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009438074548441362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009156123174293690",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "评论区看的我真想和你们畅聊一整个晚自习！以前纸媒还没没落我喜欢的杂志都还没休刊的时候真的好有意思！每周都可以去小报亭买杂志，以前还喜欢看《绘心》画风暖暖的特别治愈，现在我只能看得进无脑爽文越来越静不下心惹！\n我真的好爱看书和一切杂七杂八的东西，虽然没有意义但我感觉看完我变得很聪明 https://t.co/Qwhas3rYqD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2009438074548441362",
+        "created_at": "2026-01-09T01:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T02:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009438074548441362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pearl0812lucky…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/pearl0812lucky/status/2009156123174293690",
+              "start": 141,
+              "url": "https://t.co/Qwhas3rYqD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009438074548441362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009156123174293690",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "评论区看的我真想和你们畅聊一整个晚自习！以前纸媒还没没落我喜欢的杂志都还没休刊的时候真的好有意思！每周都可以去小报亭买杂志，以前还喜欢看《绘心》画风暖暖的特别治愈，现在我只能看得进无脑爽文越来越静不下心惹！\n我真的好爱看书和一切杂七杂八的东西，虽然没有意义但我感觉看完我变得很聪明 https://t.co/Qwhas3rYqD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2009156123174293690",
+        "created_at": "2026-01-08T06:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T07:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009156123174293690"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009156123174293690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 90808,
+          "like_count": 930,
+          "quote_count": 4,
+          "reply_count": 110,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "以前没有手机的时候我最喜欢看世界未解之谜，那时候我真的相信神农架有野人、飞机开到百慕大三角区会失踪、尼斯湖真的有水怪、外星人都会在美国\n但是这些在这几年通通被打假了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地 （有些就是我复制下来方便以后用的文案 不是本人想的！无意义）",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 我不聊骚！我素女同性恋",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009154002546774061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 37,
+          "like_count": 1349,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 470
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

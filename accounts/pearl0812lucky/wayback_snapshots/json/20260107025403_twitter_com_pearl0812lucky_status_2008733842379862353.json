@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2008726996612980831",
+    "created_at": "2026-01-07T02:54:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T03:54:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008733842379862353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2008118540872847360",
+          "start": 0,
+          "username": "BuNeng11215"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008733842379862353",
+    "in_reply_to_user_id": "2008118540872847360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008728361145872500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BuNeng11215 因为我是腹泻式更新......"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2008726996612980831",
+        "created_at": "2026-01-07T02:54:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T03:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008733842379862353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008118540872847360",
+              "start": 0,
+              "username": "BuNeng11215"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008733842379862353",
+        "in_reply_to_user_id": "2008118540872847360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008728361145872500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BuNeng11215 因为我是腹泻式更新......"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008118540872847360",
+        "conversation_id": "2008726996612980831",
+        "created_at": "2026-01-07T02:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T03:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008728361145872500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008728361145872500",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008726996612980831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 卧槽小橘猫你咋发这么多我每次刷新你的帖子都是首位我不行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "世界巨大，我以渺小来爱它",
+        "name": "orange cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 23,
+          "like_count": 736,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 324
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-05T10:09:18.000Z",
+        "description": "=⩌⩊⩌=",
+        "id": "2008118540872847360",
+        "name": "Zorya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008512577932849152/dYsYzTC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 34,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "BuNeng11215",
+        "verified": false
+      }
+    ]
+  }
+}

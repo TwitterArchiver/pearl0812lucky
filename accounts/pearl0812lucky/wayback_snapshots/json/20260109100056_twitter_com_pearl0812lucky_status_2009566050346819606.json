@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2009566050346819606",
+    "created_at": "2026-01-09T10:00:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T11:00:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009566050346819606"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2009566050346819606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1～12月请对我好一点  @老天爷 @老天奶@财神爷@财神奶@耶稣@玉皇大帝@王母娘娘@穆罕默德@如来佛祖@文曲星@关羽@妈祖@菩萨（排名不分先后）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2009566050346819606",
+        "created_at": "2026-01-09T10:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T11:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009566050346819606"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009566050346819606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1～12月请对我好一点  @老天爷 @老天奶@财神爷@财神奶@耶稣@玉皇大帝@王母娘娘@穆罕默德@如来佛祖@文曲星@关羽@妈祖@菩萨（排名不分先后）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地 （有些就是我复制下来方便以后用的文案 不是本人想的！无意义）",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 我不聊骚！我素女同性恋",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 39,
+          "like_count": 1503,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 516
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

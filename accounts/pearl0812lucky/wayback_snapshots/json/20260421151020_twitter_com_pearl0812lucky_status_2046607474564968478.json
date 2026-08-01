@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2046224234394034571",
+    "created_at": "2026-04-21T15:10:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T16:10:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046607474564968478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1740971205824516096",
+          "start": 0,
+          "username": "Trouble_Marker_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046607474564968478",
+    "in_reply_to_user_id": "1740971205824516096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046606537016402135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Trouble_Marker_ 那很少了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2046224234394034571",
+        "created_at": "2026-04-21T15:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T16:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046607474564968478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1740971205824516096",
+              "start": 0,
+              "username": "Trouble_Marker_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046607474564968478",
+        "in_reply_to_user_id": "1740971205824516096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046606537016402135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Trouble_Marker_ 那很少了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740971205824516096",
+        "conversation_id": "2046224234394034571",
+        "created_at": "2026-04-21T15:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T16:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046606537016402135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046606537016402135",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046224234394034571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 100000/3650=27.39726027，一天才不到三十条"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5943,
+          "following_count": 57,
+          "like_count": 6097,
+          "listed_count": 4,
+          "media_count": 144,
+          "tweet_count": 1507
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T05:41:08.000Z",
+        "description": "",
+        "id": "1740971205824516096",
+        "name": "起司豹豹",
+        "pinned_tweet_id": "2027442826787881444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045197118147899392/xqjxA2Gh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 39,
+          "like_count": 493,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 333
+        },
+        "username": "Trouble_Marker_",
+        "verified": false
+      }
+    ]
+  }
+}

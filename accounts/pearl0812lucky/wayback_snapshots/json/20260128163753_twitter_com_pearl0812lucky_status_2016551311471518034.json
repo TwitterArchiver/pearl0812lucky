@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2016539573669835099",
+    "created_at": "2026-01-28T16:37:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T17:37:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016551311471518034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1987472738966216704",
+          "start": 0,
+          "username": "ranRan1335555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016551311471518034",
+    "in_reply_to_user_id": "1987472738966216704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016543916544401615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ranRan1335555 如果是多选题的话我的答案和你一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2016539573669835099",
+        "created_at": "2026-01-28T16:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T17:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016551311471518034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1987472738966216704",
+              "start": 0,
+              "username": "ranRan1335555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016551311471518034",
+        "in_reply_to_user_id": "1987472738966216704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016543916544401615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ranRan1335555 如果是多选题的话我的答案和你一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987472738966216704",
+        "conversation_id": "2016539573669835099",
+        "created_at": "2026-01-28T16:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T17:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016543916544401615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016543916544401615",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016539573669835099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 我会说CEF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 45,
+          "like_count": 3134,
+          "listed_count": 3,
+          "media_count": 65,
+          "tweet_count": 779
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T10:50:16.000Z",
+        "description": "les🌈  感兴趣回关 私信开啦欢迎小女孩来找我玩 男的全部不回复一律拉黑不解释 男的给我发消息养胃不发财死全家",
+        "id": "1987472738966216704",
+        "name": "PinktalkR",
+        "pinned_tweet_id": "2012930597849538692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011465398479429632/-OFECD07_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1605,
+          "following_count": 33,
+          "like_count": 749,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 527
+        },
+        "username": "ranRan1335555",
+        "verified": false
+      }
+    ]
+  }
+}

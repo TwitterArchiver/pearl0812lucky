@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2076263363135652299",
+    "created_at": "2026-07-12T11:12:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T12:12:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076263363135652299"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076263363135652299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "无论对方怎么对你，你就是想跟TA在一起，是为什么？\n是因为你不够尊重你自己，你只能接受自己觉得配得上的爱，你没有生命力，你也没有攻击性，你活成了附属品，你不是完整的有着高自尊的人。你不把自己当回事，你有受虐倾向并且沉迷痛苦，你的生活中只有爱情没有其他支点仅此而已。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2076263363135652299",
+        "created_at": "2026-07-12T11:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076263363135652299"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076263363135652299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无论对方怎么对你，你就是想跟TA在一起，是为什么？\n是因为你不够尊重你自己，你只能接受自己觉得配得上的爱，你没有生命力，你也没有攻击性，你活成了附属品，你不是完整的有着高自尊的人。你不把自己当回事，你有受虐倾向并且沉迷痛苦，你的生活中只有爱情没有其他支点仅此而已。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10650,
+          "following_count": 72,
+          "like_count": 8864,
+          "listed_count": 9,
+          "media_count": 193,
+          "tweet_count": 2068
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

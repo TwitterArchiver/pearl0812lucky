@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2036389197549019322",
+    "created_at": "2026-03-24T10:26:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T11:26:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036389197549019322"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036389197549019322",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "当我内心足够强大，你指责我，我感受到你的受伤；你讨好我，我看到你需要认可；你忽略我，我明白你内心的恐惧；你鄙视我，我理解你渴望被看见。\n\n这时，我不再被你影响，而是能通过你，看见真实的自己。\n当我内心足够强大，我也可以成为你的一面镜子，让你透过我看见受伤的自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2036389197549019322",
+        "created_at": "2026-03-24T10:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T11:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036389197549019322"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036389197549019322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当我内心足够强大，你指责我，我感受到你的受伤；你讨好我，我看到你需要认可；你忽略我，我明白你内心的恐惧；你鄙视我，我理解你渴望被看见。\n\n这时，我不再被你影响，而是能通过你，看见真实的自己。\n当我内心足够强大，我也可以成为你的一面镜子，让你透过我看见受伤的自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4475,
+          "following_count": 53,
+          "like_count": 5238,
+          "listed_count": 6,
+          "media_count": 120,
+          "tweet_count": 1202
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

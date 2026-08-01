@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2041782194910458022",
+    "created_at": "2026-04-08T14:53:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T15:53:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041892129421848614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1361681689429172225",
+          "start": 0,
+          "username": "kazami_limchi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041892129421848614",
+    "in_reply_to_user_id": "1361681689429172225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041870335533052253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kazami_limchi 最快的办法就是找个公园急头白脸的玩一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2041782194910458022",
+        "created_at": "2026-04-08T14:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T15:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041892129421848614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1361681689429172225",
+              "start": 0,
+              "username": "kazami_limchi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041892129421848614",
+        "in_reply_to_user_id": "1361681689429172225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041870335533052253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kazami_limchi 最快的办法就是找个公园急头白脸的玩一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1361681689429172225",
+        "conversation_id": "2041782194910458022",
+        "created_at": "2026-04-08T13:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T14:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041870335533052253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041870335533052253",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 241,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041782194910458022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 我也想要去追逐大自然 可是现在还是学生的身份 没办法 真的该咬牙坚持继续生活吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5129,
+          "following_count": 53,
+          "like_count": 5706,
+          "listed_count": 4,
+          "media_count": 131,
+          "tweet_count": 1332
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-16T14:20:04.000Z",
+        "description": "防彈 | 努力領悟世界每個角落的意義中",
+        "id": "1361681689429172225",
+        "name": "姜太婆🐟",
+        "pinned_tweet_id": "1830616204479983824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727863143379189760/BA12cbvx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 74,
+          "like_count": 13592,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1827
+        },
+        "username": "kazami_limchi",
+        "verified": false
+      }
+    ]
+  }
+}

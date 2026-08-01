@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2008906288785395734",
+    "created_at": "2026-01-07T23:19:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T00:19:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009042149317464578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2007995602324643840",
+          "start": 0,
+          "username": "Aubergiking78"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009042149317464578",
+    "in_reply_to_user_id": "2007995602324643840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008930679317545340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aubergiking78 用天眼看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2008906288785395734",
+        "created_at": "2026-01-07T23:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T00:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009042149317464578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2007995602324643840",
+              "start": 0,
+              "username": "Aubergiking78"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009042149317464578",
+        "in_reply_to_user_id": "2007995602324643840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008930679317545340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aubergiking78 用天眼看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007995602324643840",
+        "conversation_id": "2008906288785395734",
+        "created_at": "2026-01-07T15:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T16:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008930679317545340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008930679317545340",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008906288785395734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 如果有人从后面蒙住你的眼睛，你是先用左眼看还是先用右眼看？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎来到我的生活连续剧 不聊骚 女同性恋",
+        "name": "orange cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 26,
+          "like_count": 888,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 352
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-05T02:01:06.000Z",
+        "description": "171cm 74kg 大一新生",
+        "id": "2007995602324643840",
+        "name": "111 Aubergine.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008395042906574848/X9yJArPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 4,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 7
+        },
+        "username": "Aubergiking78",
+        "verified": false
+      }
+    ]
+  }
+}

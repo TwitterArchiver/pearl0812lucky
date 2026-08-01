@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2062888056328446282",
+    "created_at": "2026-06-05T14:25:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T15:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062903534753026053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1616488252617396226",
+          "start": 0,
+          "username": "showlo5_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062903534753026053",
+    "in_reply_to_user_id": "1616488252617396226",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062888056328446282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@showlo5_ 你是中立"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2062888056328446282",
+        "created_at": "2026-06-05T14:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062903534753026053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1616488252617396226",
+              "start": 0,
+              "username": "showlo5_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062903534753026053",
+        "in_reply_to_user_id": "1616488252617396226",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062888056328446282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@showlo5_ 你是中立"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1616488252617396226",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2062888056328446282",
+        "created_at": "2026-06-05T13:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062888056328446282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mvrtinza/statu…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/mvrtinza/status/2062514580048302586",
+              "start": 3,
+              "url": "https://t.co/v9l8FQwsKm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062888056328446282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062514580048302586",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑晕 https://t.co/v9l8FQwsKm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8707,
+          "following_count": 72,
+          "like_count": 8001,
+          "listed_count": 7,
+          "media_count": 173,
+          "tweet_count": 1891
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-20T17:30:18.000Z",
+        "description": "男的别私信我",
+        "id": "1616488252617396226",
+        "name": "showxxo",
+        "pinned_tweet_id": "2003881825320816858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007115255839870976/3ir874kJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 128,
+          "like_count": 6290,
+          "listed_count": 0,
+          "media_count": 261,
+          "tweet_count": 2455
+        },
+        "username": "showlo5_",
+        "verified": false
+      }
+    ]
+  }
+}

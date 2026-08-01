@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2021939084277793116",
+    "created_at": "2026-02-12T20:05:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T21:05:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022039342223626572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1772861056937046016",
+          "start": 0,
+          "username": "wSuEv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022039342223626572",
+    "in_reply_to_user_id": "1772861056937046016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022038739279822861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wSuEv 感觉被早阳肉包和芭比馒头占领"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2021939084277793116",
+        "created_at": "2026-02-12T20:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T21:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022039342223626572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1772861056937046016",
+              "start": 0,
+              "username": "wSuEv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022039342223626572",
+        "in_reply_to_user_id": "1772861056937046016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022038739279822861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wSuEv 感觉被早阳肉包和芭比馒头占领"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772861056937046016",
+        "conversation_id": "2021939084277793116",
+        "created_at": "2026-02-12T20:02:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T21:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022038739279822861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022038739279822861",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022037989908787692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 这我还没吃过，刚一搜发现竟然如此多店"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2323,
+          "following_count": 50,
+          "like_count": 4195,
+          "listed_count": 3,
+          "media_count": 80,
+          "tweet_count": 958
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T05:39:58.000Z",
+        "description": "梦到哪句说哪句",
+        "id": "1772861056937046016",
+        "name": "SU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979572021630468096/jG35984i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 22,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 191
+        },
+        "username": "wSuEv",
+        "verified": false
+      }
+    ]
+  }
+}

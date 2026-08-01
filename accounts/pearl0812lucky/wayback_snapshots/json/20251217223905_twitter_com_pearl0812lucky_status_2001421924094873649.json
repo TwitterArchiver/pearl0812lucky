@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2001421924094873649",
+    "created_at": "2025-12-17T22:39:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T23:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001421924094873649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1731315135569076224",
+          "start": 3,
+          "username": "yixinyisansan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001421924094873649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001282706915914101",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yixinyisansan: 虽然我没有前任 没有现任 但是我真的不希望后任是那种经验很多的\n小女子真不喜欢前人栽树 后人乘凉的那种感觉 我怕我会忍不住幻想她是不是也对前任做过同样的事情 就是这样纯爱吧 \n后任你看到我的要求就洁身自好吧 我等着你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2001421924094873649",
+        "created_at": "2025-12-17T22:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T23:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001421924094873649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1731315135569076224",
+              "start": 3,
+              "username": "yixinyisansan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001421924094873649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001282706915914101",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yixinyisansan: 虽然我没有前任 没有现任 但是我真的不希望后任是那种经验很多的\n小女子真不喜欢前人栽树 后人乘凉的那种感觉 我怕我会忍不住幻想她是不是也对前任做过同样的事情 就是这样纯爱吧 \n后任你看到我的要求就洁身自好吧 我等着你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731315135569076224",
+        "conversation_id": "2001282706915914101",
+        "created_at": "2025-12-17T13:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T14:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001282706915914101"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001282706915914101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6370,
+          "like_count": 95,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "虽然我没有前任 没有现任 但是我真的不希望后任是那种经验很多的\n小女子真不喜欢前人栽树 后人乘凉的那种感觉 我怕我会忍不住幻想她是不是也对前任做过同样的事情 就是这样纯爱吧 \n后任你看到我的要求就洁身自好吧 我等着你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "👭",
+        "id": "1991711672684421121",
+        "name": "橘子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001135448505376768/-JbXfYhM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 15,
+          "like_count": 214,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 18
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-03T14:11:15.000Z",
+        "description": "欢迎小女孩阅读kitty的日记",
+        "id": "1731315135569076224",
+        "location": "这是我的日记本  只喜欢小女孩～",
+        "name": "kittyovo",
+        "pinned_tweet_id": "1965600835515371927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997511464547201024/4fTQgm4__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1625,
+          "following_count": 208,
+          "like_count": 11868,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 2980
+        },
+        "username": "yixinyisansan",
+        "verified": false
+      }
+    ]
+  }
+}

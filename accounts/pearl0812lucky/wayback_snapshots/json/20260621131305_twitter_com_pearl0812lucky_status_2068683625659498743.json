@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2068683625659498743",
+    "created_at": "2026-06-21T13:13:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T14:13:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068683625659498743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1731315135569076224",
+          "start": 3,
+          "username": "yixinyisansan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068683625659498743",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068635748904112276",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @yixinyisansan: 我一直都知道女友有一个双胞胎妹妹 但是她们从小就跟着父母分居两地\n最近我感觉她变得有点怪怪的 我们的性生活之前一直都很和谐 可是最近她变得“很不熟练” 除了必须要关灯以外 经常我还没爽到就匆匆结束了 结束后也没有事后安抚\n直到那天我坏心大发…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2068683625659498743",
+        "created_at": "2026-06-21T13:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T14:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068683625659498743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1731315135569076224",
+              "start": 3,
+              "username": "yixinyisansan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068683625659498743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068635748904112276",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @yixinyisansan: 我一直都知道女友有一个双胞胎妹妹 但是她们从小就跟着父母分居两地\n最近我感觉她变得有点怪怪的 我们的性生活之前一直都很和谐 可是最近她变得“很不熟练” 除了必须要关灯以外 经常我还没爽到就匆匆结束了 结束后也没有事后安抚\n直到那天我坏心大发…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731315135569076224",
+        "conversation_id": "2068635748904112276",
+        "created_at": "2026-06-21T10:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068635748904112276"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068635748904112276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1239,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "following",
+        "text": "我一直都知道女友有一个双胞胎妹妹 但是她们从小就跟着父母分居两地\n最近我感觉她变得有点怪怪的 我们的性生活之前一直都很和谐 可是最近她变得“很不熟练” 除了必须要关灯以外 经常我还没爽到就匆匆结束了 结束后也没有事后安抚\n直到那天我坏心大发和她玩滴蜡 在昏暗的烛光下发现“姐姐”身上多了一颗痣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9518,
+          "following_count": 73,
+          "like_count": 8436,
+          "listed_count": 8,
+          "media_count": 179,
+          "tweet_count": 1968
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-03T14:11:15.000Z",
+        "description": "这是我的日记本le \n我是女同性恋谢谢\n匿名https://t.co/67Zk5fUAE1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kittyovo0488",
+                "end": 45,
+                "expanded_url": "https://ngl.link/kittyovo0488",
+                "start": 22,
+                "url": "https://t.co/67Zk5fUAE1"
+              }
+            ]
+          }
+        },
+        "id": "1731315135569076224",
+        "location": "我需要太阳太阳太阳",
+        "name": "kittyovo",
+        "pinned_tweet_id": "1965600835515371927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054880283544182784/XTM_Ll_6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3831,
+          "following_count": 202,
+          "like_count": 27888,
+          "listed_count": 2,
+          "media_count": 380,
+          "tweet_count": 7493
+        },
+        "url": "",
+        "username": "yixinyisansan",
+        "verified": false
+      }
+    ]
+  }
+}

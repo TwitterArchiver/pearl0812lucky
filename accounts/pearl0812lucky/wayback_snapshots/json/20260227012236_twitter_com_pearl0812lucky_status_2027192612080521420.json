@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2027192612080521420",
+    "created_at": "2026-02-27T01:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T02:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027192612080521420"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027192612080521420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "男主根本记不住女主的生日，但是恶毒女配记得，并且在女主每年的生日准时作妖让男主陪着自己。不光如此，恶毒女配还总是会记得女主家人的遗物，女主遭受过的屈辱，女主的成就，而这些，男主一概不知。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2027192612080521420",
+        "created_at": "2026-02-27T01:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T02:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027192612080521420"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027192612080521420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男主根本记不住女主的生日，但是恶毒女配记得，并且在女主每年的生日准时作妖让男主陪着自己。不光如此，恶毒女配还总是会记得女主家人的遗物，女主遭受过的屈辱，女主的成就，而这些，男主一概不知。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3257,
+          "following_count": 51,
+          "like_count": 4624,
+          "listed_count": 4,
+          "media_count": 99,
+          "tweet_count": 1050
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

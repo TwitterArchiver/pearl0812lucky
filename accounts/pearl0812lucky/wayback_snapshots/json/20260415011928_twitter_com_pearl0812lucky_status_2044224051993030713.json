@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2044224051993030713",
+    "created_at": "2026-04-15T01:19:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T02:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044224051993030713"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044224051993030713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "他们都说敏感是种天赋 但驾驭这种天赋需要一颗强大的心脏 我没有 这种敏感天赋的代价就是数之不尽的精神内耗和折磨 这样的性格给我带来的只有痛苦 让我夜不能寐 最后以泪洗面 我总是克制自己我时常觉得自己的情绪阴晴不定 太过敏感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2044224051993030713",
+        "created_at": "2026-04-15T01:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T02:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044224051993030713"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044224051993030713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他们都说敏感是种天赋 但驾驭这种天赋需要一颗强大的心脏 我没有 这种敏感天赋的代价就是数之不尽的精神内耗和折磨 这样的性格给我带来的只有痛苦 让我夜不能寐 最后以泪洗面 我总是克制自己我时常觉得自己的情绪阴晴不定 太过敏感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5585,
+          "following_count": 58,
+          "like_count": 5801,
+          "listed_count": 3,
+          "media_count": 137,
+          "tweet_count": 1431
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

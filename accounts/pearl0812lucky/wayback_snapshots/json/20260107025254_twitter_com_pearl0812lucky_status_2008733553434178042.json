@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2008723956711518602",
+    "created_at": "2026-01-07T02:52:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T03:52:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008733553434178042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1596427841943793664",
+          "start": 0,
+          "username": "KillYD_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008733553434178042",
+    "in_reply_to_user_id": "1596427841943793664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008732917594481049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KillYD_ 原来是这样呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2008723956711518602",
+        "created_at": "2026-01-07T02:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T03:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008733553434178042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1596427841943793664",
+              "start": 0,
+              "username": "KillYD_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008733553434178042",
+        "in_reply_to_user_id": "1596427841943793664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008732917594481049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KillYD_ 原来是这样呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596427841943793664",
+        "conversation_id": "2008723956711518602",
+        "created_at": "2026-01-07T02:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T03:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008732917594481049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008732917594481049",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008723956711518602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 原来是这样啊！（背手离去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "世界巨大，我以渺小来爱它",
+        "name": "orange cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 23,
+          "like_count": 736,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 323
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T08:57:23.000Z",
+        "description": "🇨🇳🇺🇸/是活着的智人｜跟我玩好了 不行也无所谓",
+        "id": "1596427841943793664",
+        "name": "GZ_",
+        "pinned_tweet_id": "2008062085373272153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924153967564496897/NyzypUK0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 118,
+          "like_count": 567,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 176
+        },
+        "username": "KillYD_",
+        "verified": false
+      }
+    ]
+  }
+}

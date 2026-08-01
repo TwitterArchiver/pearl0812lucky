@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2059903227169329448",
+    "created_at": "2026-05-28T08:23:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T09:23:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059913557433856459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1857815019184107520",
+          "start": 0,
+          "username": "sxiabuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059913557433856459",
+    "in_reply_to_user_id": "1857815019184107520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059903227169329448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sxiabuu 我强烈推荐二合一菲林克 用了这个壳我就没换过膜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2059903227169329448",
+        "created_at": "2026-05-28T08:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059913557433856459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1857815019184107520",
+              "start": 0,
+              "username": "sxiabuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059913557433856459",
+        "in_reply_to_user_id": "1857815019184107520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059903227169329448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sxiabuu 我强烈推荐二合一菲林克 用了这个壳我就没换过膜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857815019184107520",
+        "conversation_id": "2059903227169329448",
+        "created_at": "2026-05-28T07:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T08:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059903227169329448"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059903227169329448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又把手机膜摔碎了。。感觉一年贴膜钱都要花好几百"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8390,
+          "following_count": 70,
+          "like_count": 7724,
+          "listed_count": 8,
+          "media_count": 164,
+          "tweet_count": 1826
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T15:56:40.000Z",
+        "description": "随便发一点 ｜只回女生私信🥰🥰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%BF%A7%E9%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%BF%A7%E9%83%81%E7%8C%AB%E7%8C%AB%E5%85%A5",
+                "start": 0,
+                "url": "https://t.co/WstlQ7qUnl"
+              }
+            ]
+          }
+        },
+        "id": "1857815019184107520",
+        "name": "忧郁猫猫入",
+        "pinned_tweet_id": "2010275589266239822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006752461290352645/ABWO_2ej_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 82,
+          "like_count": 697,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 349
+        },
+        "url": "https://t.co/WstlQ7qUnl",
+        "username": "sxiabuu",
+        "verified": false
+      }
+    ]
+  }
+}

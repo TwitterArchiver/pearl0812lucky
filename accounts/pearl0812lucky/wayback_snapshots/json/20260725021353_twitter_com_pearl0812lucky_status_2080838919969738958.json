@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2080838919969738958",
+    "created_at": "2026-07-25T02:13:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T03:13:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080838919969738958"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080838919969738958",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "把眼泪当做神灯是有次数限制的。小时候哭一哭可以得到自己想要的玩具，上学的时候哭一哭可以让爸爸妈妈请上一天的假，长大了在恋人面前哭一哭会得到她半分心软。但这种用眼泪当筹码的行为只允许有一次，往后再哭就什么用都没有了，泪只是泪。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2080838919969738958",
+        "created_at": "2026-07-25T02:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T03:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080838919969738958"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080838919969738958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "把眼泪当做神灯是有次数限制的。小时候哭一哭可以得到自己想要的玩具，上学的时候哭一哭可以让爸爸妈妈请上一天的假，长大了在恋人面前哭一哭会得到她半分心软。但这种用眼泪当筹码的行为只允许有一次，往后再哭就什么用都没有了，泪只是泪。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11336,
+          "following_count": 78,
+          "like_count": 9036,
+          "listed_count": 12,
+          "media_count": 198,
+          "tweet_count": 2139
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

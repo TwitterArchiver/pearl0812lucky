@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2074121070500798595",
+    "created_at": "2026-07-06T13:19:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T14:19:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074121070500798595"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074121070500798595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你有一点不对劲 我就开始怀疑 你是不是不喜欢我了请你原谅我总把事情想得很坏 因为我总是被抛下的那个 我害怕你也会一样抛下我 我害怕的东西太多了 我不知道怎么开口和你讲 于是我开始把我的不安和焦虑显露出来 开始变得莫名其妙 对不起 我只是想让你多爱我一点 多关心我一点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2074121070500798595",
+        "created_at": "2026-07-06T13:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T14:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074121070500798595"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074121070500798595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你有一点不对劲 我就开始怀疑 你是不是不喜欢我了请你原谅我总把事情想得很坏 因为我总是被抛下的那个 我害怕你也会一样抛下我 我害怕的东西太多了 我不知道怎么开口和你讲 于是我开始把我的不安和焦虑显露出来 开始变得莫名其妙 对不起 我只是想让你多爱我一点 多关心我一点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10163,
+          "following_count": 71,
+          "like_count": 8710,
+          "listed_count": 8,
+          "media_count": 190,
+          "tweet_count": 2044
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

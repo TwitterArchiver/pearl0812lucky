@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2008170533435617493",
+    "created_at": "2026-01-06T12:34:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T13:34:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008517472232804699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1627021011391774720",
+          "start": 0,
+          "username": "jir70675815"
+        },
+        {
+          "end": 21,
+          "id": "1815596453206904832",
+          "start": 13,
+          "username": "F6Wkw2n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008517472232804699",
+    "in_reply_to_user_id": "1627021011391774720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008517213045879109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jir70675815 @F6Wkw2n 我去我真服了这个盗图的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2008170533435617493",
+        "created_at": "2026-01-06T12:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T13:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008517472232804699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1627021011391774720",
+              "start": 0,
+              "username": "jir70675815"
+            },
+            {
+              "end": 21,
+              "id": "1815596453206904832",
+              "start": 13,
+              "username": "F6Wkw2n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008517472232804699",
+        "in_reply_to_user_id": "1627021011391774720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008517213045879109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jir70675815 @F6Wkw2n 我去我真服了这个盗图的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627021011391774720",
+        "conversation_id": "2008170533435617493",
+        "created_at": "2026-01-06T12:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T13:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008517213045879109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1815596453206904832",
+              "start": 0,
+              "username": "F6Wkw2n"
+            },
+            {
+              "end": 24,
+              "id": "1991711672684421121",
+              "start": 9,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008517213045879109",
+        "in_reply_to_user_id": "1815596453206904832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008448081956925516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@F6Wkw2n @pearl0812lucky wc，这个姐我之前在小红书关注过，老喜欢她了，她有男朋友好几年了，怎会如此"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "世界巨大，我以渺小来爱它",
+        "name": "orange cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 20,
+          "like_count": 628,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 290
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-18T19:03:51.000Z",
+        "description": "",
+        "id": "1627021011391774720",
+        "name": "甲二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642885828463718400/WKvwF97-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 24,
+          "like_count": 520,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "jir70675815",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T03:55:22.000Z",
+        "description": "🖇️",
+        "id": "1815596453206904832",
+        "name": "一滴尿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008501641893543936/Gdj2FDw5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 82,
+          "like_count": 880,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 70
+        },
+        "username": "F6Wkw2n",
+        "verified": false
+      }
+    ]
+  }
+}

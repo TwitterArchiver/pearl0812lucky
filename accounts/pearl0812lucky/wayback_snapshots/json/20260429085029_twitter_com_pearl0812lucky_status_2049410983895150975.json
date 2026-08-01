@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049410975775014912"
+      ]
+    },
+    "author_id": "1991711672684421121",
+    "conversation_id": "2049410983895150975",
+    "created_at": "2026-04-29T08:50:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T09:50:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049410983895150975"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3E6Dq74zfG",
+          "end": 117,
+          "expanded_url": "https://x.com/pearl0812lucky/status/2049410983895150975/photo/1",
+          "media_key": "3_2049410975775014912",
+          "start": 94,
+          "url": "https://t.co/3E6Dq74zfG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049410983895150975",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不好意思哦我现在才看到！其实我也有拖延症啦！想要改掉拖延症其实不是很难，第一步就是先把电子产品放下，打开音乐播放器播放你喜欢的音乐，然后一鼓作气把你要做的事情做完，期间不要干别的事情哦～ https://t.co/3E6Dq74zfG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049410975775014912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHD4bJnbQAAHv7u.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049410975775014912"
+          ]
+        },
+        "author_id": "1991711672684421121",
+        "conversation_id": "2049410983895150975",
+        "created_at": "2026-04-29T08:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T09:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049410983895150975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3E6Dq74zfG",
+              "end": 117,
+              "expanded_url": "https://x.com/pearl0812lucky/status/2049410983895150975/photo/1",
+              "media_key": "3_2049410975775014912",
+              "start": 94,
+              "url": "https://t.co/3E6Dq74zfG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049410983895150975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不好意思哦我现在才看到！其实我也有拖延症啦！想要改掉拖延症其实不是很难，第一步就是先把电子产品放下，打开音乐播放器播放你喜欢的音乐，然后一鼓作气把你要做的事情做完，期间不要干别的事情哦～ https://t.co/3E6Dq74zfG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6395,
+          "following_count": 59,
+          "like_count": 6514,
+          "listed_count": 6,
+          "media_count": 149,
+          "tweet_count": 1579
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

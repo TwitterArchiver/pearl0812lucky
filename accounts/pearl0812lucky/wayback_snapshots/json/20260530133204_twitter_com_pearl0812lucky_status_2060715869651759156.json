@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2060715869651759156",
+    "created_at": "2026-05-30T13:32:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T14:32:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060715869651759156"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060715869651759156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我坐高铁的刻板行为：\n进站前看一眼车厢座位号，摸一摸身份证\n检票前看一眼车厢座位号，摸一摸身份证\n车到站看一眼车厢座位号，摸一摸身份证\n找座位看一眼车厢座位号，摸一摸身份证\n坐下后看一眼车厢座位号，摸一摸身份证"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2060715869651759156",
+        "created_at": "2026-05-30T13:32:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T14:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060715869651759156"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060715869651759156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我坐高铁的刻板行为：\n进站前看一眼车厢座位号，摸一摸身份证\n检票前看一眼车厢座位号，摸一摸身份证\n车到站看一眼车厢座位号，摸一摸身份证\n找座位看一眼车厢座位号，摸一摸身份证\n坐下后看一眼车厢座位号，摸一摸身份证"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8431,
+          "following_count": 71,
+          "like_count": 7770,
+          "listed_count": 8,
+          "media_count": 164,
+          "tweet_count": 1841
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

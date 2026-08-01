@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991469203228901376"
+      ],
+      "media_source_tweet_id": [
+        "1991469225689641452"
+      ]
+    },
+    "author_id": "1991711672684421121",
+    "conversation_id": "1992359347352178741",
+    "created_at": "2025-11-22T22:27:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T23:27:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992359347352178741"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 42,
+          "tag": "le"
+        },
+        {
+          "end": 50,
+          "start": 46,
+          "tag": "les"
+        },
+        {
+          "end": 56,
+          "start": 51,
+          "tag": "喜欢女的"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1731315135569076224",
+          "start": 3,
+          "username": "yixinyisansan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HEM2OZruBT",
+          "end": 80,
+          "expanded_url": "https://x.com/yixinyisansan/status/1991469225689641452/photo/1",
+          "media_key": "3_1991469203228901376",
+          "start": 57,
+          "url": "https://t.co/HEM2OZruBT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992359347352178741",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991469225689641452",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yixinyisansan: 我定制的家教老师✖️女学生 \n刚刚修改了一下\n#le #les #喜欢女的 https://t.co/HEM2OZruBT"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1992359347352178741].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1992359347352178741",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1992359347352178741"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1991469203228901376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6MesGeWwAATZNJ.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991469203228901376"
+          ]
+        },
+        "author_id": "1731315135569076224",
+        "conversation_id": "1991469225689641452",
+        "created_at": "2025-11-20T11:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T12:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991469225689641452"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "le"
+            },
+            {
+              "end": 31,
+              "start": 27,
+              "tag": "les"
+            },
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "喜欢女的"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HEM2OZruBT",
+              "end": 61,
+              "expanded_url": "https://x.com/yixinyisansan/status/1991469225689641452/photo/1",
+              "media_key": "3_1991469203228901376",
+              "start": 38,
+              "url": "https://t.co/HEM2OZruBT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991469225689641452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6053,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我定制的家教老师✖️女学生 \n刚刚修改了一下\n#le #les #喜欢女的 https://t.co/HEM2OZruBT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "",
+        "id": "1991711672684421121",
+        "name": "橘子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991711826652893184/uMUi2WWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-03T14:11:15.000Z",
+        "description": "欢迎小女孩阅读kitty的日记",
+        "id": "1731315135569076224",
+        "location": "这是我的日记本  只喜欢女孩 男的勿扰",
+        "name": "kittyovo",
+        "pinned_tweet_id": "1965600835515371927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523554405580800/evr7d1_K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 220,
+          "like_count": 7263,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1519
+        },
+        "username": "yixinyisansan",
+        "verified": false
+      }
+    ]
+  }
+}

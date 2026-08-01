@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2039302558062403768",
+    "created_at": "2026-04-03T03:26:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T04:26:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039907415832100957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2018682938335047680",
+          "start": 0,
+          "username": "xi_914"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039907415832100957",
+    "in_reply_to_user_id": "2018682938335047680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039895979500204174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xi_914 跪求不调休"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2039302558062403768",
+        "created_at": "2026-04-03T03:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T04:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039907415832100957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2018682938335047680",
+              "start": 0,
+              "username": "xi_914"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039907415832100957",
+        "in_reply_to_user_id": "2018682938335047680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039895979500204174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xi_914 跪求不调休"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018682938335047680",
+        "conversation_id": "2039302558062403768",
+        "created_at": "2026-04-03T02:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T03:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039895979500204174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039895979500204174",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039302558062403768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 不允许调休可以不"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4822,
+          "following_count": 53,
+          "like_count": 5501,
+          "listed_count": 5,
+          "media_count": 127,
+          "tweet_count": 1283
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-03T13:48:45.000Z",
+        "description": "💓",
+        "id": "2018682938335047680",
+        "name": "xixile",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020532827918614528/IbhmNI1B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 9,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 15
+        },
+        "username": "xi_914",
+        "verified": false
+      }
+    ]
+  }
+}

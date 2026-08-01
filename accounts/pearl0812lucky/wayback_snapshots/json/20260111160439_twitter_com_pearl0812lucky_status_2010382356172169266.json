@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2010359314083684576",
+    "created_at": "2026-01-11T16:04:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T17:04:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010382356172169266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1553638217936945153",
+          "start": 0,
+          "username": "tpdsmz11"
+        },
+        {
+          "end": 23,
+          "id": "1967067951594696719",
+          "start": 10,
+          "username": "Shanzhu77077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010382356172169266",
+    "in_reply_to_user_id": "1553638217936945153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010382316154265607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tpdsmz11 @Shanzhu77077 给我吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2010359314083684576",
+        "created_at": "2026-01-11T16:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T17:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010382356172169266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1553638217936945153",
+              "start": 0,
+              "username": "tpdsmz11"
+            },
+            {
+              "end": 23,
+              "id": "1967067951594696719",
+              "start": 10,
+              "username": "Shanzhu77077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010382356172169266",
+        "in_reply_to_user_id": "1553638217936945153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010382316154265607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tpdsmz11 @Shanzhu77077 给我吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1553638217936945153",
+        "conversation_id": "2010359314083684576",
+        "created_at": "2026-01-11T16:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T17:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010382316154265607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            },
+            {
+              "end": 29,
+              "id": "1967067951594696719",
+              "start": 16,
+              "username": "Shanzhu77077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010382316154265607",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010381880538124648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky @Shanzhu77077 谁要。江浙沪地区1分钱包邮。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹  我素女同性恋啦",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 36,
+          "like_count": 1744,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 517
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-31T07:06:52.000Z",
+        "description": "喜欢女孩子 ^ ^日常随便发帖记录📝",
+        "id": "1553638217936945153",
+        "location": "Amsterdam, The Netherlands",
+        "name": "逃跑的三明治",
+        "pinned_tweet_id": "1987190273127162159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004553989673873409/I-09y7Mk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 49,
+          "like_count": 1771,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 589
+        },
+        "username": "tpdsmz11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-14T03:28:53.000Z",
+        "description": "理论知识大王  @shannzhuu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "shannzhuu"
+              }
+            ]
+          }
+        },
+        "id": "1967067951594696719",
+        "name": "南瓜包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982480397033156609/V-8lCJCA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 152,
+          "like_count": 5513,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 1559
+        },
+        "username": "Shanzhu77077",
+        "verified": false
+      }
+    ]
+  }
+}

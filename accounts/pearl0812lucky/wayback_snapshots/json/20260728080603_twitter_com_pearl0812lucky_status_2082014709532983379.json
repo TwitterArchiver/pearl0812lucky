@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2082014709532983379",
+    "created_at": "2026-07-28T08:06:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T09:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082014709532983379"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082014709532983379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "他说喜欢你\n1.家里缺保姆了\n2.想实行睡眠计划\n3.想代孕但没钱\n4. 主人布置的任务\n5.在养鱼塘\n6.想戏耍你\n7.性压抑得不行\n8.他感觉你很好骗\n9.在进行阶梯计划\n10.大冒险输了\n11.给你制定的杀猪盘\n12.老美派来的间谍\n13.想带你去缅北\n14. 朋友拿小号整你\n15.把你当作谁的替身\n16.想骗你进传销"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2082014709532983379",
+        "created_at": "2026-07-28T08:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082014709532983379"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082014709532983379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他说喜欢你\n1.家里缺保姆了\n2.想实行睡眠计划\n3.想代孕但没钱\n4. 主人布置的任务\n5.在养鱼塘\n6.想戏耍你\n7.性压抑得不行\n8.他感觉你很好骗\n9.在进行阶梯计划\n10.大冒险输了\n11.给你制定的杀猪盘\n12.老美派来的间谍\n13.想带你去缅北\n14. 朋友拿小号整你\n15.把你当作谁的替身\n16.想骗你进传销"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11456,
+          "following_count": 78,
+          "like_count": 9082,
+          "listed_count": 12,
+          "media_count": 199,
+          "tweet_count": 2151
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

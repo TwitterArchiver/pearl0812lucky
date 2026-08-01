@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2071766359412023378",
+    "created_at": "2026-06-30T01:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T02:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071766359412023378"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071766359412023378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个世界是一个巨大的抽奖池 游戏会歪 考试会歪 遇人会歪 人生也会歪 但总会迎来保底的 可以是抽到自推的欣喜 得到成功的踏实 遇见正缘的幸福 所以学会放下才会有新的开始"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2071766359412023378",
+        "created_at": "2026-06-30T01:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T02:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071766359412023378"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071766359412023378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个世界是一个巨大的抽奖池 游戏会歪 考试会歪 遇人会歪 人生也会歪 但总会迎来保底的 可以是抽到自推的欣喜 得到成功的踏实 遇见正缘的幸福 所以学会放下才会有新的开始"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9858,
+          "following_count": 71,
+          "like_count": 8621,
+          "listed_count": 8,
+          "media_count": 184,
+          "tweet_count": 2006
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}
