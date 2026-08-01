@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2051349439353430442",
+    "created_at": "2026-05-06T01:52:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T02:52:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051842479750861130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "937167051680108550",
+          "start": 0,
+          "username": "camillehu_hu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051842479750861130",
+    "in_reply_to_user_id": "937167051680108550",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051768074123026825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@camillehu_hu 对呀………"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2051349439353430442",
+        "created_at": "2026-05-06T01:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T02:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051842479750861130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "937167051680108550",
+              "start": 0,
+              "username": "camillehu_hu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051842479750861130",
+        "in_reply_to_user_id": "937167051680108550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051768074123026825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@camillehu_hu 对呀………"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "937167051680108550",
+        "conversation_id": "2051349439353430442",
+        "created_at": "2026-05-05T20:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T21:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051768074123026825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051768074123026825",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051349439353430442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 嗯 有道理 话说现在推特评论区都是这样的吗……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6761,
+          "following_count": 65,
+          "like_count": 6921,
+          "listed_count": 7,
+          "media_count": 151,
+          "tweet_count": 1654
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-03T03:50:11.000Z",
+        "description": "yes I love carrots\nand Yes, I’m a graphic designer",
+        "id": "937167051680108550",
+        "location": "Rockville, MD",
+        "name": "CCCarrot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1339083105676763136/gn_p1SNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 166,
+          "like_count": 2404,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 52
+        },
+        "username": "camillehu_hu",
+        "verified": false
+      }
+    ]
+  }
+}

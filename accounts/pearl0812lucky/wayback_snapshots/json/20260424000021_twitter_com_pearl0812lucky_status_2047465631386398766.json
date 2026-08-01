@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2046811073341522346",
+    "created_at": "2026-04-24T00:00:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T01:00:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047465631386398766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1981010764216573952",
+          "start": 0,
+          "username": "Avayi_Rei330"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047465631386398766",
+    "in_reply_to_user_id": "1981010764216573952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047464224801382809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Avayi_Rei330 啊哈哈哈哈哈哈哈哈哈哈哈哈哈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_2047464217415192576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGoN25lbEAAwbQb.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2556,
+        "media_key": "3_2047464217381646336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGoN25dbMAADG8R.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2046811073341522346",
+        "created_at": "2026-04-24T00:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T01:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047465631386398766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1981010764216573952",
+              "start": 0,
+              "username": "Avayi_Rei330"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047465631386398766",
+        "in_reply_to_user_id": "1981010764216573952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047464224801382809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Avayi_Rei330 啊哈哈哈哈哈哈哈哈哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047464217415192576",
+            "3_2047464217381646336"
+          ]
+        },
+        "author_id": "1981010764216573952",
+        "conversation_id": "2046811073341522346",
+        "created_at": "2026-04-23T23:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T00:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047464224801382809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZfzPO9pBB6",
+              "end": 45,
+              "expanded_url": "https://x.com/Avayi_Rei330/status/2047464224801382809/photo/1",
+              "media_key": "3_2047464217415192576",
+              "start": 22,
+              "url": "https://t.co/ZfzPO9pBB6"
+            },
+            {
+              "display_url": "pic.x.com/ZfzPO9pBB6",
+              "end": 45,
+              "expanded_url": "https://x.com/Avayi_Rei330/status/2047464224801382809/photo/1",
+              "media_key": "3_2047464217381646336",
+              "start": 22,
+              "url": "https://t.co/ZfzPO9pBB6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047464224801382809",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046811073341522346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 我要吐血了 https://t.co/ZfzPO9pBB6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6106,
+          "following_count": 58,
+          "like_count": 6281,
+          "listed_count": 4,
+          "media_count": 146,
+          "tweet_count": 1534
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-22T14:52:41.000Z",
+        "description": "",
+        "id": "1981010764216573952",
+        "name": "Ava",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020171109640073291/-3AkUazY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 8,
+          "like_count": 1534,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 54
+        },
+        "username": "Avayi_Rei330",
+        "verified": false
+      }
+    ]
+  }
+}

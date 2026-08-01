@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "2041321137213501788",
+    "created_at": "2026-04-07T01:04:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T02:04:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041321137213501788"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041321137213501788",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "心理学上有个概念叫受助者恶意，意思是当一个人认知层次不够时，你越是毫无保留地帮他、对他好，他反而不会感恩，只会滋生出隐秘的恨意与轻视。你对谁过度付出，就要背负谁的命运。善良本身没有错，但有底线、有边界的善良，才是对自己最大的保护。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2041321137213501788",
+        "created_at": "2026-04-07T01:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T02:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041321137213501788"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041321137213501788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心理学上有个概念叫受助者恶意，意思是当一个人认知层次不够时，你越是毫无保留地帮他、对他好，他反而不会感恩，只会滋生出隐秘的恨意与轻视。你对谁过度付出，就要背负谁的命运。善良本身没有错，但有底线、有边界的善良，才是对自己最大的保护。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5011,
+          "following_count": 53,
+          "like_count": 5594,
+          "listed_count": 4,
+          "media_count": 129,
+          "tweet_count": 1312
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

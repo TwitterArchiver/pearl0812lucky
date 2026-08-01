@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2044089181006377440",
+    "created_at": "2026-04-16T01:02:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T02:02:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044582045809279019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1772861056937046016",
+          "start": 0,
+          "username": "wSuEv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044582045809279019",
+    "in_reply_to_user_id": "1772861056937046016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044432263623139488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wSuEv 姐姐是我的(*≧ω≦)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2044089181006377440",
+        "created_at": "2026-04-16T01:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044582045809279019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1772861056937046016",
+              "start": 0,
+              "username": "wSuEv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044582045809279019",
+        "in_reply_to_user_id": "1772861056937046016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044432263623139488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wSuEv 姐姐是我的(*≧ω≦)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772861056937046016",
+        "conversation_id": "2044089181006377440",
+        "created_at": "2026-04-15T15:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T16:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044432263623139488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044432263623139488",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044089181006377440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 又在装萌，人人是什么意思？你最好真的讨厌，这样就归我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5605,
+          "following_count": 58,
+          "like_count": 5842,
+          "listed_count": 3,
+          "media_count": 138,
+          "tweet_count": 1439
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T05:39:58.000Z",
+        "description": "Bienvenida 梦到哪句说哪句",
+        "id": "1772861056937046016",
+        "name": "SU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979572021630468096/jG35984i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 28,
+          "like_count": 163,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 362
+        },
+        "username": "wSuEv",
+        "verified": false
+      }
+    ]
+  }
+}

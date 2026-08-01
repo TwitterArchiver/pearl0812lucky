@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2020661933939232802",
+    "created_at": "2026-02-09T12:12:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T13:12:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020833238634352889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1899934536152342529",
+          "start": 0,
+          "username": "huo20080"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020833238634352889",
+    "in_reply_to_user_id": "1899934536152342529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020815603544518967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huo20080 已复活！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2020661933939232802",
+        "created_at": "2026-02-09T12:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T13:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020833238634352889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1899934536152342529",
+              "start": 0,
+              "username": "huo20080"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020833238634352889",
+        "in_reply_to_user_id": "1899934536152342529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020815603544518967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huo20080 已复活！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899934536152342529",
+        "conversation_id": "2020661933939232802",
+        "created_at": "2026-02-09T11:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T12:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020815603544518967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020815603544518967",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020661933939232802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 我去，别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2244,
+          "following_count": 50,
+          "like_count": 4111,
+          "listed_count": 3,
+          "media_count": 77,
+          "tweet_count": 924
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-12T21:24:34.000Z",
+        "description": "我不想参与网络纷争了",
+        "id": "1899934536152342529",
+        "location": "幻想乡",
+        "name": "huo20080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990007339135692800/-BNCwnQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 63,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 67
+        },
+        "username": "huo20080",
+        "verified": false
+      }
+    ]
+  }
+}

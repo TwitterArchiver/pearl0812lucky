@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053105910382485504"
+      ]
+    },
+    "author_id": "1991711672684421121",
+    "conversation_id": "2053105917735125216",
+    "created_at": "2026-05-09T13:32:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T14:32:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053105917735125216"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/n4jfU7o4q3",
+          "end": 23,
+          "expanded_url": "https://x.com/pearl0812lucky/status/2053105917735125216/photo/1",
+          "media_key": "3_2053105910382485504",
+          "start": 0,
+          "url": "https://t.co/n4jfU7o4q3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053105917735125216",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "https://t.co/n4jfU7o4q3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1239,
+        "media_key": "3_2053105910382485504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4Y8pqaYAAnt4M.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053105910382485504"
+          ]
+        },
+        "author_id": "1991711672684421121",
+        "conversation_id": "2053105917735125216",
+        "created_at": "2026-05-09T13:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T14:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053105917735125216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n4jfU7o4q3",
+              "end": 23,
+              "expanded_url": "https://x.com/pearl0812lucky/status/2053105917735125216/photo/1",
+              "media_key": "3_2053105910382485504",
+              "start": 0,
+              "url": "https://t.co/n4jfU7o4q3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053105917735125216",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/n4jfU7o4q3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7138,
+          "following_count": 66,
+          "like_count": 6979,
+          "listed_count": 7,
+          "media_count": 157,
+          "tweet_count": 1689
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

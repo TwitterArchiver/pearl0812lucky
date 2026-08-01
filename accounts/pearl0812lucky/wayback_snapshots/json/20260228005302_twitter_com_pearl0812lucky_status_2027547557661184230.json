@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2027547557661184230",
+    "created_at": "2026-02-28T00:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T01:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027547557661184230"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027547557661184230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "讨好型人格每日熟读：\n你没资格对我提出意见\n我不去\n这一点也不好笑\n閉嘴\n你真的很无聊\n你也配评价我\n我没钱 买不起\n滚\n你别说话了，你让我觉得恶心\n我不需要\n说别人之前先看看自己吧\n别幻想了，不可能的\n你这属于NPD，就是严重的自恋型人格障\n可以先让我把话说完吗\n我又不欠你的\n这跟你有关系吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2027547557661184230",
+        "created_at": "2026-02-28T00:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T01:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027547557661184230"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027547557661184230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讨好型人格每日熟读：\n你没资格对我提出意见\n我不去\n这一点也不好笑\n閉嘴\n你真的很无聊\n你也配评价我\n我没钱 买不起\n滚\n你别说话了，你让我觉得恶心\n我不需要\n说别人之前先看看自己吧\n别幻想了，不可能的\n你这属于NPD，就是严重的自恋型人格障\n可以先让我把话说完吗\n我又不欠你的\n这跟你有关系吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3622,
+          "following_count": 51,
+          "like_count": 4698,
+          "listed_count": 4,
+          "media_count": 98,
+          "tweet_count": 1058
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

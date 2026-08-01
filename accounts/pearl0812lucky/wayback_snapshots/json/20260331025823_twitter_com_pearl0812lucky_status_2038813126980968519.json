@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2038813126980968519",
+    "created_at": "2026-03-31T02:58:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T03:58:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038813126980968519"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038813126980968519",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我们都坦然地去表达爱不好吗 喜欢就说喜欢 生气了就告诉对方为什么生气 做错事就诚恳的道歉 不要阴阳怪气的让人去猜你到底有多爱 试过坦诚后 就不会再愿意去伪装 相爱的时间太宝贵了 可不能在奇奇怪怪的问题上消磨爱意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2038813126980968519",
+        "created_at": "2026-03-31T02:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T03:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038813126980968519"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038813126980968519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们都坦然地去表达爱不好吗 喜欢就说喜欢 生气了就告诉对方为什么生气 做错事就诚恳的道歉 不要阴阳怪气的让人去猜你到底有多爱 试过坦诚后 就不会再愿意去伪装 相爱的时间太宝贵了 可不能在奇奇怪怪的问题上消磨爱意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4653,
+          "following_count": 53,
+          "like_count": 5351,
+          "listed_count": 6,
+          "media_count": 126,
+          "tweet_count": 1238
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

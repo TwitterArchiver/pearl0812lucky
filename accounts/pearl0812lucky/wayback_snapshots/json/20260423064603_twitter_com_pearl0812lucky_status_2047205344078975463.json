@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2047205344078975463",
+    "created_at": "2026-04-23T06:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T07:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047205344078975463"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047205344078975463",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我其实不太需要热闹 也不追求什么浓烈的剧情 我只是在想 能不能有一个人 和我刚好契合 然后我们就这么安安静静地 互相靠着 走完剩下的路 像两棵挨着的树根缠在一起 谁也不倒 会有的 在那之前 我先和自己相依为命"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2047205344078975463",
+        "created_at": "2026-04-23T06:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T07:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047205344078975463"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047205344078975463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我其实不太需要热闹 也不追求什么浓烈的剧情 我只是在想 能不能有一个人 和我刚好契合 然后我们就这么安安静静地 互相靠着 走完剩下的路 像两棵挨着的树根缠在一起 谁也不倒 会有的 在那之前 我先和自己相依为命"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6078,
+          "following_count": 57,
+          "like_count": 6225,
+          "listed_count": 4,
+          "media_count": 146,
+          "tweet_count": 1529
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

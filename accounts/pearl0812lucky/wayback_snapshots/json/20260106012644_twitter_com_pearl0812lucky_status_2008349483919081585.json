@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2008349483919081585",
+    "created_at": "2026-01-06T01:26:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T02:26:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008349483919081585"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2008349483919081585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果你在意我，一定会发现我右手掌心细长的伤疤。你会问我怎么了，我会告诉你是我小学的时候拿着铅笔看别人打架，不小心把笔芯戳到掌心里留下的，是凑热闹的印记。然后默默把你归类为和我一样爱管闲事的人！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2008349483919081585",
+        "created_at": "2026-01-06T01:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T02:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008349483919081585"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008349483919081585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你在意我，一定会发现我右手掌心细长的伤疤。你会问我怎么了，我会告诉你是我小学的时候拿着铅笔看别人打架，不小心把笔芯戳到掌心里留下的，是凑热闹的印记。然后默默把你归类为和我一样爱管闲事的人！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "世界巨大，我以渺小来爱它",
+        "name": "orange cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 14,
+          "like_count": 545,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 242
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

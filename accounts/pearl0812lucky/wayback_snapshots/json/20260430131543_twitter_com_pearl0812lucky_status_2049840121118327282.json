@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2049840121118327282",
+    "created_at": "2026-04-30T13:15:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T14:15:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049840121118327282"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049840121118327282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "论上学的萌点\n1.每天背着大书包走来走去，脑袋还是空空的\n2.上课认真听讲，眼睛亮晶晶盯着黑板\n3.被老师点名时，猛的抬头，耳朵都红了\n4.写作业时皱着小眉头，超认真，超可爱\n5.放学路上蹦蹦跳跳，书包袋子晃来晃去\n6.做题脸热热的，耳朵红红的，应该是心动害羞了\n7.老师萌凶萌凶的，会定时投喂作业"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2049840121118327282",
+        "created_at": "2026-04-30T13:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T14:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049840121118327282"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049840121118327282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "论上学的萌点\n1.每天背着大书包走来走去，脑袋还是空空的\n2.上课认真听讲，眼睛亮晶晶盯着黑板\n3.被老师点名时，猛的抬头，耳朵都红了\n4.写作业时皱着小眉头，超认真，超可爱\n5.放学路上蹦蹦跳跳，书包袋子晃来晃去\n6.做题脸热热的，耳朵红红的，应该是心动害羞了\n7.老师萌凶萌凶的，会定时投喂作业"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6489,
+          "following_count": 60,
+          "like_count": 6672,
+          "listed_count": 6,
+          "media_count": 148,
+          "tweet_count": 1603
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

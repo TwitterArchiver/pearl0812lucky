@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "1993948055671120327",
+    "created_at": "2025-11-27T07:40:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T08:40:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993948055671120327"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1993948055671120327",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我每天都有在进行指奸这项非人道行为\n我的手机不管愿不愿意都要被我指奸 我一直玩玩玩玩玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "1993948055671120327",
+        "created_at": "2025-11-27T07:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T08:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993948055671120327"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993948055671120327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我每天都有在进行指奸这项非人道行为\n我的手机不管愿不愿意都要被我指奸 我一直玩玩玩玩玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "",
+        "id": "1991711672684421121",
+        "name": "橘子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991711826652893184/uMUi2WWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2024805554397516243",
+    "created_at": "2026-02-20T11:17:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T12:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024805554397516243"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2024805554397516243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你总是挑自己的毛病  嫌弃自己不够坚强  习惯性否定自己  我却觉得不够完美的你  经常掉眼泪的你  像蛋挞一样脆弱的人  特别特别好  我喜欢你细腻的想法和闪亮的心   喜欢你擦干眼泪再次选择向前  喜欢你的一万次勇敢和懦弱  你很了不起  你很特别  你真的很棒了  不要说自己不好  你是最应该幸福的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2024805554397516243",
+        "created_at": "2026-02-20T11:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T12:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024805554397516243"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024805554397516243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你总是挑自己的毛病  嫌弃自己不够坚强  习惯性否定自己  我却觉得不够完美的你  经常掉眼泪的你  像蛋挞一样脆弱的人  特别特别好  我喜欢你细腻的想法和闪亮的心   喜欢你擦干眼泪再次选择向前  喜欢你的一万次勇敢和懦弱  你很了不起  你很特别  你真的很棒了  不要说自己不好  你是最应该幸福的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2761,
+          "following_count": 50,
+          "like_count": 4343,
+          "listed_count": 3,
+          "media_count": 87,
+          "tweet_count": 997
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "1994870321804140602",
+    "created_at": "2025-11-29T20:45:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T21:45:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994870321804140602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1731315135569076224",
+          "start": 3,
+          "username": "yixinyisansan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994870321804140602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994575015501779238",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yixinyisansan: 其实我真不能接受约炮 不光光是因为有逼连心的风险 感觉这件事太私密了 我们居然要在露水情缘的关系里露出自己最真实的一面 不平坦的小腹 妆容下真实的脸 青春期留下的生长纹  \n而且这件事居然是叫“做爱” 我对这个词的理解是 和爱人做 而不是需…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "1994870321804140602",
+        "created_at": "2025-11-29T20:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T21:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994870321804140602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1731315135569076224",
+              "start": 3,
+              "username": "yixinyisansan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994870321804140602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994575015501779238",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yixinyisansan: 其实我真不能接受约炮 不光光是因为有逼连心的风险 感觉这件事太私密了 我们居然要在露水情缘的关系里露出自己最真实的一面 不平坦的小腹 妆容下真实的脸 青春期留下的生长纹  \n而且这件事居然是叫“做爱” 我对这个词的理解是 和爱人做 而不是需…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731315135569076224",
+        "conversation_id": "1994575015501779238",
+        "created_at": "2025-11-29T01:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T02:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994575015501779238"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 143,
+              "start": 139,
+              "tag": "les"
+            },
+            {
+              "end": 148,
+              "start": 144,
+              "tag": "wlw"
+            },
+            {
+              "end": 152,
+              "start": 149,
+              "tag": "le"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994575015501779238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 88583,
+          "like_count": 853,
+          "quote_count": 6,
+          "reply_count": 31,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "其实我真不能接受约炮 不光光是因为有逼连心的风险 感觉这件事太私密了 我们居然要在露水情缘的关系里露出自己最真实的一面 不平坦的小腹 妆容下真实的脸 青春期留下的生长纹  \n而且这件事居然是叫“做爱” 我对这个词的理解是 和爱人做 而不是需要疏解性欲时和萍水相逢的人可以做的事 #les #wlw #le"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "",
+        "id": "1991711672684421121",
+        "name": "橘子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991711826652893184/uMUi2WWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-03T14:11:15.000Z",
+        "description": "欢迎小女孩阅读kitty的日记",
+        "id": "1731315135569076224",
+        "location": "这是我的日记本  只喜欢女孩 男的勿扰",
+        "name": "kittyovo",
+        "pinned_tweet_id": "1965600835515371927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523554405580800/evr7d1_K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 227,
+          "like_count": 8412,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 1999
+        },
+        "username": "yixinyisansan",
+        "verified": false
+      }
+    ]
+  }
+}

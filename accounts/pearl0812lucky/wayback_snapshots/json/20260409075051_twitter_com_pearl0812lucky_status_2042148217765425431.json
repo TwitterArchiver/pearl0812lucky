@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2041414575611126071",
+    "created_at": "2026-04-09T07:50:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T08:50:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042148217765425431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1720342911227920384",
+          "start": 0,
+          "username": "y_1z9w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042148217765425431",
+    "in_reply_to_user_id": "1720342911227920384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042130893695807585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y_1z9w 是呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2041414575611126071",
+        "created_at": "2026-04-09T07:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T08:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042148217765425431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1720342911227920384",
+              "start": 0,
+              "username": "y_1z9w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042148217765425431",
+        "in_reply_to_user_id": "1720342911227920384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042130893695807585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y_1z9w 是呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720342911227920384",
+        "conversation_id": "2041414575611126071",
+        "created_at": "2026-04-09T06:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T07:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042130893695807585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042130893695807585",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041414575611126071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 唉还有一个很难受的点就是 恶毒女配下场她就是她被强奸被轮被家暴，其实有很多手段可以去报复她，为什么非要这样呢每次看到这样的就很不舒服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5185,
+          "following_count": 53,
+          "like_count": 5753,
+          "listed_count": 4,
+          "media_count": 131,
+          "tweet_count": 1336
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T07:31:35.000Z",
+        "description": "想发啥发啥",
+        "id": "1720342911227920384",
+        "name": "Rey",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041596093415243776/Ei4-XJgn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 11,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 28
+        },
+        "username": "y_1z9w",
+        "verified": false
+      }
+    ]
+  }
+}

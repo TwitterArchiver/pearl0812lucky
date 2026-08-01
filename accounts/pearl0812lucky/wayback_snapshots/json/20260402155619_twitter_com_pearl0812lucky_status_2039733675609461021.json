@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2039302558062403768",
+    "created_at": "2026-04-02T15:56:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T16:56:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039733675609461021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1827698397337509888",
+          "start": 0,
+          "username": "lastsmch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039733675609461021",
+    "in_reply_to_user_id": "1827698397337509888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039665707580072081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lastsmch 允许"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2039302558062403768",
+        "created_at": "2026-04-02T15:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039733675609461021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1827698397337509888",
+              "start": 0,
+              "username": "lastsmch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039733675609461021",
+        "in_reply_to_user_id": "1827698397337509888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039665707580072081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastsmch 允许"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827698397337509888",
+        "conversation_id": "2039302558062403768",
+        "created_at": "2026-04-02T11:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T12:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039665707580072081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039665707580072081",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039302558062403768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 允许我翘课"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4781,
+          "following_count": 53,
+          "like_count": 5472,
+          "listed_count": 5,
+          "media_count": 127,
+          "tweet_count": 1270
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-25T13:24:01.000Z",
+        "description": "",
+        "id": "1827698397337509888",
+        "name": "给我750去吃海底捞meooou711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036827846602330112/SLpnIh8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 184,
+          "like_count": 981,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 715
+        },
+        "username": "lastsmch",
+        "verified": false
+      }
+    ]
+  }
+}

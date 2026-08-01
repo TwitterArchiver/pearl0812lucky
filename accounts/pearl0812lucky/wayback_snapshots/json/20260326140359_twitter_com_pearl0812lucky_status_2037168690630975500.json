@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2037065728097214708",
+    "created_at": "2026-03-26T14:03:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T15:03:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037168690630975500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1604030090454503426",
+          "start": 0,
+          "username": "T3Pink"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037168690630975500",
+    "in_reply_to_user_id": "1604030090454503426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037164671623716879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@T3Pink 是呀！那时候的新华书店还很热闹，每天都有很多人，早上都要爸爸妈妈早早的送去新华书店抢位置，再讨几块零花钱买水买雪糕，新华书店任何一块地都可以随意坐下看自己想看的书，如果没拆封还可以找店员"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2037065728097214708",
+        "created_at": "2026-03-26T14:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T15:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037168690630975500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1604030090454503426",
+              "start": 0,
+              "username": "T3Pink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037168690630975500",
+        "in_reply_to_user_id": "1604030090454503426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037164671623716879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@T3Pink 是呀！那时候的新华书店还很热闹，每天都有很多人，早上都要爸爸妈妈早早的送去新华书店抢位置，再讨几块零花钱买水买雪糕，新华书店任何一块地都可以随意坐下看自己想看的书，如果没拆封还可以找店员"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604030090454503426",
+        "conversation_id": "2037065728097214708",
+        "created_at": "2026-03-26T13:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T14:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037164671623716879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037164671623716879",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037065728097214708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 这真的是我2012年的某一天的真实经历🥺好怀念呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4554,
+          "following_count": 53,
+          "like_count": 5241,
+          "listed_count": 6,
+          "media_count": 120,
+          "tweet_count": 1207
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T08:26:01.000Z",
+        "description": "喵",
+        "id": "1604030090454503426",
+        "name": "UxU",
+        "pinned_tweet_id": "2036480772224561258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027031818063810560/uS5CRaz-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 0,
+          "like_count": 289,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 45
+        },
+        "username": "T3Pink",
+        "verified": false
+      }
+    ]
+  }
+}

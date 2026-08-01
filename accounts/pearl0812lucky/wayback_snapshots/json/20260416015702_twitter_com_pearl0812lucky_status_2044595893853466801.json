@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2044595893853466801",
+    "created_at": "2026-04-16T01:57:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T02:57:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044595893853466801"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044595893853466801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你的心理健康比你的工作重要 比钱重要 比家人的心情重要 比其他人的看法重要 如果照顾自己的情绪 意味着他人短暂的失望 那就坦然的让他们失望去吧 不要和别人一起欺负自己 你内心的平静才是最重要的 学习成为一个平静的人 接纳一切发生在自己身上的事 然后允许新的生活开始发生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2044595893853466801",
+        "created_at": "2026-04-16T01:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044595893853466801"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044595893853466801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你的心理健康比你的工作重要 比钱重要 比家人的心情重要 比其他人的看法重要 如果照顾自己的情绪 意味着他人短暂的失望 那就坦然的让他们失望去吧 不要和别人一起欺负自己 你内心的平静才是最重要的 学习成为一个平静的人 接纳一切发生在自己身上的事 然后允许新的生活开始发生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5606,
+          "following_count": 58,
+          "like_count": 5854,
+          "listed_count": 3,
+          "media_count": 138,
+          "tweet_count": 1442
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

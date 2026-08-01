@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2012426420337971670",
+    "created_at": "2026-01-17T07:59:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T08:59:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012434705258254396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1246105407589740544",
+          "start": 0,
+          "username": "camtrca"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012434705258254396",
+    "in_reply_to_user_id": "1246105407589740544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012434493362303281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@camtrca 哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哪种风格"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2012426420337971670",
+        "created_at": "2026-01-17T07:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T08:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012434705258254396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1246105407589740544",
+              "start": 0,
+              "username": "camtrca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012434705258254396",
+        "in_reply_to_user_id": "1246105407589740544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012434493362303281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@camtrca 哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哪种风格"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1246105407589740544",
+        "conversation_id": "2012426420337971670",
+        "created_at": "2026-01-17T07:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T08:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012434493362303281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012434493362303281",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012426420337971670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 我本以为转载的句子都会是同一种风格的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹  我素女同性恋啦",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 37,
+          "like_count": 1980,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 583
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-03T16:01:07.000Z",
+        "description": "不太确定为什么在这 也不太确定为什么离开",
+        "id": "1246105407589740544",
+        "location": "鸭绿江上 芦苇丛前",
+        "name": "camtrca",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978070323867287552/PW9pzmha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 120,
+          "like_count": 356,
+          "listed_count": 2,
+          "media_count": 175,
+          "tweet_count": 1602
+        },
+        "username": "camtrca",
+        "verified": true
+      }
+    ]
+  }
+}

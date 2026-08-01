@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "1999490230878109779",
+    "created_at": "2025-12-12T14:43:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T15:43:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999490230878109779"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1999490230878109779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "把你对我最有耐心的时候做成标本"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "1999490230878109779",
+        "created_at": "2025-12-12T14:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T15:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999490230878109779"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999490230878109779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "把你对我最有耐心的时候做成标本"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "👭",
+        "id": "1991711672684421121",
+        "name": "橘子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997895340184530944/9ore7GRm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 14,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 16
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

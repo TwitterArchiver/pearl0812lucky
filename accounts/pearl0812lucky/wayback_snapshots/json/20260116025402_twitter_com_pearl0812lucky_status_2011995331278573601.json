@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2011995331278573601",
+    "created_at": "2026-01-16T02:54:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T03:54:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2011995331278573601"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2011995331278573601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和你牵手是什么感觉？和你拥抱是什么感觉？和你并肩走在路上是什么感觉？靠在你怀里是什么感觉？你的指尖在聊天框另一头是什么感觉？你的ID在我主页是什么感觉？你的脸在我story是什么感觉？耳机另一半在你那里是什么感觉？餐桌对面坐着你是什么感觉？我在你镜头里是什么感觉？我在你心里是什么感觉？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2011995331278573601",
+        "created_at": "2026-01-16T02:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T03:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011995331278573601"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2011995331278573601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和你牵手是什么感觉？和你拥抱是什么感觉？和你并肩走在路上是什么感觉？靠在你怀里是什么感觉？你的指尖在聊天框另一头是什么感觉？你的ID在我主页是什么感觉？你的脸在我story是什么感觉？耳机另一半在你那里是什么感觉？餐桌对面坐着你是什么感觉？我在你镜头里是什么感觉？我在你心里是什么感觉？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹  我素女同性恋啦",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 37,
+          "like_count": 1917,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 566
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

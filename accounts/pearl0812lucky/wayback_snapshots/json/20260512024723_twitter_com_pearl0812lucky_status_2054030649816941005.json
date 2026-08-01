@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2054030473404600659",
+    "created_at": "2026-05-12T02:47:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T03:47:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054030649816941005"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054030649816941005",
+    "in_reply_to_user_id": "1991711672684421121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054030473404600659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我还没准备好谈恋爱（只是没准备好和你谈\n你不在乎我的感受（作精通用借口\n三观不合（懒得跟你吵了\n我累了（懒得编理由了\n你太幼稚了（嫌你穷不够帅，拿不出手\n没感觉了（新鲜感到期\n分开一个月才谈的（其实还没分就聊好了\n你猜（让你知难而退"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2054030473404600659",
+        "created_at": "2026-05-12T02:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T03:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054030649816941005"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054030649816941005",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054030473404600659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我还没准备好谈恋爱（只是没准备好和你谈\n你不在乎我的感受（作精通用借口\n三观不合（懒得跟你吵了\n我累了（懒得编理由了\n你太幼稚了（嫌你穷不够帅，拿不出手\n没感觉了（新鲜感到期\n分开一个月才谈的（其实还没分就聊好了\n你猜（让你知难而退"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2054030473404600659",
+        "created_at": "2026-05-12T02:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T03:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054030473404600659"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054030473404600659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分手统一话术\n你变了 跟以前不一样了（其实是我腻了\n我妈不同意（我妈背锅侠\n你给不了我未来（嫌你没钱\n我配不上你（你快走吧\n我们性格不合（你居然不按我的剧本\n异地恋太累了（我找到近的了\n你对我太好了，我压力大（好人卡升级版\n忘不了前任（扎心直球"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7337,
+          "following_count": 68,
+          "like_count": 7059,
+          "listed_count": 7,
+          "media_count": 159,
+          "tweet_count": 1709
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

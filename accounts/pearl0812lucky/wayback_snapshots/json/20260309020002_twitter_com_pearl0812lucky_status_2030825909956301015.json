@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2030825909956301015",
+    "created_at": "2026-03-09T02:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T03:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030825909956301015"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2030825909956301015",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "减少生活中的难过小tips：\n不主动视奸\n控制不了就删除拉黑\n少说话 多听 多动脑思考\n凡事有必要只解释一次\n多看书 静不下心就看电影 追追剧\n不要过多在意他人的目光\n做不到按时睡觉 至少要做到按点吃饭\n社交软件控制住1-3个之内 不要因为无聊而社交\n让自己难过的事 发泄一次就点到为止"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2030825909956301015",
+        "created_at": "2026-03-09T02:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T03:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030825909956301015"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030825909956301015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "减少生活中的难过小tips：\n不主动视奸\n控制不了就删除拉黑\n少说话 多听 多动脑思考\n凡事有必要只解释一次\n多看书 静不下心就看电影 追追剧\n不要过多在意他人的目光\n做不到按时睡觉 至少要做到按点吃饭\n社交软件控制住1-3个之内 不要因为无聊而社交\n让自己难过的事 发泄一次就点到为止"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4015,
+          "following_count": 51,
+          "like_count": 4976,
+          "listed_count": 4,
+          "media_count": 108,
+          "tweet_count": 1118
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

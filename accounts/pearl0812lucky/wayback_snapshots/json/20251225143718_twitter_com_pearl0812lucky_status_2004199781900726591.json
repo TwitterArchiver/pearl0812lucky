@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004199767015104512"
+      ]
+    },
+    "author_id": "1991711672684421121",
+    "conversation_id": "2004199781900726591",
+    "created_at": "2025-12-25T14:37:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T15:37:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004199781900726591"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qr7Bo8m8OS",
+          "end": 33,
+          "expanded_url": "https://x.com/pearl0812lucky/status/2004199781900726591/photo/1",
+          "media_key": "3_2004199767015104512",
+          "start": 10,
+          "url": "https://t.co/qr7Bo8m8OS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004199781900726591",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "灵珠魔丸和我和小狗 https://t.co/qr7Bo8m8OS"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2004199781900726591].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2004199781900726591",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2004199781900726591"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1597,
+        "media_key": "3_2004199767015104512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9BZEcPbIAAJHoq.jpg",
+        "width": 1170
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "世界巨大，我以渺小来爱它",
+        "name": "orange cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 5,
+          "like_count": 272,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 99
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2040441206803673253",
+    "created_at": "2026-04-04T15:51:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T16:51:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040457311001698657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1922808249277087746",
+          "start": 0,
+          "username": "Renneeere"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040457311001698657",
+    "in_reply_to_user_id": "1922808249277087746",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040456171556093967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Renneeere 好呀～我知道惹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2040441206803673253",
+        "created_at": "2026-04-04T15:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T16:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040457311001698657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1922808249277087746",
+              "start": 0,
+              "username": "Renneeere"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040457311001698657",
+        "in_reply_to_user_id": "1922808249277087746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040456171556093967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Renneeere 好呀～我知道惹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922808249277087746",
+        "conversation_id": "2040441206803673253",
+        "created_at": "2026-04-04T15:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T16:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040456171556093967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040456171556093967",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040441206803673253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 其实situationship并不是这样的！它代指的是“朋友以上恋人未满”，并不是恋爱但做的事和恋爱没区别，除了做爱以外还会一起出去玩一起看电影之类的。至于是不是1v1要看双方意愿，我是会1v1并且如果有合适的人想谈恋爱会和对方说清楚，双方分手再去谈恋爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4893,
+          "following_count": 53,
+          "like_count": 5529,
+          "listed_count": 5,
+          "media_count": 129,
+          "tweet_count": 1291
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-15T00:16:34.000Z",
+        "description": "打瓦厉害的优先 喜欢男妈妈 山东\n\n🈚🚪，但微信好友位有🚪（单纯为了保护隐私），不想花钱的止步于推，有兴趣的都会回🫰🏻",
+        "id": "1922808249277087746",
+        "name": "Rennnee",
+        "pinned_tweet_id": "2030275678856413570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922810433078996992/xN3XaETr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 33
+        },
+        "username": "Renneeere",
+        "verified": false
+      }
+    ]
+  }
+}

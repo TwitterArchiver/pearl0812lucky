@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2002572906623328564",
+    "created_at": "2025-12-21T02:52:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T03:52:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002572906623328564"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2002572906623328564",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人活在世上总会遇到专为你定制的魅魔\n它有可能以漂亮的人类形态出现，也有可能以白切鸡、豉油鸡、豆豉鸡、酱油鸡、干锅鸡块、大盘鸡、汽锅鸡、腐乳鸡翅、口水鸡、茶香鸡、咖喱鸡、地锅鸡、可乐鸡翅、辣子鸡、宫保鸡丁、猪肚鸡、椒麻鸡、香酥鸡、炸鸡、大鸡排的形态出现！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2002572906623328564",
+        "created_at": "2025-12-21T02:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T03:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002572906623328564"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002572906623328564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人活在世上总会遇到专为你定制的魅魔\n它有可能以漂亮的人类形态出现，也有可能以白切鸡、豉油鸡、豆豉鸡、酱油鸡、干锅鸡块、大盘鸡、汽锅鸡、腐乳鸡翅、口水鸡、茶香鸡、咖喱鸡、地锅鸡、可乐鸡翅、辣子鸡、宫保鸡丁、猪肚鸡、椒麻鸡、香酥鸡、炸鸡、大鸡排的形态出现！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "name": "柑橘类水果",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001135448505376768/-JbXfYhM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 1,
+          "like_count": 230,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 34
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

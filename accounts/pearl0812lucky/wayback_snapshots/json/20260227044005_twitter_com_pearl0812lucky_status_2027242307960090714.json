@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2027192612080521420",
+    "created_at": "2026-02-27T04:40:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T05:40:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027242307960090714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1872157303459532800",
+          "start": 0,
+          "username": "qiqi123_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027242307960090714",
+    "in_reply_to_user_id": "1872157303459532800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027237786185814342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiqi123_ 女配其实暗恋女主吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2027192612080521420",
+        "created_at": "2026-02-27T04:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T05:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027242307960090714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1872157303459532800",
+              "start": 0,
+              "username": "qiqi123_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027242307960090714",
+        "in_reply_to_user_id": "1872157303459532800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027237786185814342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiqi123_ 女配其实暗恋女主吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872157303459532800",
+        "conversation_id": "2027192612080521420",
+        "created_at": "2026-02-27T04:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T05:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027237786185814342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027237786185814342",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027192612080521420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 女配其实暗恋女主吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3290,
+          "following_count": 51,
+          "like_count": 4631,
+          "listed_count": 4,
+          "media_count": 99,
+          "tweet_count": 1057
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-26T05:47:45.000Z",
+        "description": "我会一直喜欢你",
+        "id": "1872157303459532800",
+        "name": "我讨厌你",
+        "pinned_tweet_id": "2025591969611948103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022160502420647940/8AhDlnGI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 114,
+          "like_count": 459,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1019
+        },
+        "username": "qiqi123_",
+        "verified": false
+      }
+    ]
+  }
+}

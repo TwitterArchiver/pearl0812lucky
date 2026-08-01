@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2060169762949513469",
+    "created_at": "2026-05-29T06:30:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T07:30:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060247328930594919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1886655602266640384",
+          "start": 0,
+          "username": "520Jisoo131499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060247328930594919",
+    "in_reply_to_user_id": "1886655602266640384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060231876724588547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@520Jisoo131499 我就这样假装自己是个萌萌的小女孩给她分享萌萌的日常"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2060169762949513469",
+        "created_at": "2026-05-29T06:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060247328930594919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1886655602266640384",
+              "start": 0,
+              "username": "520Jisoo131499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060247328930594919",
+        "in_reply_to_user_id": "1886655602266640384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060231876724588547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520Jisoo131499 我就这样假装自己是个萌萌的小女孩给她分享萌萌的日常"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886655602266640384",
+        "conversation_id": "2060169762949513469",
+        "created_at": "2026-05-29T05:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060231876724588547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060231876724588547",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060169762949513469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 我就这样假装自己是个萌萌的小女孩给她分享萌萌的日常"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8410,
+          "following_count": 70,
+          "like_count": 7745,
+          "listed_count": 8,
+          "media_count": 164,
+          "tweet_count": 1834
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T05:58:50.000Z",
+        "description": "我是个只敢在推上说骚话每天都在想念未来妻子的小女孩，你们来找我玩好不好！我很好说话的🥺wlw           07/h/\n欢迎来找我提问！！！https://t.co/tmBzRCeehI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/12375756",
+                "end": 96,
+                "expanded_url": "https://ngl.link/12375756",
+                "start": 73,
+                "url": "https://t.co/tmBzRCeehI"
+              }
+            ]
+          }
+        },
+        "id": "1886655602266640384",
+        "name": "我老婆呢（我是小女孩啊",
+        "pinned_tweet_id": "2056067018441552024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034347842392018944/tLJS4kvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 87,
+          "like_count": 8057,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 1172
+        },
+        "username": "520Jisoo131499",
+        "verified": false
+      }
+    ]
+  }
+}

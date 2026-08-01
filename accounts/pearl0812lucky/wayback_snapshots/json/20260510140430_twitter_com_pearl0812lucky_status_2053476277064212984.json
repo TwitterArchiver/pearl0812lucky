@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2053367210119455121",
+    "created_at": "2026-05-10T14:04:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T15:04:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053476277064212984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1464542975665520645",
+          "start": 0,
+          "username": "guantongyuexiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053476277064212984",
+    "in_reply_to_user_id": "1464542975665520645",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053475403671703641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guantongyuexiao 哈哈哈哈哈哈哈哈哈哈哈哈哈哈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1710,
+        "media_key": "3_2053475393995476992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9o_bYbEAA4g6J.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2053367210119455121",
+        "created_at": "2026-05-10T14:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053476277064212984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1464542975665520645",
+              "start": 0,
+              "username": "guantongyuexiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053476277064212984",
+        "in_reply_to_user_id": "1464542975665520645",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053475403671703641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guantongyuexiao 哈哈哈哈哈哈哈哈哈哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053475393995476992"
+          ]
+        },
+        "author_id": "1464542975665520645",
+        "conversation_id": "2053367210119455121",
+        "created_at": "2026-05-10T14:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053475403671703641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9EFfpgmXJq",
+              "end": 48,
+              "expanded_url": "https://x.com/guantongyuexiao/status/2053475403671703641/photo/1",
+              "media_key": "3_2053475393995476992",
+              "start": 25,
+              "url": "https://t.co/9EFfpgmXJq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053475403671703641",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053367210119455121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 鸭子嘴，兔耳朵呢 https://t.co/9EFfpgmXJq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7209,
+          "following_count": 66,
+          "like_count": 7005,
+          "listed_count": 7,
+          "media_count": 157,
+          "tweet_count": 1695
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-27T10:34:19.000Z",
+        "description": "",
+        "id": "1464542975665520645",
+        "location": "???",
+        "name": "麦当劳薯条世界第一！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030267744638451712/eD__k5FS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 1895,
+          "like_count": 8545,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 378
+        },
+        "username": "guantongyuexiao",
+        "verified": false
+      }
+    ]
+  }
+}

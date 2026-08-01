@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2050968570088104073",
+    "created_at": "2026-05-03T15:59:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T16:59:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050968570088104073"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050968570088104073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "五一假期在家最该干的事：\n1号，在家睡觉，休养生息\n2号，在家睡觉，补充气血\n3号，在家睡觉，安神养心\n4号，在家睡觉，润泽容颜\n5号，听反方向钟，争取再来一次"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2050968570088104073",
+        "created_at": "2026-05-03T15:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T16:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050968570088104073"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050968570088104073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "五一假期在家最该干的事：\n1号，在家睡觉，休养生息\n2号，在家睡觉，补充气血\n3号，在家睡觉，安神养心\n4号，在家睡觉，润泽容颜\n5号，听反方向钟，争取再来一次"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6640,
+          "following_count": 64,
+          "like_count": 6804,
+          "listed_count": 6,
+          "media_count": 150,
+          "tweet_count": 1630
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

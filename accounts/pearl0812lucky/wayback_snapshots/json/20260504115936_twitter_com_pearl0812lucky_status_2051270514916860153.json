@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2051262371201786066",
+    "created_at": "2026-05-04T11:59:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T12:59:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051270514916860153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1220287808159481858",
+          "start": 0,
+          "username": "7swords"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051270514916860153",
+    "in_reply_to_user_id": "1220287808159481858",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051269908928057771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7swords 会慢慢变好的呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2051262371201786066",
+        "created_at": "2026-05-04T11:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T12:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051270514916860153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1220287808159481858",
+              "start": 0,
+              "username": "7swords"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051270514916860153",
+        "in_reply_to_user_id": "1220287808159481858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051269908928057771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7swords 会慢慢变好的呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1220287808159481858",
+        "conversation_id": "2051262371201786066",
+        "created_at": "2026-05-04T11:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T12:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051269908928057771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051269908928057771",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051262371201786066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 如果意识到现在自己过得相当不顺呢😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6677,
+          "following_count": 64,
+          "like_count": 6840,
+          "listed_count": 7,
+          "media_count": 150,
+          "tweet_count": 1638
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-23T10:11:10.000Z",
+        "description": "我在这小小一方天地里谱写只属于我的故事，只因🈚人在意。也许有一天我死了之后，这里就成为我唯一活过的证明吧。/梦想是成为赛车手🏎️/F1车迷/Re0单推人/Nightcore重度依赖/幸福就像小狗的巧克力，我一吃就死了。/间歇性精神失常。/Hashimoto Arina/Ня, пока. / 🎸noob.",
+        "id": "1220287808159481858",
+        "location": "跑的越快，就离今天的难过越远。",
+        "name": "咖啡因是我的治愈良药",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915705227749072898/9aexxN5d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 725,
+          "like_count": 20186,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 850
+        },
+        "username": "7swords",
+        "verified": false
+      }
+    ]
+  }
+}

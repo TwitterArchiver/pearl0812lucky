@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2009504887990849799",
+    "created_at": "2026-01-09T06:13:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T07:13:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009508805735010336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1255073037277212678",
+          "start": 0,
+          "username": "birdasuka_azim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009508805735010336",
+    "in_reply_to_user_id": "1255073037277212678",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009504887990849799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@birdasuka_azim 只读作品不谈别的我特别喜欢他的书 《草房子》《青铜葵花》这些都很好看，还有沈石溪的《狼王梦》都是我那时候喜欢看的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2009504887990849799",
+        "created_at": "2026-01-09T06:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T07:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009508805735010336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1255073037277212678",
+              "start": 0,
+              "username": "birdasuka_azim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009508805735010336",
+        "in_reply_to_user_id": "1255073037277212678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009504887990849799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@birdasuka_azim 只读作品不谈别的我特别喜欢他的书 《草房子》《青铜葵花》这些都很好看，还有沈石溪的《狼王梦》都是我那时候喜欢看的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1255073037277212678",
+        "conversation_id": "2009504887990849799",
+        "created_at": "2026-01-09T05:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T06:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009504887990849799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pearl0812lucky…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/pearl0812lucky/status/2009156123174293690",
+              "start": 51,
+              "url": "https://t.co/vhDbFs8YLF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009504887990849799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009156123174293690",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我喜欢曹文轩的儿童文学书。然后到了高中，他突然变成“汉奸”了？。。。不知道我不了解。但是书还是不错的 https://t.co/vhDbFs8YLF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地 （有些就是我复制下来方便以后用的文案 不是本人想的！无意义）",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 我不聊骚！我素女同性恋",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 37,
+          "like_count": 1431,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 497
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-28T09:55:19.000Z",
+        "description": "想去环游世界/&TEAM/ITZY on TOP🥰 JYP FAMILY💝 CHINESE/ENGLISH/한국어勉强/日本語勉強📖P1HARMONY YOUNITE TNX XDINARY HEROES NEXZ JO1 XIKERS ATEEZ 杂食 瓶女家族饭 TWICE ITZY NMIXX 发想发的🐣",
+        "id": "1255073037277212678",
+        "location": "Earth",
+        "name": "bird",
+        "pinned_tweet_id": "1975398877126926411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008385875080802304/3-ZBg6el_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 744,
+          "like_count": 24479,
+          "listed_count": 1,
+          "media_count": 3986,
+          "tweet_count": 18472
+        },
+        "username": "birdasuka_azim",
+        "verified": false
+      }
+    ]
+  }
+}

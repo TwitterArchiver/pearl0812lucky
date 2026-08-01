@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2042960128979435716",
+    "created_at": "2026-04-11T14:19:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T15:19:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042970748478984557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1553638217936945153",
+          "start": 0,
+          "username": "tpdsmz11"
+        },
+        {
+          "end": 19,
+          "id": "1618639105944084482",
+          "start": 10,
+          "username": "OTATO_11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042970748478984557",
+    "in_reply_to_user_id": "1553638217936945153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042963765227065378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tpdsmz11 @OTATO_11 对不起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2042960128979435716",
+        "created_at": "2026-04-11T14:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T15:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042970748478984557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1553638217936945153",
+              "start": 0,
+              "username": "tpdsmz11"
+            },
+            {
+              "end": 19,
+              "id": "1618639105944084482",
+              "start": 10,
+              "username": "OTATO_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042970748478984557",
+        "in_reply_to_user_id": "1553638217936945153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042963765227065378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tpdsmz11 @OTATO_11 对不起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1553638217936945153",
+        "conversation_id": "2042960128979435716",
+        "created_at": "2026-04-11T13:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T14:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042963765227065378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1618639105944084482",
+              "start": 0,
+              "username": "OTATO_11"
+            },
+            {
+              "end": 25,
+              "id": "1991711672684421121",
+              "start": 10,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042963765227065378",
+        "in_reply_to_user_id": "1618639105944084482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042963026933092441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OTATO_11 @pearl0812lucky 真绷不住了 还以为开错平台了………🚬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5373,
+          "following_count": 54,
+          "like_count": 5665,
+          "listed_count": 3,
+          "media_count": 133,
+          "tweet_count": 1375
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-31T07:06:52.000Z",
+        "description": "^ ^日常随便发帖记录📝",
+        "id": "1553638217936945153",
+        "location": "Amsterdam, The Netherlands",
+        "name": "逃跑的三明治",
+        "pinned_tweet_id": "1987190273127162159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004553989673873409/I-09y7Mk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 64,
+          "like_count": 2741,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1106
+        },
+        "username": "tpdsmz11",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T15:57:12.000Z",
+        "description": "远的话就返程",
+        "id": "1618639105944084482",
+        "location": "Why do we only have one chance",
+        "name": "小唉",
+        "pinned_tweet_id": "2013599850986709343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041512899672150016/v9CM3bVo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 48,
+          "like_count": 223,
+          "listed_count": 0,
+          "media_count": 763,
+          "tweet_count": 3920
+        },
+        "username": "OTATO_11",
+        "verified": false
+      }
+    ]
+  }
+}

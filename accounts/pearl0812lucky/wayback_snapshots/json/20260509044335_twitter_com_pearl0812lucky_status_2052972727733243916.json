@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2052972727733243916",
+    "created_at": "2026-05-09T04:43:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T05:43:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052972727733243916"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052972727733243916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "那年我写下了三个心愿：\n以后有个饿不死的工作\n有平淡宁静的生活\nWith my true love\n第三个本来是想写下“与我的真爱共度一生”可实在是下不了笔。于是我用英文写下了“withmy.true love”好像这样羞耻就可以减半"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2052972727733243916",
+        "created_at": "2026-05-09T04:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T05:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052972727733243916"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052972727733243916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "那年我写下了三个心愿：\n以后有个饿不死的工作\n有平淡宁静的生活\nWith my true love\n第三个本来是想写下“与我的真爱共度一生”可实在是下不了笔。于是我用英文写下了“withmy.true love”好像这样羞耻就可以减半"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7125,
+          "following_count": 66,
+          "like_count": 6974,
+          "listed_count": 7,
+          "media_count": 156,
+          "tweet_count": 1687
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

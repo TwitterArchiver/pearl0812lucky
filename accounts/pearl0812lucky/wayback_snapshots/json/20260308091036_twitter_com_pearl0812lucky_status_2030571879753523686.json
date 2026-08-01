@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030571857100034048"
+      ]
+    },
+    "author_id": "1991711672684421121",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2030571879753523686",
+    "created_at": "2026-03-08T09:10:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T10:10:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030571879753523686"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4IraQQPz4s",
+          "end": 27,
+          "expanded_url": "https://x.com/pearl0812lucky/status/2030571879753523686/photo/1",
+          "media_key": "3_2030571857100034048",
+          "start": 4,
+          "url": "https://t.co/4IraQQPz4s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030571879753523686",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嗯嘟～ https://t.co/4IraQQPz4s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1384,
+        "media_key": "3_2030571857100034048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC4KWHlaUAAI0_f.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030571857100034048"
+          ]
+        },
+        "author_id": "1991711672684421121",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030571879753523686",
+        "created_at": "2026-03-08T09:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T10:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030571879753523686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4IraQQPz4s",
+              "end": 27,
+              "expanded_url": "https://x.com/pearl0812lucky/status/2030571879753523686/photo/1",
+              "media_key": "3_2030571857100034048",
+              "start": 4,
+              "url": "https://t.co/4IraQQPz4s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030571879753523686",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯嘟～ https://t.co/4IraQQPz4s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3976,
+          "following_count": 51,
+          "like_count": 4968,
+          "listed_count": 4,
+          "media_count": 108,
+          "tweet_count": 1116
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2008567645470331108",
+    "created_at": "2026-01-06T23:30:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T00:30:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008682678107938952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1967067951594696719",
+          "start": 0,
+          "username": "Shanzhu77077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008682678107938952",
+    "in_reply_to_user_id": "1967067951594696719",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008577490051277126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shanzhu77077 你去测一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2008567645470331108",
+        "created_at": "2026-01-06T23:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T00:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008682678107938952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1967067951594696719",
+              "start": 0,
+              "username": "Shanzhu77077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008682678107938952",
+        "in_reply_to_user_id": "1967067951594696719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008577490051277126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shanzhu77077 你去测一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967067951594696719",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2008567645470331108",
+        "created_at": "2026-01-06T16:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T17:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008577490051277126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008577490051277126",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008567645470331108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky grok说我是enfp嗯….🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "世界巨大，我以渺小来爱它",
+        "name": "orange cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 22,
+          "like_count": 690,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 309
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-14T03:28:53.000Z",
+        "description": "理论知识大王",
+        "id": "1967067951594696719",
+        "name": "南瓜包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982480397033156609/V-8lCJCA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 139,
+          "like_count": 4067,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1214
+        },
+        "username": "Shanzhu77077",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2012526713796718985",
+    "created_at": "2026-01-17T14:08:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T15:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012527500954599917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1600770415319666689",
+          "start": 0,
+          "username": "Serotonin__777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012527500954599917",
+    "in_reply_to_user_id": "1600770415319666689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012526713796718985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Serotonin__777 一定会的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2012526713796718985",
+        "created_at": "2026-01-17T14:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T15:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012527500954599917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1600770415319666689",
+              "start": 0,
+              "username": "Serotonin__777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012527500954599917",
+        "in_reply_to_user_id": "1600770415319666689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012526713796718985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Serotonin__777 一定会的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600770415319666689",
+        "conversation_id": "2012526713796718985",
+        "created_at": "2026-01-17T14:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T15:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012526713796718985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pearl0812lucky…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/pearl0812lucky/status/2012520607125065941",
+              "start": 24,
+              "url": "https://t.co/enyxjAqFjg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012526713796718985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012520607125065941",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "希望有一天我也可以说出来“我最近很幸福这句话” https://t.co/enyxjAqFjg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹  我素女同性恋啦",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 37,
+          "like_count": 1990,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 588
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-08T08:33:28.000Z",
+        "description": "希望睡眠充足",
+        "id": "1600770415319666689",
+        "location": "Japan",
+        "name": "人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010239393991450624/JkuAzGYJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 146,
+          "like_count": 1032,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 358
+        },
+        "username": "Serotonin__777",
+        "verified": false
+      }
+    ]
+  }
+}

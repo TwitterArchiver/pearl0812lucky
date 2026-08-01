@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2004160959993315651",
+    "created_at": "2025-12-25T12:03:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T13:03:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004160959993315651"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2004160959993315651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果有天我变坏了💔，善良也不在了💔，就别把我往回拽了💔，更别说你爱了💔，如果我变得冷漠了💔，也让你失落了💔，那是曾经我难过了💔，一个人沉默了💔，如果我没心没肺了💔，你不必安慰了💔，你的时间那么宝贵💔，你也别浪费了💔。如果我全都绝望了💔，你也可以放了💔。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2004160959993315651",
+        "created_at": "2025-12-25T12:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T13:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004160959993315651"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004160959993315651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果有天我变坏了💔，善良也不在了💔，就别把我往回拽了💔，更别说你爱了💔，如果我变得冷漠了💔，也让你失落了💔，那是曾经我难过了💔，一个人沉默了💔，如果我没心没肺了💔，你不必安慰了💔，你的时间那么宝贵💔，你也别浪费了💔。如果我全都绝望了💔，你也可以放了💔。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "世界巨大，我以渺小来爱它",
+        "name": "orange cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 4,
+          "like_count": 266,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 89
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

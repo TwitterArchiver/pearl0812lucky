@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2004510983889555472",
+    "created_at": "2025-12-26T14:50:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T15:50:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004565573578240306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1967067951594696719",
+          "start": 0,
+          "username": "Shanzhu77077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004565573578240306",
+    "in_reply_to_user_id": "1967067951594696719",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004562602358448621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shanzhu77077 好耶！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2004510983889555472",
+        "created_at": "2025-12-26T14:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T15:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004565573578240306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1967067951594696719",
+              "start": 0,
+              "username": "Shanzhu77077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004565573578240306",
+        "in_reply_to_user_id": "1967067951594696719",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004562602358448621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shanzhu77077 好耶！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967067951594696719",
+        "conversation_id": "2004510983889555472",
+        "created_at": "2025-12-26T14:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T15:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004562602358448621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004562602358448621",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004510983889555472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 我问豆包了，虽然聚酯纤维会起静电但是羊毛也会起静电！最佳解决方法就是使用除静电喷雾嗯嗯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "世界巨大，我以渺小来爱它",
+        "name": "orange cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 6,
+          "like_count": 277,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 133
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-14T03:28:53.000Z",
+        "description": "理论知识大王",
+        "id": "1967067951594696719",
+        "name": "南瓜包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982480397033156609/V-8lCJCA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 112,
+          "like_count": 2190,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 673
+        },
+        "username": "Shanzhu77077",
+        "verified": false
+      }
+    ]
+  }
+}

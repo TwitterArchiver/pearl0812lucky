@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2041320764918620544",
+    "created_at": "2026-04-07T01:02:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T02:02:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041320764918620544"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041320764918620544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不跟任何人比较时间线\n我不对抗当下正在发生的事\n我现在的样子 不是最终的样子 但也不是需要被羞耻的样子\n我允许自己现在就感到幸福\n我对自己的内在状态诚实\n我不需要把每段经历都变成 有意义的 \n我允许关系有自然的节奏 不强留 也不因为习惯将就\n我清理 而不是积累\n我信任这个过程 即使不喜欢它"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2041320764918620544",
+        "created_at": "2026-04-07T01:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T02:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041320764918620544"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041320764918620544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不跟任何人比较时间线\n我不对抗当下正在发生的事\n我现在的样子 不是最终的样子 但也不是需要被羞耻的样子\n我允许自己现在就感到幸福\n我对自己的内在状态诚实\n我不需要把每段经历都变成 有意义的 \n我允许关系有自然的节奏 不强留 也不因为习惯将就\n我清理 而不是积累\n我信任这个过程 即使不喜欢它"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5011,
+          "following_count": 53,
+          "like_count": 5594,
+          "listed_count": 4,
+          "media_count": 129,
+          "tweet_count": 1311
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

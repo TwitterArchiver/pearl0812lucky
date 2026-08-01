@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2021044698148897108",
+    "created_at": "2026-02-10T06:59:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T07:59:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021116922033733850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1464629291392503808",
+          "start": 0,
+          "username": "Czzy_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021116922033733850",
+    "in_reply_to_user_id": "1464629291392503808",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021107806196359598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Czzy_ ！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2021044698148897108",
+        "created_at": "2026-02-10T06:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T07:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021116922033733850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1464629291392503808",
+              "start": 0,
+              "username": "Czzy_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021116922033733850",
+        "in_reply_to_user_id": "1464629291392503808",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021107806196359598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Czzy_ ！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464629291392503808",
+        "conversation_id": "2021044698148897108",
+        "created_at": "2026-02-10T06:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T07:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021107806196359598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021107806196359598",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021044698148897108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 别总从自己身上找问题！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2258,
+          "following_count": 50,
+          "like_count": 4128,
+          "listed_count": 3,
+          "media_count": 76,
+          "tweet_count": 932
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-27T16:16:58.000Z",
+        "description": "",
+        "id": "1464629291392503808",
+        "name": "Cz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662701080902508544/_eweb2At_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 150,
+          "like_count": 641,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 221
+        },
+        "username": "Czzy_",
+        "verified": false
+      }
+    ]
+  }
+}

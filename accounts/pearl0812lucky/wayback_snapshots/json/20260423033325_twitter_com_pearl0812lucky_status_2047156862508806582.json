@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2047156862508806582",
+    "created_at": "2026-04-23T03:33:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T04:33:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047156862508806582"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047156862508806582",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不磕的同学不要影响磕的同学，你一个人咯噔一分钟，咱们班几十万人就是几十万分钟，多少人想磕都没这条件呢，你们能在这好好的磕是多不容易的一件事，要珍惜，不磕的同学安安静静地走，不要在下面讲小话影响到认真磕的同学。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2047156862508806582",
+        "created_at": "2026-04-23T03:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T04:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047156862508806582"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047156862508806582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不磕的同学不要影响磕的同学，你一个人咯噔一分钟，咱们班几十万人就是几十万分钟，多少人想磕都没这条件呢，你们能在这好好的磕是多不容易的一件事，要珍惜，不磕的同学安安静静地走，不要在下面讲小话影响到认真磕的同学。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6073,
+          "following_count": 58,
+          "like_count": 6224,
+          "listed_count": 4,
+          "media_count": 146,
+          "tweet_count": 1526
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

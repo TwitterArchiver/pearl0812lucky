@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2045412724071714902",
+    "created_at": "2026-04-18T10:31:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T11:31:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045450193399918904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1618639105944084482",
+          "start": 0,
+          "username": "OTATO_11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045450193399918904",
+    "in_reply_to_user_id": "1618639105944084482",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045449694675919247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OTATO_11 梦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2045412724071714902",
+        "created_at": "2026-04-18T10:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T11:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045450193399918904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1618639105944084482",
+              "start": 0,
+              "username": "OTATO_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045450193399918904",
+        "in_reply_to_user_id": "1618639105944084482",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045449694675919247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OTATO_11 梦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618639105944084482",
+        "conversation_id": "2045412724071714902",
+        "created_at": "2026-04-18T10:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T11:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045449694675919247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045449694675919247",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045412724071714902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 哪来的姐姐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5663,
+          "following_count": 58,
+          "like_count": 5969,
+          "listed_count": 3,
+          "media_count": 143,
+          "tweet_count": 1468
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T15:57:12.000Z",
+        "description": "远的话就返程",
+        "id": "1618639105944084482",
+        "location": "Why do we only have one chance",
+        "name": "小唉",
+        "pinned_tweet_id": "2013599850986709343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041512899672150016/v9CM3bVo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 48,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 770,
+          "tweet_count": 3982
+        },
+        "username": "OTATO_11",
+        "verified": false
+      }
+    ]
+  }
+}

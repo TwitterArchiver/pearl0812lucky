@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2020175783625650493",
+    "created_at": "2026-02-07T16:40:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T17:40:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020175783625650493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1731315135569076224",
+          "start": 3,
+          "username": "yixinyisansan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020175783625650493",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020175158481404041",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yixinyisansan: 隔着屏幕看着你深邃没有情绪的眼睛 好酸涩 脑海里不合时宜的匹配上了苦情歌\n我是那么地想了解你的一切 你的口癖是什么 喜欢看什么书看什么电影 你身上的味道是否如我幻想的那般 对待你的一切我是那么的好奇 \n我可以得寸进尺的打扰你吗 我不知道 只…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2020175783625650493",
+        "created_at": "2026-02-07T16:40:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T17:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020175783625650493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1731315135569076224",
+              "start": 3,
+              "username": "yixinyisansan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020175783625650493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020175158481404041",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yixinyisansan: 隔着屏幕看着你深邃没有情绪的眼睛 好酸涩 脑海里不合时宜的匹配上了苦情歌\n我是那么地想了解你的一切 你的口癖是什么 喜欢看什么书看什么电影 你身上的味道是否如我幻想的那般 对待你的一切我是那么的好奇 \n我可以得寸进尺的打扰你吗 我不知道 只…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731315135569076224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2020175158481404041",
+        "created_at": "2026-02-07T16:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T17:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020175158481404041"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020175158481404041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "隔着屏幕看着你深邃没有情绪的眼睛 好酸涩 脑海里不合时宜的匹配上了苦情歌\n我是那么地想了解你的一切 你的口癖是什么 喜欢看什么书看什么电影 你身上的味道是否如我幻想的那般 对待你的一切我是那么的好奇 \n我可以得寸进尺的打扰你吗 我不知道 只是视频软件又为我推送了你的星座解析"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2179,
+          "following_count": 50,
+          "like_count": 4013,
+          "listed_count": 3,
+          "media_count": 74,
+          "tweet_count": 903
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-03T14:11:15.000Z",
+        "description": "欢迎小女孩阅读kitty的日记",
+        "id": "1731315135569076224",
+        "location": "这是我的日记本  只喜欢小女孩～",
+        "name": "kittyovo",
+        "pinned_tweet_id": "1965600835515371927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004224801175724032/DbVT94GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2536,
+          "following_count": 189,
+          "like_count": 19364,
+          "listed_count": 3,
+          "media_count": 194,
+          "tweet_count": 4014
+        },
+        "username": "yixinyisansan",
+        "verified": false
+      }
+    ]
+  }
+}

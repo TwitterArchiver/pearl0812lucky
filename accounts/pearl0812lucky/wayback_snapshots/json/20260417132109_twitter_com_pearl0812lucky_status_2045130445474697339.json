@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045130438906388480"
+      ]
+    },
+    "author_id": "1991711672684421121",
+    "conversation_id": "2045078229934039122",
+    "created_at": "2026-04-17T13:21:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T14:21:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045130445474697339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1491097528028532737",
+          "start": 0,
+          "username": "Bibi3531566"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i6eGthR9rW",
+          "end": 56,
+          "expanded_url": "https://x.com/pearl0812lucky/status/2045130445474697339/photo/1",
+          "media_key": "3_2045130438906388480",
+          "start": 33,
+          "url": "https://t.co/i6eGthR9rW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045130445474697339",
+    "in_reply_to_user_id": "1491097528028532737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045111329229279622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bibi3531566 我今天有刷到过这个文案哎，感觉有些符合 https://t.co/i6eGthR9rW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2045130438906388480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHDTHJaoAAP_QU.jpg",
+        "width": 858
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045130438906388480"
+          ]
+        },
+        "author_id": "1991711672684421121",
+        "conversation_id": "2045078229934039122",
+        "created_at": "2026-04-17T13:21:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T14:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045130445474697339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1491097528028532737",
+              "start": 0,
+              "username": "Bibi3531566"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i6eGthR9rW",
+              "end": 56,
+              "expanded_url": "https://x.com/pearl0812lucky/status/2045130445474697339/photo/1",
+              "media_key": "3_2045130438906388480",
+              "start": 33,
+              "url": "https://t.co/i6eGthR9rW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045130445474697339",
+        "in_reply_to_user_id": "1491097528028532737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045111329229279622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bibi3531566 我今天有刷到过这个文案哎，感觉有些符合 https://t.co/i6eGthR9rW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491097528028532737",
+        "conversation_id": "2045078229934039122",
+        "created_at": "2026-04-17T12:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045111329229279622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045111329229279622",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045078229934039122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 像我，我是从小就被我妈当垃圾桶，剥夺自我主体性，我父母就被上一代剥夺，我是第三代的业力，从小到大十几年糟糕的养育模式。加上长大以后实质性的生病得了双向。加上当前经济下行，不是简简单单一句远离原生家庭就能做到的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5644,
+          "following_count": 58,
+          "like_count": 5923,
+          "listed_count": 3,
+          "media_count": 141,
+          "tweet_count": 1457
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T17:12:43.000Z",
+        "description": "",
+        "id": "1491097528028532737",
+        "name": "minim",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1491117566193922049/2gTBoGoO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 34,
+          "like_count": 489,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 34
+        },
+        "username": "Bibi3531566",
+        "verified": false
+      }
+    ]
+  }
+}

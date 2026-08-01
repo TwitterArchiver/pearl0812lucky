@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2052196653810229291",
+    "created_at": "2026-05-07T01:19:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T02:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052196653810229291"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052196653810229291",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "年时轻渴望烈暴的爱，与建人立深的厚关系，友长谊存。\n如和今大多数保人持良好关但系永远保持距离，不与参别人的人生，也想不被别人掺合。\n我得觉人和人美最好的系关都是初最识的时候，客又气热情，尊又重关心。\n一旦走深到处，人是就彼此的灾难。\n萍相水逢皆是客，情浓到处终转仇。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2052196653810229291",
+        "created_at": "2026-05-07T01:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T02:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052196653810229291"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052196653810229291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "年时轻渴望烈暴的爱，与建人立深的厚关系，友长谊存。\n如和今大多数保人持良好关但系永远保持距离，不与参别人的人生，也想不被别人掺合。\n我得觉人和人美最好的系关都是初最识的时候，客又气热情，尊又重关心。\n一旦走深到处，人是就彼此的灾难。\n萍相水逢皆是客，情浓到处终转仇。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6904,
+          "following_count": 66,
+          "like_count": 6948,
+          "listed_count": 7,
+          "media_count": 156,
+          "tweet_count": 1671
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

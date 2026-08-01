@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2044657045228691743",
+    "created_at": "2026-04-16T06:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T07:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044657045228691743"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044657045228691743",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "常年恋姐的人大都目光清澈，极度自信，且智商逐年提高，最后完全变成天才。恋姐会改善身体状况，治好各种疑难杂症。人一旦开始恋姐就说明这个人的智慧品行样貌通通都是上等，这辈子注定成功。恋姐的人具有极高的素质，能够维护治安稳定，恋姐的人注定度过幸福的一生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2044657045228691743",
+        "created_at": "2026-04-16T06:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T07:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044657045228691743"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044657045228691743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "常年恋姐的人大都目光清澈，极度自信，且智商逐年提高，最后完全变成天才。恋姐会改善身体状况，治好各种疑难杂症。人一旦开始恋姐就说明这个人的智慧品行样貌通通都是上等，这辈子注定成功。恋姐的人具有极高的素质，能够维护治安稳定，恋姐的人注定度过幸福的一生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5607,
+          "following_count": 58,
+          "like_count": 5864,
+          "listed_count": 3,
+          "media_count": 138,
+          "tweet_count": 1445
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

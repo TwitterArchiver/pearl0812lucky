@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2049495410629312707",
+    "created_at": "2026-04-29T16:14:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T17:14:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049522835480338538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1997879562248835072",
+          "start": 0,
+          "username": "Clover1221659"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049522835480338538",
+    "in_reply_to_user_id": "1997879562248835072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049520751162847695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Clover1221659 要不…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2049495410629312707",
+        "created_at": "2026-04-29T16:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T17:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049522835480338538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1997879562248835072",
+              "start": 0,
+              "username": "Clover1221659"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049522835480338538",
+        "in_reply_to_user_id": "1997879562248835072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049520751162847695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Clover1221659 要不…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997879562248835072",
+        "conversation_id": "2049495410629312707",
+        "created_at": "2026-04-29T16:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T17:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049520751162847695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049520751162847695",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049495410629312707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 男生也要垫吗🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6431,
+          "following_count": 60,
+          "like_count": 6585,
+          "listed_count": 6,
+          "media_count": 148,
+          "tweet_count": 1590
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-08T04:03:13.000Z",
+        "description": "我只是一个喜欢上网寻求认同感的阴暗b✌️😭✌️\n06/177/60，目前应用心理学大一在读🥰\n现居成都，爱好听歌，散步，做手工\n喜欢自称粥小米。嗯对！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clover1221659",
+                "end": 23,
+                "expanded_url": "https://ngl.link/clover1221659",
+                "start": 0,
+                "url": "https://t.co/Gg2d3IbffR"
+              }
+            ]
+          }
+        },
+        "id": "1997879562248835072",
+        "name": "Clover.",
+        "pinned_tweet_id": "2038307557845205482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997879806281785344/7_e0agg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 79,
+          "like_count": 248,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 612
+        },
+        "url": "https://t.co/Gg2d3IbffR",
+        "username": "Clover1221659",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2004753494457397279",
+    "created_at": "2025-12-27T03:26:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T04:26:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004755806114418840"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2004755806114418840",
+    "in_reply_to_user_id": "1991711672684421121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004755353389728251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我在某一时期和朋友闹了很大很大的矛盾，当初都不想读书了，买了早上六点的动车票就回家了，z给我打电话一直安慰我，并且分析事情的来龙去脉，安慰我回家好好玩几天，回来什么事都没了，我那段时间不想和别人接触，都是Z一直陪着我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2004753494457397279",
+        "created_at": "2025-12-27T03:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T04:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004755806114418840"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004755806114418840",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004755353389728251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在某一时期和朋友闹了很大很大的矛盾，当初都不想读书了，买了早上六点的动车票就回家了，z给我打电话一直安慰我，并且分析事情的来龙去脉，安慰我回家好好玩几天，回来什么事都没了，我那段时间不想和别人接触，都是Z一直陪着我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2004753494457397279",
+        "created_at": "2025-12-27T03:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T04:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004755353389728251"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004755353389728251",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004753494457397279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "S看着是那种很潮流的男孩，不太好接近的类型，和他相识是在刚开学的时候我们看到一个女孩在楼下哭好像和室友闹矛盾吵架了，当时我们很想帮助她但是又不太敢，L就叫S下来和我们一起帮助那个女生，后来接触下来发现他人真的很好 对女性非常之友善"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "世界巨大，我以渺小来爱它",
+        "name": "orange cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 7,
+          "like_count": 279,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 139
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

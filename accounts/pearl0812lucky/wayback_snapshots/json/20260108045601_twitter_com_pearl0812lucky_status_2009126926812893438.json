@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2009126926812893438",
+    "created_at": "2026-01-08T04:56:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T05:56:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009126926812893438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1926115911276146688",
+          "start": 3,
+          "username": "minmax2330"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009126926812893438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008800415601901678",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @minmax2330: 为什么和喜欢的人聊天没有读档功能，攻略游戏玩多了我现在只会口嗨和打直球，等我反应过来的时候已经把关系彻底搞砸了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2009126926812893438",
+        "created_at": "2026-01-08T04:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T05:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009126926812893438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1926115911276146688",
+              "start": 3,
+              "username": "minmax2330"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009126926812893438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008800415601901678",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @minmax2330: 为什么和喜欢的人聊天没有读档功能，攻略游戏玩多了我现在只会口嗨和打直球，等我反应过来的时候已经把关系彻底搞砸了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926115911276146688",
+        "conversation_id": "2008800415601901678",
+        "created_at": "2026-01-07T07:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T08:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008800415601901678"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008800415601901678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 10011,
+          "like_count": 174,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "为什么和喜欢的人聊天没有读档功能，攻略游戏玩多了我现在只会口嗨和打直球，等我反应过来的时候已经把关系彻底搞砸了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎来到我的生活连续剧 不聊骚 女同性恋",
+        "name": "orange cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 32,
+          "like_count": 1026,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 380
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T03:20:05.000Z",
+        "description": "一个很坏的小女孩 我没任何私下联系方式 不想认识任何人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b1.达蒙.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://b1.xn--hv1a41u.com/#/register?code=08aSNhb3",
+                "start": 0,
+                "url": "https://t.co/ODft3qzJ6w"
+              }
+            ]
+          }
+        },
+        "id": "1926115911276146688",
+        "name": "ivee",
+        "pinned_tweet_id": "2007697673340760195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929532345033564160/70Usr7wy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7623,
+          "following_count": 34,
+          "like_count": 9929,
+          "listed_count": 13,
+          "media_count": 42,
+          "tweet_count": 2075
+        },
+        "url": "https://t.co/ODft3qzJ6w",
+        "username": "minmax2330",
+        "verified": false
+      }
+    ]
+  }
+}

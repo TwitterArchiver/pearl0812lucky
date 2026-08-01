@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2033190409737003266",
+    "created_at": "2026-03-15T14:35:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T15:35:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033190409737003266"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2033190409737003266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "掉眼泪这事儿太私密了 你要脱的一丝不挂站我面前我可能就问你冷不冷 但你要穿的板板正正的在我面前掉眼泪 那我也跟你一起化了 掉眼泪太亲密太脆弱 这种氛围在我看来完全是在呼吁对方\"请你看见我 请你重视我 请你理解我 请你明白我好痛\"，所以现在回想起来 两个人一起抱头痛哭的时候 竟然是幸福的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2033190409737003266",
+        "created_at": "2026-03-15T14:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T15:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033190409737003266"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033190409737003266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "掉眼泪这事儿太私密了 你要脱的一丝不挂站我面前我可能就问你冷不冷 但你要穿的板板正正的在我面前掉眼泪 那我也跟你一起化了 掉眼泪太亲密太脆弱 这种氛围在我看来完全是在呼吁对方\"请你看见我 请你重视我 请你理解我 请你明白我好痛\"，所以现在回想起来 两个人一起抱头痛哭的时候 竟然是幸福的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4157,
+          "following_count": 52,
+          "like_count": 5028,
+          "listed_count": 4,
+          "media_count": 112,
+          "tweet_count": 1144
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

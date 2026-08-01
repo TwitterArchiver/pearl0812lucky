@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2010494834751205440",
+    "created_at": "2026-01-11T23:31:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T00:31:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010494834751205440"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2010494834751205440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我经常感到伤心并不是因为被伤害，而是对自己的愚蠢感到错愕。也不愿相信自己的眼光如此差，无法接受对方人设瞬间全然崩塌，我真正恨的是我的愚昧，并不是别人对我怎么样，因为我一开始居然觉得你是一个很好的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2010494834751205440",
+        "created_at": "2026-01-11T23:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T00:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010494834751205440"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010494834751205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我经常感到伤心并不是因为被伤害，而是对自己的愚蠢感到错愕。也不愿相信自己的眼光如此差，无法接受对方人设瞬间全然崩塌，我真正恨的是我的愚昧，并不是别人对我怎么样，因为我一开始居然觉得你是一个很好的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹  我素女同性恋啦",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 36,
+          "like_count": 1748,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 520
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

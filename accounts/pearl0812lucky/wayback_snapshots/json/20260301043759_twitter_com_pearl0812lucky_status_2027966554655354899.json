@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2027966554655354899",
+    "created_at": "2026-03-01T04:37:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T05:37:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027966554655354899"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027966554655354899",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以前我总觉得宁愿错也不要错过  像是拼命抓住每一次可能的温度  哪怕烫伤也不肯松手  后来才发现  有些错是消耗有些过是解脱  人会在一次次拉扯里学会放下  不再结果自责不再为离开内耗  能走散的本就不必同行  能失去的也未必值得挽留  所以现在  错也行  错过也行  过去就行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2027966554655354899",
+        "created_at": "2026-03-01T04:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T05:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027966554655354899"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027966554655354899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前我总觉得宁愿错也不要错过  像是拼命抓住每一次可能的温度  哪怕烫伤也不肯松手  后来才发现  有些错是消耗有些过是解脱  人会在一次次拉扯里学会放下  不再结果自责不再为离开内耗  能走散的本就不必同行  能失去的也未必值得挽留  所以现在  错也行  错过也行  过去就行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3744,
+          "following_count": 51,
+          "like_count": 4764,
+          "listed_count": 4,
+          "media_count": 99,
+          "tweet_count": 1067
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

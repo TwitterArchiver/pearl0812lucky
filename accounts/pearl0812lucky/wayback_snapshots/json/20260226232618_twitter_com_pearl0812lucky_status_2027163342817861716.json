@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027163323637415936"
+      ]
+    },
+    "author_id": "1991711672684421121",
+    "conversation_id": "2027163342817861716",
+    "created_at": "2026-02-26T23:26:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T00:26:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027163342817861716"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZkAfQup5WH",
+          "end": 52,
+          "expanded_url": "https://x.com/pearl0812lucky/status/2027163342817861716/photo/1",
+          "media_key": "3_2027163323637415936",
+          "start": 29,
+          "url": "https://t.co/ZkAfQup5WH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027163342817861716",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刷到这个：这些不是让你必须去做，而是为了让你有不做的权利 https://t.co/ZkAfQup5WH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1149,
+        "media_key": "3_2027163323637415936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCHuTW8bwAAmRRx.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027163323637415936"
+          ]
+        },
+        "author_id": "1991711672684421121",
+        "conversation_id": "2027163342817861716",
+        "created_at": "2026-02-26T23:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T00:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027163342817861716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZkAfQup5WH",
+              "end": 52,
+              "expanded_url": "https://x.com/pearl0812lucky/status/2027163342817861716/photo/1",
+              "media_key": "3_2027163323637415936",
+              "start": 29,
+              "url": "https://t.co/ZkAfQup5WH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027163342817861716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷到这个：这些不是让你必须去做，而是为了让你有不做的权利 https://t.co/ZkAfQup5WH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3245,
+          "following_count": 51,
+          "like_count": 4620,
+          "listed_count": 4,
+          "media_count": 99,
+          "tweet_count": 1049
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

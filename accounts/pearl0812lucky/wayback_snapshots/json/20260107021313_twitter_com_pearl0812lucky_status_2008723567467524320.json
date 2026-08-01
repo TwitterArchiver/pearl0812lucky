@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2008723567467524320",
+    "created_at": "2026-01-07T02:13:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T03:13:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008723567467524320"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2008723567467524320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每个人都有自己要做的事不是吗？（改备注为全名）不回也很正常（取消置顶）没必要做什么都跟你说一声（开启免打扰）大家应该有个人空间（设置聊天框不显示）不要太把自己当回事（取消星标）（滑进滑出对方聊天框和朋友圈一万次）（咬牙切齿）（咬牙切齿）我也不理你（揪花瓣）（点击头像拍一拍）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2008723567467524320",
+        "created_at": "2026-01-07T02:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T03:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008723567467524320"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008723567467524320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每个人都有自己要做的事不是吗？（改备注为全名）不回也很正常（取消置顶）没必要做什么都跟你说一声（开启免打扰）大家应该有个人空间（设置聊天框不显示）不要太把自己当回事（取消星标）（滑进滑出对方聊天框和朋友圈一万次）（咬牙切齿）（咬牙切齿）我也不理你（揪花瓣）（点击头像拍一拍）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "世界巨大，我以渺小来爱它",
+        "name": "orange cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 23,
+          "like_count": 711,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 317
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

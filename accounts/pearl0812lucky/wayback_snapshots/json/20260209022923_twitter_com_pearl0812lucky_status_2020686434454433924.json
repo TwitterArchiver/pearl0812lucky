@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2020670075980620048",
+    "created_at": "2026-02-09T02:29:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T03:29:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020686434454433924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1877054397546668032",
+          "start": 0,
+          "username": "helloo33146993"
+        },
+        {
+          "end": 25,
+          "id": "1618639105944084482",
+          "start": 16,
+          "username": "OTATO_11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020686434454433924",
+    "in_reply_to_user_id": "1877054397546668032",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020682250992398653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@helloo33146993 @OTATO_11"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2020682250992398653].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2020682250992398653",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2020682250992398653"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2020670075980620048",
+        "created_at": "2026-02-09T02:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T03:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020686434454433924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1877054397546668032",
+              "start": 0,
+              "username": "helloo33146993"
+            },
+            {
+              "end": 25,
+              "id": "1618639105944084482",
+              "start": 16,
+              "username": "OTATO_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020686434454433924",
+        "in_reply_to_user_id": "1877054397546668032",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020682250992398653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@helloo33146993 @OTATO_11"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2232,
+          "following_count": 50,
+          "like_count": 4081,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 915
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-08T18:07:08.000Z",
+        "description": "姐姐有宇宙 我有姐姐",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovo33_o3o",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ovo33_o3o",
+                "start": 0,
+                "url": "https://t.co/whqONA3Yy2"
+              }
+            ]
+          }
+        },
+        "id": "1877054397546668032",
+        "name": "绝对的浪漫主义",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018338935177347072/7Lry85ga_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 37,
+          "like_count": 1546,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 1249
+        },
+        "url": "https://t.co/whqONA3Yy2",
+        "username": "helloo33146993",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T15:57:12.000Z",
+        "description": "我的功能就是保护你",
+        "id": "1618639105944084482",
+        "location": "Why do we only have one chance",
+        "name": "最近睡眠好吗",
+        "pinned_tweet_id": "2013599850986709343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018339139544813568/G0m58ZRe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 49,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 513,
+          "tweet_count": 3133
+        },
+        "username": "OTATO_11",
+        "verified": false
+      }
+    ]
+  }
+}

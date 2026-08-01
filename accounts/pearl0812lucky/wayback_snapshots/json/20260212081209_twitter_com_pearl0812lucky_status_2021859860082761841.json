@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021859851148972032"
+      ]
+    },
+    "author_id": "1991711672684421121",
+    "conversation_id": "2021859860082761841",
+    "created_at": "2026-02-12T08:12:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T09:12:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021859860082761841"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bnGER8GCtZ",
+          "end": 33,
+          "expanded_url": "https://x.com/pearl0812lucky/status/2021859860082761841/photo/1",
+          "media_key": "3_2021859851148972032",
+          "start": 10,
+          "url": "https://t.co/bnGER8GCtZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021859860082761841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "恋姐癖逐字学习中～ https://t.co/bnGER8GCtZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1607,
+        "media_key": "3_2021859851148972032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA8W0oVb0AASTUH.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021859851148972032"
+          ]
+        },
+        "author_id": "1991711672684421121",
+        "conversation_id": "2021859860082761841",
+        "created_at": "2026-02-12T08:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T09:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021859860082761841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bnGER8GCtZ",
+              "end": 33,
+              "expanded_url": "https://x.com/pearl0812lucky/status/2021859860082761841/photo/1",
+              "media_key": "3_2021859851148972032",
+              "start": 10,
+              "url": "https://t.co/bnGER8GCtZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021859860082761841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恋姐癖逐字学习中～ https://t.co/bnGER8GCtZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2302,
+          "following_count": 50,
+          "like_count": 4185,
+          "listed_count": 3,
+          "media_count": 78,
+          "tweet_count": 946
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

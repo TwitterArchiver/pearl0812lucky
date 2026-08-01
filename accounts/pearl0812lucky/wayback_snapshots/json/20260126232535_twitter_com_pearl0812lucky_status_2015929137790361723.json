@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2015767775013433781",
+    "created_at": "2026-01-26T23:25:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T00:25:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015929137790361723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1594957372358684672",
+          "start": 0,
+          "username": "orz1dp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015929137790361723",
+    "in_reply_to_user_id": "1594957372358684672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015830489140191496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orz1dp 我去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2015767775013433781",
+        "created_at": "2026-01-26T23:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T00:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015929137790361723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1594957372358684672",
+              "start": 0,
+              "username": "orz1dp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015929137790361723",
+        "in_reply_to_user_id": "1594957372358684672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015830489140191496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orz1dp 我去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594957372358684672",
+        "conversation_id": "2015767775013433781",
+        "created_at": "2026-01-26T16:53:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T17:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015830489140191496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015830489140191496",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015767775013433781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 那看来我要改一下名字了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1504,
+          "following_count": 44,
+          "like_count": 2974,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 756
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T07:34:16.000Z",
+        "description": "［淫秽物品五星鉴赏家］颜控/声控/纯好色/switch偏sub和m 。喜欢年下22+勿扰。大量碎碎念不要随便关注。",
+        "id": "1594957372358684672",
+        "name": "orz-1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987931561971642369/O627Qj90_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 47,
+          "like_count": 72,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 175
+        },
+        "username": "orz1dp",
+        "verified": false
+      }
+    ]
+  }
+}

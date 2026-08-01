@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2014144895225610565",
+    "created_at": "2026-01-22T06:23:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T07:23:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014222331472908436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1959230145623138304",
+          "start": 0,
+          "username": "oouki_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014222331472908436",
+    "in_reply_to_user_id": "1959230145623138304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014212422777950250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oouki_o 好恶心！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2014144895225610565",
+        "created_at": "2026-01-22T06:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T07:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014222331472908436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1959230145623138304",
+              "start": 0,
+              "username": "oouki_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014222331472908436",
+        "in_reply_to_user_id": "1959230145623138304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014212422777950250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oouki_o 好恶心！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959230145623138304",
+        "conversation_id": "2014144895225610565",
+        "created_at": "2026-01-22T05:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T06:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014212422777950250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014212422777950250",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014144895225610565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 大大方方表达最后被欺骗  啊啊啊我真的要死了 好恶心的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹  我素女同性恋啦",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1233,
+          "following_count": 41,
+          "like_count": 2333,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 669
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-23T12:24:14.000Z",
+        "description": "谢谢你 在这世界的角落找到我^⌯𖥦⌯^੭ 防走丢wb同名o好想吃芋泥奶冻卷 圈地自萌/不喜屏蔽/阴阳怪气死全家/乱找人睡觉得艾滋 匿名问答：https://t.co/6NpukbCMno",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/oouki.hello",
+                "end": 93,
+                "expanded_url": "https://tellonym.me/oouki.hello",
+                "start": 70,
+                "url": "https://t.co/6NpukbCMno"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ooraniee",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ooraniee",
+                "start": 0,
+                "url": "https://t.co/2582ezmpxC"
+              }
+            ]
+          }
+        },
+        "id": "1959230145623138304",
+        "location": "海拉鲁大陆",
+        "name": "o好想吃芋泥奶冻卷",
+        "pinned_tweet_id": "2012576628145361100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001087386701475840/00JAfx-G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 19,
+          "like_count": 3063,
+          "listed_count": 4,
+          "media_count": 133,
+          "tweet_count": 1322
+        },
+        "url": "https://t.co/2582ezmpxC",
+        "username": "oouki_o",
+        "verified": false
+      }
+    ]
+  }
+}

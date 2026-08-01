@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2009152226112274448",
+    "created_at": "2026-01-08T06:36:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T07:36:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009152226112274448"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/orangecat60022",
+          "end": 23,
+          "expanded_url": "https://ngl.link/orangecat60022",
+          "start": 0,
+          "status": 200,
+          "title": "@orangecat: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/orangecat60022",
+          "url": "https://t.co/F3hp2ChrDw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009152226112274448",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/F3hp2ChrDw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2009152226112274448",
+        "created_at": "2026-01-08T06:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T07:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009152226112274448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/orangecat60022",
+              "end": 23,
+              "expanded_url": "https://ngl.link/orangecat60022",
+              "start": 0,
+              "status": 200,
+              "title": "@orangecat: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/orangecat60022",
+              "url": "https://t.co/F3hp2ChrDw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009152226112274448",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/F3hp2ChrDw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎来到我的生活连续剧 不聊骚 女同性恋",
+        "name": "orange cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 32,
+          "like_count": 1053,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 381
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

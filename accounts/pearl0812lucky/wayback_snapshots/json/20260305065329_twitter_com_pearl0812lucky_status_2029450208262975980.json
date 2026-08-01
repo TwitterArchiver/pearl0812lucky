@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2029430580488880506",
+    "created_at": "2026-03-05T06:53:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T07:53:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029450208262975980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1675225794375987201",
+          "start": 0,
+          "username": "Trotter55569805"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029450208262975980",
+    "in_reply_to_user_id": "1675225794375987201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029448156312944905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Trotter55569805 尽力了就很好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2029430580488880506",
+        "created_at": "2026-03-05T06:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T07:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029450208262975980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1675225794375987201",
+              "start": 0,
+              "username": "Trotter55569805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029450208262975980",
+        "in_reply_to_user_id": "1675225794375987201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029448156312944905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Trotter55569805 尽力了就很好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675225794375987201",
+        "conversation_id": "2029430580488880506",
+        "created_at": "2026-03-05T06:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T07:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029448156312944905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029448156312944905",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029430580488880506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 可是我已经尽力了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3833,
+          "following_count": 51,
+          "like_count": 4897,
+          "listed_count": 4,
+          "media_count": 105,
+          "tweet_count": 1097
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-01T19:32:40.000Z",
+        "description": "可是太阳照常升…",
+        "id": "1675225794375987201",
+        "location": "南極共和國",
+        "name": "丹柯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028518043861831680/lB5k8r3i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 933,
+          "like_count": 6760,
+          "listed_count": 2,
+          "media_count": 307,
+          "tweet_count": 3454
+        },
+        "username": "Trotter55569805",
+        "verified": false
+      }
+    ]
+  }
+}

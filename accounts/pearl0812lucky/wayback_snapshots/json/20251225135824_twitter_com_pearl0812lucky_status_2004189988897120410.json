@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2004189988897120410",
+    "created_at": "2025-12-25T13:58:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T14:58:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004189988897120410"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2004189988897120410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在最纠结的事情就是这周末要不要去找我大学同学玩，我对她的感觉真的是爱恨交杂…她是对朋友特别好，但是讲话又没那么高情商之感……虽然很久没见我很想她，但是又怕自己和她讲话生闷气，不去她又要唧唧歪歪，我明天必须好好想一下！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2004189988897120410",
+        "created_at": "2025-12-25T13:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T14:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004189988897120410"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004189988897120410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在最纠结的事情就是这周末要不要去找我大学同学玩，我对她的感觉真的是爱恨交杂…她是对朋友特别好，但是讲话又没那么高情商之感……虽然很久没见我很想她，但是又怕自己和她讲话生闷气，不去她又要唧唧歪歪，我明天必须好好想一下！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "世界巨大，我以渺小来爱它",
+        "name": "orange cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 4,
+          "like_count": 269,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 92
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2029430580488880506",
+    "created_at": "2026-03-05T05:35:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T06:35:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029430580488880506"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2029430580488880506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "\"去做你小时候需要的那个大人\"\n\n去做你难过的时候需要的那个朋友\n去做你想要的那个爱人\n去做你需要的那个英雄\n去说你犯错的时候需要的那些批评\n去说你害怕的时候需要的那些鼓励\n别用自己的期待指导别人，而是用来指导自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2029430580488880506",
+        "created_at": "2026-03-05T05:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T06:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029430580488880506"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029430580488880506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "\"去做你小时候需要的那个大人\"\n\n去做你难过的时候需要的那个朋友\n去做你想要的那个爱人\n去做你需要的那个英雄\n去说你犯错的时候需要的那些批评\n去说你害怕的时候需要的那些鼓励\n别用自己的期待指导别人，而是用来指导自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3833,
+          "following_count": 51,
+          "like_count": 4892,
+          "listed_count": 4,
+          "media_count": 105,
+          "tweet_count": 1095
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

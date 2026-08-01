@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "1995031174851534896",
+    "created_at": "2025-11-30T07:24:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T08:24:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995031174851534896"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1995031174851534896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "应付我一定特别累吧 我知道我们都不是什么有耐心的人\n能坚持那么久在没有产生更深的联系的时候就分开了 也算一种好事对么 \n我的生活又重新回到了原来的正轨上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "1995031174851534896",
+        "created_at": "2025-11-30T07:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T08:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995031174851534896"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995031174851534896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "应付我一定特别累吧 我知道我们都不是什么有耐心的人\n能坚持那么久在没有产生更深的联系的时候就分开了 也算一种好事对么 \n我的生活又重新回到了原来的正轨上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "",
+        "id": "1991711672684421121",
+        "name": "橘子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991711826652893184/uMUi2WWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

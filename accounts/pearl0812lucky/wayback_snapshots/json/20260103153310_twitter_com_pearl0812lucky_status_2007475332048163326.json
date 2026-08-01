@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2007419961162264599",
+    "created_at": "2026-01-03T15:33:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T16:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007475332048163326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1967067951594696719",
+          "start": 0,
+          "username": "Shanzhu77077"
+        },
+        {
+          "end": 28,
+          "id": "1731315135569076224",
+          "start": 14,
+          "username": "yixinyisansan"
+        },
+        {
+          "end": 38,
+          "id": "1999869438393556992",
+          "start": 29,
+          "username": "Haki1019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007475332048163326",
+    "in_reply_to_user_id": "1967067951594696719",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007474883614138859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shanzhu77077 @yixinyisansan @Haki1019 其实我一直想知道hakiiiii是直男还是4i"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2007419961162264599",
+        "created_at": "2026-01-03T15:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T16:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007475332048163326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1967067951594696719",
+              "start": 0,
+              "username": "Shanzhu77077"
+            },
+            {
+              "end": 28,
+              "id": "1731315135569076224",
+              "start": 14,
+              "username": "yixinyisansan"
+            },
+            {
+              "end": 38,
+              "id": "1999869438393556992",
+              "start": 29,
+              "username": "Haki1019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007475332048163326",
+        "in_reply_to_user_id": "1967067951594696719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007474883614138859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shanzhu77077 @yixinyisansan @Haki1019 其实我一直想知道hakiiiii是直男还是4i"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967067951594696719",
+        "conversation_id": "2007419961162264599",
+        "created_at": "2026-01-03T15:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T16:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007474883614138859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1731315135569076224",
+              "start": 0,
+              "username": "yixinyisansan"
+            },
+            {
+              "end": 24,
+              "id": "1999869438393556992",
+              "start": 15,
+              "username": "Haki1019"
+            },
+            {
+              "end": 40,
+              "id": "1991711672684421121",
+              "start": 25,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007474883614138859",
+        "in_reply_to_user_id": "1731315135569076224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007464050666750397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinyisansan @Haki1019 @pearl0812lucky 至少三个以上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "世界巨大，我以渺小来爱它",
+        "name": "orange cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 12,
+          "like_count": 465,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 207
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-14T03:28:53.000Z",
+        "description": "理论知识大王",
+        "id": "1967067951594696719",
+        "name": "南瓜包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982480397033156609/V-8lCJCA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 131,
+          "like_count": 3110,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1018
+        },
+        "username": "Shanzhu77077",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-03T14:11:15.000Z",
+        "description": "欢迎小女孩阅读kitty的日记",
+        "id": "1731315135569076224",
+        "location": "这是我的日记本  只喜欢小女孩～",
+        "name": "kittyovo",
+        "pinned_tweet_id": "1965600835515371927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004224801175724032/DbVT94GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2345,
+          "following_count": 199,
+          "like_count": 14419,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 3187
+        },
+        "username": "yixinyisansan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-13T15:50:16.000Z",
+        "description": "Nonsense  人类/性别男🥲",
+        "id": "1999869438393556992",
+        "name": "Hakiiiii！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999870036312547328/vgBLdHld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 218,
+          "like_count": 3679,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 1131
+        },
+        "username": "Haki1019",
+        "verified": false
+      }
+    ]
+  }
+}

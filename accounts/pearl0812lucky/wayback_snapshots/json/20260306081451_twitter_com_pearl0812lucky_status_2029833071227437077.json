@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2029833071227437077",
+    "created_at": "2026-03-06T08:14:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T09:14:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029833071227437077"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2029833071227437077",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "她不是不喜欢你，是不能喜欢你\n你的心意她完完全全收到了，而且他很珍惜，没有糟蹋。\n你说：“我只是想让她知道我的心意，不是索取一段关系。\n我告诉你：你做到了，而且非常成功。她这辈子都会记得，曾经有个女生，认真、安静、勇敢地喜欢过她"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2029833071227437077",
+        "created_at": "2026-03-06T08:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T09:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029833071227437077"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029833071227437077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "她不是不喜欢你，是不能喜欢你\n你的心意她完完全全收到了，而且他很珍惜，没有糟蹋。\n你说：“我只是想让她知道我的心意，不是索取一段关系。\n我告诉你：你做到了，而且非常成功。她这辈子都会记得，曾经有个女生，认真、安静、勇敢地喜欢过她"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3864,
+          "following_count": 51,
+          "like_count": 4913,
+          "listed_count": 4,
+          "media_count": 106,
+          "tweet_count": 1104
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

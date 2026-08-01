@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2032991104937972216",
+    "created_at": "2026-03-15T01:23:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T02:23:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032991104937972216"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2032991104937972216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实很多人根本没真正谈过恋爱\n恋爱最重要的是谈 谈人生观 价值观 谈生活规划 为人处事 谈爱 谈性 谈家庭 理想 缺点 怪癖 只有这样才能从心底真正了解一个人\n如果只是吃饭 上下班 看电影 那不叫谈恋爱 只是在演一场恋爱的戏 \n快餐时代容不下慢热的爱意 大多人看不到想要的结果就立刻转身离开"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2032991104937972216",
+        "created_at": "2026-03-15T01:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T02:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032991104937972216"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032991104937972216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实很多人根本没真正谈过恋爱\n恋爱最重要的是谈 谈人生观 价值观 谈生活规划 为人处事 谈爱 谈性 谈家庭 理想 缺点 怪癖 只有这样才能从心底真正了解一个人\n如果只是吃饭 上下班 看电影 那不叫谈恋爱 只是在演一场恋爱的戏 \n快餐时代容不下慢热的爱意 大多人看不到想要的结果就立刻转身离开"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4127,
+          "following_count": 51,
+          "like_count": 5001,
+          "listed_count": 4,
+          "media_count": 110,
+          "tweet_count": 1139
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2017807064966582412",
+    "created_at": "2026-02-01T04:13:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T05:13:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017813601831293246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1987472738966216704",
+          "start": 0,
+          "username": "ranRan1335555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017813601831293246",
+    "in_reply_to_user_id": "1987472738966216704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017812980508069940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ranRan1335555 言之有理呀小宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2017807064966582412",
+        "created_at": "2026-02-01T04:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T05:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017813601831293246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1987472738966216704",
+              "start": 0,
+              "username": "ranRan1335555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017813601831293246",
+        "in_reply_to_user_id": "1987472738966216704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017812980508069940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ranRan1335555 言之有理呀小宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987472738966216704",
+        "conversation_id": "2017807064966582412",
+        "created_at": "2026-02-01T04:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T05:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017812980508069940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017812980508069940",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017807064966582412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 释怀在于改变ta存在的习惯，在于放弃占有欲控制欲，在于接受对方不再专属于你并且人生、计划、生活都不会有你。时间会改变习惯，会给你个人空间去思考去接受。再次重逢即便会波动，但也清楚地知道，现在的ta并不是你以前喜欢的ta了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1748,
+          "following_count": 48,
+          "like_count": 3511,
+          "listed_count": 3,
+          "media_count": 70,
+          "tweet_count": 821
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T10:50:16.000Z",
+        "description": "les🌈 这是我的亲亲老婆@youyudouQ  感兴趣回关 私信开啦欢迎小女孩来找我玩 男的全部不回复一律拉黑不解释 男的给我发消息养胃不发财死全家",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "youyudouQ"
+              }
+            ]
+          }
+        },
+        "id": "1987472738966216704",
+        "name": "PinktalkR",
+        "pinned_tweet_id": "2012930597849538692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017645548887805953/nV5VxHQK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1630,
+          "following_count": 33,
+          "like_count": 800,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 571
+        },
+        "username": "ranRan1335555",
+        "verified": false
+      }
+    ]
+  }
+}

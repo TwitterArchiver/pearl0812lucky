@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2043518786998067258",
+    "created_at": "2026-04-13T06:03:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T07:03:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043570860578267443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1366698525476618253",
+          "start": 0,
+          "username": "BBAO34167092"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043570860578267443",
+    "in_reply_to_user_id": "1366698525476618253",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043568290795339881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BBAO34167092 美味呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2043518786998067258",
+        "created_at": "2026-04-13T06:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T07:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043570860578267443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1366698525476618253",
+              "start": 0,
+              "username": "BBAO34167092"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043570860578267443",
+        "in_reply_to_user_id": "1366698525476618253",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043568290795339881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BBAO34167092 美味呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1366698525476618253",
+        "conversation_id": "2043518786998067258",
+        "created_at": "2026-04-13T05:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T06:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043568290795339881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043568290795339881",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043518786998067258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 那我是流心芝士味（ᴗˬᴗ*)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5469,
+          "following_count": 54,
+          "like_count": 5721,
+          "listed_count": 3,
+          "media_count": 134,
+          "tweet_count": 1403
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-02T10:35:05.000Z",
+        "description": "已婚，女人至死是少女，我所说的少女指的是心态。小猫文学爱好者，我来到这个世界是体验爱的。我将这样萌到100岁。内容是什么都发。有道德但不多，有趣的人私信我会回复。提问窗口https://t.co/6yow1aHamc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/12376442",
+                "end": 108,
+                "expanded_url": "https://ngl.link/12376442",
+                "start": 85,
+                "url": "https://t.co/6yow1aHamc"
+              }
+            ]
+          }
+        },
+        "id": "1366698525476618253",
+        "location": "Love me more",
+        "name": "甜甜的",
+        "pinned_tweet_id": "2039556950585921670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023439614460260354/iDQtmins_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1922,
+          "following_count": 233,
+          "like_count": 11479,
+          "listed_count": 13,
+          "media_count": 224,
+          "tweet_count": 9738
+        },
+        "username": "BBAO34167092",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2026959059233153137",
+    "created_at": "2026-02-26T09:54:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T10:54:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026959059233153137"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 121,
+          "start": 119,
+          "tag": "神"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026959059233153137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你为什么不谈恋爱\n1.太牛逼了\n2.性欲重很骚\n3.爱看片\n4.说话比较直\n5.喜欢暧昧的感觉\n6.神都是孤独的\n7.你是神\n8.凡人无法超越神\n9.你有双重人格\n10.你喜欢有钱的\n11.你不爱回消息\n12.半夜经常睡着\n13.脾气大\n#神"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2026959059233153137",
+        "created_at": "2026-02-26T09:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T10:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026959059233153137"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 121,
+              "start": 119,
+              "tag": "神"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026959059233153137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你为什么不谈恋爱\n1.太牛逼了\n2.性欲重很骚\n3.爱看片\n4.说话比较直\n5.喜欢暧昧的感觉\n6.神都是孤独的\n7.你是神\n8.凡人无法超越神\n9.你有双重人格\n10.你喜欢有钱的\n11.你不爱回消息\n12.半夜经常睡着\n13.脾气大\n#神"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3142,
+          "following_count": 52,
+          "like_count": 4564,
+          "listed_count": 4,
+          "media_count": 98,
+          "tweet_count": 1042
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

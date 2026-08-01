@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2009491619465318690",
+    "created_at": "2026-01-09T06:09:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T07:09:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009507913170293141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1961806047871729664",
+          "start": 0,
+          "username": "pi_shao12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009507913170293141",
+    "in_reply_to_user_id": "1961806047871729664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009507775370678715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pi_shao12138 我发什么你都支持宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2009491619465318690",
+        "created_at": "2026-01-09T06:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T07:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009507913170293141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1961806047871729664",
+              "start": 0,
+              "username": "pi_shao12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009507913170293141",
+        "in_reply_to_user_id": "1961806047871729664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009507775370678715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pi_shao12138 我发什么你都支持宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961806047871729664",
+        "conversation_id": "2009491619465318690",
+        "created_at": "2026-01-09T06:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T07:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009507775370678715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009507775370678715",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009491619465318690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 狠狠支持了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地 （有些就是我复制下来方便以后用的文案 不是本人想的！无意义）",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 我不聊骚！我素女同性恋",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 37,
+          "like_count": 1428,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 495
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T14:59:57.000Z",
+        "description": "女同  想到什么发什么 男的别来",
+        "id": "1961806047871729664",
+        "name": "买不起低温蜡调m 拿热熔胶被 骂超雄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004333508559327232/1P2YmPqE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 28,
+          "like_count": 529,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 346
+        },
+        "username": "pi_shao12138",
+        "verified": false
+      }
+    ]
+  }
+}
