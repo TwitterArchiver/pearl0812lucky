@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2039524050150760723",
+    "created_at": "2026-04-03T02:07:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T03:07:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039887419575877693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2001461026412531712",
+          "start": 0,
+          "username": "BcyKxg31640"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039887419575877693",
+    "in_reply_to_user_id": "2001461026412531712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039884317506019769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BcyKxg31640 人之常情啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2039524050150760723",
+        "created_at": "2026-04-03T02:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T03:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039887419575877693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2001461026412531712",
+              "start": 0,
+              "username": "BcyKxg31640"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039887419575877693",
+        "in_reply_to_user_id": "2001461026412531712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039884317506019769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BcyKxg31640 人之常情啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001461026412531712",
+        "conversation_id": "2039524050150760723",
+        "created_at": "2026-04-03T01:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T02:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039884317506019769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039884317506019769",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039524050150760723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 我也发现了 最爽的时候是自己只对他有好感没那么喜欢的时候。怎么办怎么办怎么办我不想这样了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4816,
+          "following_count": 53,
+          "like_count": 5494,
+          "listed_count": 5,
+          "media_count": 127,
+          "tweet_count": 1281
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T01:14:45.000Z",
+        "description": "搞纯爱的丨文字记录臆想丨推止于推",
+        "id": "2001461026412531712",
+        "name": "用户509280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011085013048311808/BvbrvhxI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 180,
+          "like_count": 886,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 133
+        },
+        "username": "BcyKxg31640",
+        "verified": false
+      }
+    ]
+  }
+}

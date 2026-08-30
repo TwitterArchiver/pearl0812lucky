@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2004372677302374521",
+    "created_at": "2025-12-26T02:04:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T03:04:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004372677302374521"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2004372677302374521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好了 我感觉我有必要出一个免责声明了 因为现在就是太多女生来找我聊天都喜欢上我了 对我是单相思 我冷落一点 她们直接哭成泪人了 因为我集颜值品味与神秘一身的人 然后她们都觉得离开了我 再也找不到像我这样的人了 那我不如免责一下以后再有女生找我聊天的话 你喜欢上我 我冷落了你 自己慢慢走出来吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2004372677302374521",
+        "created_at": "2025-12-26T02:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T03:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004372677302374521"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004372677302374521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好了 我感觉我有必要出一个免责声明了 因为现在就是太多女生来找我聊天都喜欢上我了 对我是单相思 我冷落一点 她们直接哭成泪人了 因为我集颜值品味与神秘一身的人 然后她们都觉得离开了我 再也找不到像我这样的人了 那我不如免责一下以后再有女生找我聊天的话 你喜欢上我 我冷落了你 自己慢慢走出来吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "世界巨大，我以渺小来爱它",
+        "name": "orange cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 5,
+          "like_count": 276,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 122
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

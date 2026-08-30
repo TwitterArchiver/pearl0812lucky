@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2044763886046601514",
+    "created_at": "2026-04-16T13:09:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T14:09:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044765162947977253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2034281611358035968",
+          "start": 0,
+          "username": "arwen0905xlh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044765162947977253",
+    "in_reply_to_user_id": "2034281611358035968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044764188464337273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@arwen0905xlh 特别厉害！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2044763886046601514",
+        "created_at": "2026-04-16T13:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T14:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044765162947977253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2034281611358035968",
+              "start": 0,
+              "username": "arwen0905xlh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044765162947977253",
+        "in_reply_to_user_id": "2034281611358035968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044764188464337273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@arwen0905xlh 特别厉害！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034281611358035968",
+        "conversation_id": "2044763886046601514",
+        "created_at": "2026-04-16T13:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T14:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044764188464337273"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044764188464337273",
+        "in_reply_to_user_id": "2034281611358035968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044763886046601514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但是一想到一直是在靠自己就觉得自己好厉害。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5613,
+          "following_count": 57,
+          "like_count": 5874,
+          "listed_count": 3,
+          "media_count": 139,
+          "tweet_count": 1450
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-18T14:53:06.000Z",
+        "description": "一个小号 没有素质",
+        "id": "2034281611358035968",
+        "name": "mosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034283522589093888/73wq7IEJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 9,
+          "like_count": 338,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 79
+        },
+        "username": "arwen0905xlh",
+        "verified": false
+      }
+    ]
+  }
+}

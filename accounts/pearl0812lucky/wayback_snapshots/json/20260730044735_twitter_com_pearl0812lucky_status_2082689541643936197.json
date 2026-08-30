@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2082689541643936197",
+    "created_at": "2026-07-30T04:47:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T05:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082689541643936197"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082689541643936197",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我可能是个狱警攻吧 每天都在找罪受\n我可能是个狱警受吧 受不了还在受\n直男哭泣算不算一种非基悲\n从良了 色情消息一律秒回\n养猫养狗太低级了 我闭上眼睛就可以养神\n太喜欢年上了 明天准备去养老院碰碰运气\n太喜欢年下了 明天准备去产房碰碰运\n当意识到生命的缩写是SM 痛苦全都说得通了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2082689541643936197",
+        "created_at": "2026-07-30T04:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T05:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082689541643936197"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082689541643936197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我可能是个狱警攻吧 每天都在找罪受\n我可能是个狱警受吧 受不了还在受\n直男哭泣算不算一种非基悲\n从良了 色情消息一律秒回\n养猫养狗太低级了 我闭上眼睛就可以养神\n太喜欢年上了 明天准备去养老院碰碰运气\n太喜欢年下了 明天准备去产房碰碰运\n当意识到生命的缩写是SM 痛苦全都说得通了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11550,
+          "following_count": 78,
+          "like_count": 9104,
+          "listed_count": 12,
+          "media_count": 199,
+          "tweet_count": 2158
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

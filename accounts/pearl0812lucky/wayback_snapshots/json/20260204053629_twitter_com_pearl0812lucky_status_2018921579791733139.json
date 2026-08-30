@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2018700857471086754",
+    "created_at": "2026-02-04T05:36:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T06:36:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018921579791733139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1806608529446633472",
+          "start": 0,
+          "username": "bricknell82619"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018921579791733139",
+    "in_reply_to_user_id": "1806608529446633472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018715991190970568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bricknell82619 很呆萌之感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2018700857471086754",
+        "created_at": "2026-02-04T05:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T06:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018921579791733139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1806608529446633472",
+              "start": 0,
+              "username": "bricknell82619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018921579791733139",
+        "in_reply_to_user_id": "1806608529446633472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018715991190970568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bricknell82619 很呆萌之感"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806608529446633472",
+        "conversation_id": "2018700857471086754",
+        "created_at": "2026-02-03T15:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T16:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018715991190970568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018715991190970568",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018700857471086754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 啥啥啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1945,
+          "following_count": 48,
+          "like_count": 3827,
+          "listed_count": 3,
+          "media_count": 71,
+          "tweet_count": 862
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-28T08:40:30.000Z",
+        "description": "♌️/06/话唠/热爱小动物/有礼貌但是有时候特别嘴臭（每天不定时更新小茂密日常）缺爱b一男的 匿名提问箱：https://t.co/KCKYg6XYlb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/berkinghill0731",
+                "end": 77,
+                "expanded_url": "https://ngl.link/berkinghill0731",
+                "start": 54,
+                "url": "https://t.co/KCKYg6XYlb"
+              }
+            ]
+          }
+        },
+        "id": "1806608529446633472",
+        "location": "中国",
+        "name": "没心没肺的猫猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925014983429271552/saVYL7xJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 93,
+          "like_count": 401,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 2499
+        },
+        "username": "bricknell82619",
+        "verified": false
+      }
+    ]
+  }
+}

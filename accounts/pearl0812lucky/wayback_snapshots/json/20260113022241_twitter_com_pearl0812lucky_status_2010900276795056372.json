@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2010900276795056372",
+    "created_at": "2026-01-13T02:22:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T03:22:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010900276795056372"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2010900276795056372",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我承诺，我不再浏览负面信息\n不把自己代入弱势群体，受害者，弱者\n我永远相信好的存在，好的发生\n我永远为自己过去、现在、未来的选择负责\n我值得拥有奖励、值得拥有美好的友谊、值得拥有平静且闪光的生活\n我值得拥有世间一切美好的事物！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2010900276795056372",
+        "created_at": "2026-01-13T02:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T03:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010900276795056372"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010900276795056372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我承诺，我不再浏览负面信息\n不把自己代入弱势群体，受害者，弱者\n我永远相信好的存在，好的发生\n我永远为自己过去、现在、未来的选择负责\n我值得拥有奖励、值得拥有美好的友谊、值得拥有平静且闪光的生活\n我值得拥有世间一切美好的事物！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹  我素女同性恋啦",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 36,
+          "like_count": 1791,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 532
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2016010059579609529",
+    "created_at": "2026-01-27T04:47:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T05:47:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016010059579609529"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2016010059579609529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "是，我是，我是老婆奴。一天看不到老婆就想发疯，老婆是天，老婆是地，老婆为我顶天立地！有老婆，再苦的生活也不觉得累了，有老婆，再大的波折也不担忧，有老婆就是幸福，看不到老婆的每秒都是折磨！爱老婆！想老婆！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2016010059579609529",
+        "created_at": "2026-01-27T04:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T05:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016010059579609529"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016010059579609529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是，我是，我是老婆奴。一天看不到老婆就想发疯，老婆是天，老婆是地，老婆为我顶天立地！有老婆，再苦的生活也不觉得累了，有老婆，再大的波折也不担忧，有老婆就是幸福，看不到老婆的每秒都是折磨！爱老婆！想老婆！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1506,
+          "following_count": 44,
+          "like_count": 3001,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 759
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007114451657658368"
+      ]
+    },
+    "author_id": "1991711672684421121",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2007114461438775539",
+    "created_at": "2026-01-02T15:39:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T16:39:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007114461438775539"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZaubHvNZvE",
+          "end": 108,
+          "expanded_url": "https://x.com/pearl0812lucky/status/2007114461438775539/photo/1",
+          "media_key": "3_2007114451657658368",
+          "start": 85,
+          "url": "https://t.co/ZaubHvNZvE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007114461438775539",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我才想起来说，高压锅蒸饺子，这个饺子的皮真的是Q弹无比，极品美味！\n我活了二十一年第一次吃这种口感的小饺子！不得不说世界上真的有老吃家存在！\n我明天准备亲自操刀包饺砸～ https://t.co/ZaubHvNZvE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1003,
+        "media_key": "3_2007114451657658368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9qz9aqbkAAUeRa.jpg",
+        "width": 1023
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007114451657658368"
+          ]
+        },
+        "author_id": "1991711672684421121",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2007114461438775539",
+        "created_at": "2026-01-02T15:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T16:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007114461438775539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZaubHvNZvE",
+              "end": 108,
+              "expanded_url": "https://x.com/pearl0812lucky/status/2007114461438775539/photo/1",
+              "media_key": "3_2007114451657658368",
+              "start": 85,
+              "url": "https://t.co/ZaubHvNZvE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007114461438775539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我才想起来说，高压锅蒸饺子，这个饺子的皮真的是Q弹无比，极品美味！\n我活了二十一年第一次吃这种口感的小饺子！不得不说世界上真的有老吃家存在！\n我明天准备亲自操刀包饺砸～ https://t.co/ZaubHvNZvE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "世界巨大，我以渺小来爱它",
+        "name": "orange cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 8,
+          "like_count": 384,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 189
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

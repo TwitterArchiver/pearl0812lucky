@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2014428186772443144",
+    "created_at": "2026-01-23T15:15:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T16:15:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014718581238538497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1989365397116817408",
+          "start": 0,
+          "username": "Again_971"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014718581238538497",
+    "in_reply_to_user_id": "1989365397116817408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014428186772443144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Again_971 这样下去不行不行～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2014428186772443144",
+        "created_at": "2026-01-23T15:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T16:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014718581238538497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1989365397116817408",
+              "start": 0,
+              "username": "Again_971"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014718581238538497",
+        "in_reply_to_user_id": "1989365397116817408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014428186772443144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Again_971 这样下去不行不行～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989365397116817408",
+        "conversation_id": "2014428186772443144",
+        "created_at": "2026-01-22T20:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T21:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014428186772443144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/justin40533262…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/justin405332629/status/2014404260369465815",
+              "start": 36,
+              "url": "https://t.co/bIcWoQTW1o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014428186772443144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 614,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014404260369465815",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对自己抠抠搜搜的然后把自己想要的东西都毫不犹豫的送给别人当礼物。呵呵… https://t.co/bIcWoQTW1o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹  我素女同性恋啦",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1362,
+          "following_count": 42,
+          "like_count": 2491,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 695
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T16:11:02.000Z",
+        "description": "女同。本人与照片不符。一张照片一个人。男的别私信别关注别评论。最好是滚开。/垃圾桶 @Affair0910_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 42,
+                "username": "Affair0910_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/suhuiiiii_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/suhuiiiii_",
+                "start": 0,
+                "url": "https://t.co/VjHTp666Af"
+              }
+            ]
+          }
+        },
+        "id": "1989365397116817408",
+        "name": "Again_",
+        "pinned_tweet_id": "1992534690205778280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004499015409557504/Er47UX02_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 111,
+          "like_count": 2840,
+          "listed_count": 2,
+          "media_count": 149,
+          "tweet_count": 1199
+        },
+        "url": "https://t.co/VjHTp666Af",
+        "username": "Again_971",
+        "verified": false
+      }
+    ]
+  }
+}

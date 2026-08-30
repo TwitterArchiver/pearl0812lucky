@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2085400974743797874",
+    "created_at": "2026-08-06T16:21:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T17:21:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085400974743797874"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085400974743797874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果在放下某人或某事后 你的心有点痛 没关系 这只能说明你的感情是真挚的 没有人喜欢结束 也没有人喜欢痛苦 但有时候 我们不得不结束那些曾经美好的事物 因为它们对我们的健康有害 并不是每一个新的开始都会持续下去 也不是每一个人走进你的生活都会留下来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2085400974743797874",
+        "created_at": "2026-08-06T16:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T17:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085400974743797874"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085400974743797874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果在放下某人或某事后 你的心有点痛 没关系 这只能说明你的感情是真挚的 没有人喜欢结束 也没有人喜欢痛苦 但有时候 我们不得不结束那些曾经美好的事物 因为它们对我们的健康有害 并不是每一个新的开始都会持续下去 也不是每一个人走进你的生活都会留下来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11962,
+          "following_count": 77,
+          "like_count": 9163,
+          "listed_count": 12,
+          "media_count": 199,
+          "tweet_count": 2187
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

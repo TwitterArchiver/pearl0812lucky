@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2008363569721548944",
+    "created_at": "2026-01-06T07:13:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T08:13:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008436846653546930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2007219518872211456",
+          "start": 0,
+          "username": "uUUUiMI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008436846653546930",
+    "in_reply_to_user_id": "2007219518872211456",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008436682874581103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uUUUiMI 🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2008363569721548944",
+        "created_at": "2026-01-06T07:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T08:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008436846653546930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2007219518872211456",
+              "start": 0,
+              "username": "uUUUiMI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008436846653546930",
+        "in_reply_to_user_id": "2007219518872211456",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008436682874581103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uUUUiMI 🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007219518872211456",
+        "conversation_id": "2008363569721548944",
+        "created_at": "2026-01-06T07:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T08:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008436682874581103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008436682874581103",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008436270452928687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 你也好可爱 聊一会就要爱你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "世界巨大，我以渺小来爱它",
+        "name": "orange cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 17,
+          "like_count": 575,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 270
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T22:36:47.000Z",
+        "description": "米米嘟",
+        "id": "2007219518872211456",
+        "name": "Mi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007224593761837056/ThnobCGQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 11,
+          "like_count": 273,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 111
+        },
+        "username": "uUUUiMI",
+        "verified": false
+      }
+    ]
+  }
+}

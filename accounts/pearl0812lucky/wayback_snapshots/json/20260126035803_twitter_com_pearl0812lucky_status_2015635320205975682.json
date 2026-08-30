@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2015394995596099809",
+    "created_at": "2026-01-26T03:58:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T04:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015635320205975682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1377255905012551680",
+          "start": 0,
+          "username": "jeffdylan535"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015635320205975682",
+    "in_reply_to_user_id": "1377255905012551680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015614953819148344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jeffdylan535 赞同“鲜”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2015394995596099809",
+        "created_at": "2026-01-26T03:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T04:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015635320205975682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1377255905012551680",
+              "start": 0,
+              "username": "jeffdylan535"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015635320205975682",
+        "in_reply_to_user_id": "1377255905012551680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015614953819148344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jeffdylan535 赞同“鲜”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1377255905012551680",
+        "conversation_id": "2015394995596099809",
+        "created_at": "2026-01-26T02:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T03:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015614953819148344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015614953819148344",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 368,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015394995596099809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky no，不是这样的，而是：\n酥\n嫩\n鲜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1470,
+          "following_count": 42,
+          "like_count": 2800,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 735
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-31T13:46:33.000Z",
+        "description": "个人产品： \nhttps://t.co/cZUEq3B0jp\nhttps://t.co/clQxQdFiUL\nhttps://t.co/RMYc3meOGA 哈窸日记\nblog: \nhttps://t.co/EcmHwnjbJr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "slippod.com",
+                "end": 30,
+                "expanded_url": "https://slippod.com",
+                "start": 7,
+                "url": "https://t.co/cZUEq3B0jp"
+              },
+              {
+                "display_url": "textpixie.com",
+                "end": 54,
+                "expanded_url": "https://textpixie.com",
+                "start": 31,
+                "url": "https://t.co/clQxQdFiUL"
+              },
+              {
+                "display_url": "echohush.com/zh-cn/",
+                "end": 78,
+                "expanded_url": "https://echohush.com/zh-cn/",
+                "start": 55,
+                "url": "https://t.co/RMYc3meOGA"
+              },
+              {
+                "display_url": "liyafu.com",
+                "end": 114,
+                "expanded_url": "https://liyafu.com",
+                "start": 91,
+                "url": "https://t.co/EcmHwnjbJr"
+              }
+            ]
+          }
+        },
+        "id": "1377255905012551680",
+        "name": "Jeff Dylan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866028902726172672/N9TbQviH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2686,
+          "following_count": 175,
+          "like_count": 1008,
+          "listed_count": 34,
+          "media_count": 85,
+          "tweet_count": 2201
+        },
+        "username": "jeffdylan535",
+        "verified": true
+      }
+    ]
+  }
+}

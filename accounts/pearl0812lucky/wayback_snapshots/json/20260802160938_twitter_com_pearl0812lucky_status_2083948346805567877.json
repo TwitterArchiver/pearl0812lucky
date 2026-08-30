@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2083944586716844063",
+    "created_at": "2026-08-02T16:09:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T17:09:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083948346805567877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1971864720966873088",
+          "start": 0,
+          "username": "OxOilllllo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083948346805567877",
+    "in_reply_to_user_id": "1971864720966873088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083945040196653115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OxOilllllo 小包总咋办"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2083944586716844063",
+        "created_at": "2026-08-02T16:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083948346805567877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971864720966873088",
+              "start": 0,
+              "username": "OxOilllllo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083948346805567877",
+        "in_reply_to_user_id": "1971864720966873088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083945040196653115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OxOilllllo 小包总咋办"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971864720966873088",
+        "conversation_id": "2083944586716844063",
+        "created_at": "2026-08-02T15:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083945040196653115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083945040196653115",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083944586716844063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 贺涵爱安迪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11741,
+          "following_count": 79,
+          "like_count": 9137,
+          "listed_count": 12,
+          "media_count": 199,
+          "tweet_count": 2179
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-27T09:09:30.000Z",
+        "description": "le 不约 当朋友圈发",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dd26387",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dd26387",
+                "start": 0,
+                "url": "https://t.co/dzlaMsYWy4"
+              }
+            ]
+          }
+        },
+        "id": "1971864720966873088",
+        "location": "0.6km",
+        "name": "Dd",
+        "pinned_tweet_id": "2075608962326777903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072017799413993472/TZoAo-XH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 62,
+          "like_count": 828,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 434
+        },
+        "url": "https://t.co/dzlaMsYWy4",
+        "username": "OxOilllllo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2018936953761312831",
+    "created_at": "2026-02-04T08:51:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T09:51:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018970650988478904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1986718216513839104",
+          "start": 0,
+          "username": "yizhishuita"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018970650988478904",
+    "in_reply_to_user_id": "1986718216513839104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018961209765286222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yizhishuita 断不可留"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2018936953761312831",
+        "created_at": "2026-02-04T08:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T09:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018970650988478904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1986718216513839104",
+              "start": 0,
+              "username": "yizhishuita"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018970650988478904",
+        "in_reply_to_user_id": "1986718216513839104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018961209765286222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yizhishuita 断不可留"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986718216513839104",
+        "conversation_id": "2018936953761312831",
+        "created_at": "2026-02-04T08:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T09:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018961209765286222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018961209765286222",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018936953761312831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 总结：此人断不可留"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1984,
+          "following_count": 48,
+          "like_count": 3887,
+          "listed_count": 3,
+          "media_count": 72,
+          "tweet_count": 871
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T08:51:50.000Z",
+        "description": "重抑郁重焦虑（双相3型），吃药+心理疏导中，不约，不面基，不露脸（反正本男也不好看），纯来推玩的，微信有病友交流群所以不定期崩溃请见谅。。算了不是借口，主要分享生活之后会积极面对生活。。",
+        "id": "1986718216513839104",
+        "location": "北京",
+        "name": "一只崩溃的水獭",
+        "pinned_tweet_id": "2018462070170386857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017568471576678405/i8gs5K-g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 59,
+          "like_count": 873,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1044
+        },
+        "username": "yizhishuita",
+        "verified": false
+      }
+    ]
+  }
+}

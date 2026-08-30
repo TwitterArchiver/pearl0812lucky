@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2039869863959879946",
+    "created_at": "2026-04-03T00:57:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T01:57:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039869863959879946"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2039869863959879946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "来了老弟～why买了否冷～好嗨呦～过了很久终于我愿抬头看～伞兵一号Lbw准备就绪～狼烟风沙口还请将军少饮酒～就让我做你的眼睛说那样你才看得清～猪猪你看，啊兄弟～爱就像蓝天白云晴空万里突然暴风雨～我应在江湖悠悠～老铁们虽然不是同一时间但是是同一侧硕～听说白雪公主在逃跑～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2039869863959879946",
+        "created_at": "2026-04-03T00:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T01:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039869863959879946"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039869863959879946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来了老弟～why买了否冷～好嗨呦～过了很久终于我愿抬头看～伞兵一号Lbw准备就绪～狼烟风沙口还请将军少饮酒～就让我做你的眼睛说那样你才看得清～猪猪你看，啊兄弟～爱就像蓝天白云晴空万里突然暴风雨～我应在江湖悠悠～老铁们虽然不是同一时间但是是同一侧硕～听说白雪公主在逃跑～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4817,
+          "following_count": 53,
+          "like_count": 5492,
+          "listed_count": 5,
+          "media_count": 127,
+          "tweet_count": 1276
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2004373783168364643",
+    "created_at": "2025-12-26T02:08:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T03:08:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004373783168364643"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2004373783168364643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你想象一下, 8年之后，你结婚了。 小孩儿很烦，你老公是你并不很喜欢的人,天天下班对着这个无趣的男人，没有沟通的欲望，还得天天给他做饭，孩子不听话要你教，看到老公又没有欲望。生活的压力围绕着你，你想从楼上跳下去又不敢。 那个时候，你会不会后悔今天没有点开我的头像发一句：姐姐，在吗?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2004373783168364643",
+        "created_at": "2025-12-26T02:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T03:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004373783168364643"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004373783168364643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你想象一下, 8年之后，你结婚了。 小孩儿很烦，你老公是你并不很喜欢的人,天天下班对着这个无趣的男人，没有沟通的欲望，还得天天给他做饭，孩子不听话要你教，看到老公又没有欲望。生活的压力围绕着你，你想从楼上跳下去又不敢。 那个时候，你会不会后悔今天没有点开我的头像发一句：姐姐，在吗?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "世界巨大，我以渺小来爱它",
+        "name": "orange cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 5,
+          "like_count": 276,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 128
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

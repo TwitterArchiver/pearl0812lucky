@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2044593024383258861",
+    "created_at": "2026-04-16T01:45:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T02:45:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044593024383258861"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044593024383258861",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的少女时代有非常严重的恋姐癖 我就是喜欢叫姐姐就是喜欢年上女每天想姐姐爱姐姐姐姐美好可爱 吃饭的时候想姐姐睡觉的时候想姐姐干什么都想姐姐于是我许愿要多多和姐姐见面 可是见面哭不见也哭太喜欢姐姐了 眼泪哭干也要喜欢姐姐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2044593024383258861",
+        "created_at": "2026-04-16T01:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044593024383258861"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044593024383258861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的少女时代有非常严重的恋姐癖 我就是喜欢叫姐姐就是喜欢年上女每天想姐姐爱姐姐姐姐美好可爱 吃饭的时候想姐姐睡觉的时候想姐姐干什么都想姐姐于是我许愿要多多和姐姐见面 可是见面哭不见也哭太喜欢姐姐了 眼泪哭干也要喜欢姐姐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5606,
+          "following_count": 58,
+          "like_count": 5852,
+          "listed_count": 3,
+          "media_count": 138,
+          "tweet_count": 1441
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

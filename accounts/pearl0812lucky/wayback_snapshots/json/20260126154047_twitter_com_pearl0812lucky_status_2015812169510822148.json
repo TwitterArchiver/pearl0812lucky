@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2015767775013433781",
+    "created_at": "2026-01-26T15:40:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T16:40:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015812169510822148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1266630383228973056",
+          "start": 0,
+          "username": "pH13kii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015812169510822148",
+    "in_reply_to_user_id": "1266630383228973056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015795161570414627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pH13kii 不知道～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2015767775013433781",
+        "created_at": "2026-01-26T15:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T16:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015812169510822148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1266630383228973056",
+              "start": 0,
+              "username": "pH13kii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015812169510822148",
+        "in_reply_to_user_id": "1266630383228973056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015795161570414627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pH13kii 不知道～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1266630383228973056",
+        "conversation_id": "2015767775013433781",
+        "created_at": "2026-01-26T14:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T15:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015795161570414627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015795161570414627",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015767775013433781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky or2其实是我身材很曼妙的跪下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 44,
+          "like_count": 2947,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 754
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-30T07:20:02.000Z",
+        "description": "忧郁少女秃头中……",
+        "id": "1266630383228973056",
+        "location": "不聊不线下💧 ",
+        "name": "再也不学遗传了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007888809632079872/HegCGHyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 56,
+          "like_count": 483,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 136
+        },
+        "username": "pH13kii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2015767278059688046",
+    "created_at": "2026-01-26T14:02:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T15:02:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015787495842255292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1877054397546668032",
+          "start": 0,
+          "username": "helloo33146993"
+        },
+        {
+          "end": 25,
+          "id": "1618639105944084482",
+          "start": 16,
+          "username": "OTATO_11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015787495842255292",
+    "in_reply_to_user_id": "1877054397546668032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015783085649060330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@helloo33146993 @OTATO_11 安慰一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2015767278059688046",
+        "created_at": "2026-01-26T14:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T15:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015787495842255292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1877054397546668032",
+              "start": 0,
+              "username": "helloo33146993"
+            },
+            {
+              "end": 25,
+              "id": "1618639105944084482",
+              "start": 16,
+              "username": "OTATO_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015787495842255292",
+        "in_reply_to_user_id": "1877054397546668032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015783085649060330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@helloo33146993 @OTATO_11 安慰一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877054397546668032",
+        "conversation_id": "2015767278059688046",
+        "created_at": "2026-01-26T13:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T14:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015783085649060330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015783085649060330",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015767278059688046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 吓哭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1488,
+          "following_count": 44,
+          "like_count": 2917,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 748
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-08T18:07:08.000Z",
+        "description": "姐姐有宇宙 我有姐姐",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovo33_o3o",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ovo33_o3o",
+                "start": 0,
+                "url": "https://t.co/whqONA4wnA"
+              }
+            ]
+          }
+        },
+        "id": "1877054397546668032",
+        "name": "绝对的浪漫主义",
+        "pinned_tweet_id": "2015717949399876081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015631615800860672/Wx5DdTFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 34,
+          "like_count": 1277,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 1062
+        },
+        "url": "https://t.co/whqONA4wnA",
+        "username": "helloo33146993",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T15:57:12.000Z",
+        "description": "我的功能就是保护你",
+        "id": "1618639105944084482",
+        "location": "Why do we only have one chance",
+        "name": "最近睡眠好吗",
+        "pinned_tweet_id": "2013599850986709343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013899499836506113/NwXSWA4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 50,
+          "like_count": 243,
+          "listed_count": 0,
+          "media_count": 415,
+          "tweet_count": 2684
+        },
+        "username": "OTATO_11",
+        "verified": false
+      }
+    ]
+  }
+}

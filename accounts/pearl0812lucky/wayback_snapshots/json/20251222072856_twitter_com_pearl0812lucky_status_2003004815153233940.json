@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2003004815153233940",
+    "created_at": "2025-12-22T07:28:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T08:28:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003004815153233940"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2003004815153233940",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "心脏喷血！我最喜欢的同事怀孕了，意味着她的工作有一部分需要交给我，意味着我要去社交了，我的嘴巴你记住！你一定要温柔贤淑、善解人意、能言会道、巧舌如簧！以后对人讲话一定要和善一点别夹枪带棒 ！出外勤开车顺顺当当！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2003004815153233940",
+        "created_at": "2025-12-22T07:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T08:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003004815153233940"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003004815153233940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心脏喷血！我最喜欢的同事怀孕了，意味着她的工作有一部分需要交给我，意味着我要去社交了，我的嘴巴你记住！你一定要温柔贤淑、善解人意、能言会道、巧舌如簧！以后对人讲话一定要和善一点别夹枪带棒 ！出外勤开车顺顺当当！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "name": "柑橘类水果",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001135448505376768/-JbXfYhM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 40
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

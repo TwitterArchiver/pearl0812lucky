@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2089371786416931142",
+    "created_at": "2026-08-17T16:45:28.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T17:45:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089393180815102123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2089021495272210432",
+          "start": 0,
+          "username": "Qqqqqiiiiu66613"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089393180815102123",
+    "in_reply_to_user_id": "2089021495272210432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089386272318210176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qqqqqiiiiu66613 严肃添加"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089386259374632960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP79u5ybcAAQpHC.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2089371786416931142",
+        "created_at": "2026-08-17T16:45:28.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T17:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089393180815102123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2089021495272210432",
+              "start": 0,
+              "username": "Qqqqqiiiiu66613"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089393180815102123",
+        "in_reply_to_user_id": "2089021495272210432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089386272318210176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qqqqqiiiiu66613 严肃添加"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089386259374632960"
+          ]
+        },
+        "author_id": "2089021495272210432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2089371786416931142",
+        "created_at": "2026-08-17T16:18:00.000Z",
+        "display_text_range": [
+          16,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T17:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089386272318210176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Bw9w7dMok",
+              "end": 52,
+              "expanded_url": "https://x.com/Qqqqqiiiiu66613/status/2089386272318210176/photo/1",
+              "media_key": "3_2089386259374632960",
+              "start": 29,
+              "url": "https://t.co/4Bw9w7dMok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089386272318210176",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089386259374632960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089371786416931142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 补一个我的屏蔽词哈哈哈哈 https://t.co/4Bw9w7dMok"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "is_identity_verified": false,
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "most_recent_tweet_id": "2089393180815102123",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991711672684421121/1778806929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12460,
+          "following_count": 74,
+          "like_count": 9231,
+          "listed_count": 13,
+          "media_count": 201,
+          "tweet_count": 2235
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-16T16:11:36.000Z",
+        "description": "ENFP/自留地",
+        "id": "2089021495272210432",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089386272318210176",
+        "name": "Qqqqqiiiiu",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089021495272210432/1786919993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089022416924426240/qSq2QLdA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 9,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "Qqqqqiiiiu66613",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

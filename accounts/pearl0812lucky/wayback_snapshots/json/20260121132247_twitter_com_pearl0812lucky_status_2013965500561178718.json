@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2013872011916009764",
+    "created_at": "2026-01-21T13:22:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T14:22:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013965500561178718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "874079338966032384",
+          "start": 0,
+          "username": "thenextaug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013965500561178718",
+    "in_reply_to_user_id": "874079338966032384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013950511968579974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thenextaug 支持我感觉有一点不舒服都不会再去第二次"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2013872011916009764",
+        "created_at": "2026-01-21T13:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T14:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013965500561178718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "874079338966032384",
+              "start": 0,
+              "username": "thenextaug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013965500561178718",
+        "in_reply_to_user_id": "874079338966032384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013950511968579974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thenextaug 支持我感觉有一点不舒服都不会再去第二次"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "874079338966032384",
+        "conversation_id": "2013872011916009764",
+        "created_at": "2026-01-21T12:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T13:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013950511968579974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013950511968579974",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 308,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013872011916009764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 这点确实是，之前上学的时候经常去校门口的一家吃饭，时间一长也会带同学一块去，我饭量大，每次都会吃完，有一次我自己去的，旁边有个女的跟我点的同样的饭，端上来之后，我那碗明显比另一个人的要少，从那顿之后，再也没去过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹  我素女同性恋啦",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1137,
+          "following_count": 41,
+          "like_count": 2236,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 658
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-12T01:42:08.000Z",
+        "description": "Former Program engineer | Farmer",
+        "id": "874079338966032384",
+        "name": "Ama2i",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929902894301753347/CD8NZZvn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 5,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 54
+        },
+        "username": "thenextaug",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2003633333511787001",
+    "created_at": "2025-12-24T01:06:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T02:06:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003633333511787001"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2003633333511787001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "什么叫我跟很多人搞暧昧啊，我单身你也单身，他们都是单身。她们都是可攻略角色，我当然可以和她们聊天了。那如果最后每一个人我都聊失败了，这不是更可怜吗？再说了我连你对我的好感度有多少我都不知道，我还没开始玩你这条支线，你先排队吧好不好？什么叫只可以跟你聊天啊？你这个人怎么这么自私！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2003633333511787001",
+        "created_at": "2025-12-24T01:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T02:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003633333511787001"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003633333511787001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么叫我跟很多人搞暧昧啊，我单身你也单身，他们都是单身。她们都是可攻略角色，我当然可以和她们聊天了。那如果最后每一个人我都聊失败了，这不是更可怜吗？再说了我连你对我的好感度有多少我都不知道，我还没开始玩你这条支线，你先排队吧好不好？什么叫只可以跟你聊天啊？你这个人怎么这么自私！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "name": "柑橘类水果",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001135448505376768/-JbXfYhM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 243,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 64
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

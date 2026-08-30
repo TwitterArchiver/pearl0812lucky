@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2088675886669480250",
+    "created_at": "2026-08-15T17:15:11.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T18:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088675886669480250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1731315135569076224",
+          "start": 3,
+          "username": "yixinyisansan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088675886669480250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088675660671996385",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @yixinyisansan: 人和人的缘分薄如倍力乐、名流、爱乐园、萨福、指茉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2088675886669480250",
+        "created_at": "2026-08-15T17:15:11.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T18:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088675886669480250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1731315135569076224",
+              "start": 3,
+              "username": "yixinyisansan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088675886669480250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088675660671996385",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @yixinyisansan: 人和人的缘分薄如倍力乐、名流、爱乐园、萨福、指茉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731315135569076224",
+        "conversation_id": "2088675660671996385",
+        "created_at": "2026-08-15T17:14:17.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T18:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088675660671996385"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088675660671996385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "人和人的缘分薄如倍力乐、名流、爱乐园、萨福、指茉"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "is_identity_verified": false,
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "most_recent_tweet_id": "2088675886669480250",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991711672684421121/1778806929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12412,
+          "following_count": 75,
+          "like_count": 9236,
+          "listed_count": 13,
+          "media_count": 200,
+          "tweet_count": 2228
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-03T14:11:15.000Z",
+        "description": "女同性恋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kittyovo0488",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kittyovo0488",
+                "start": 0,
+                "url": "https://t.co/67Zk5fU2Ot"
+              }
+            ]
+          }
+        },
+        "id": "1731315135569076224",
+        "is_identity_verified": false,
+        "location": "燥候周末",
+        "most_recent_tweet_id": "2088675823754899840",
+        "name": "kittyovo",
+        "pinned_tweet_id": "1965600835515371927",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1731315135569076224/1778756623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054880283544182784/XTM_Ll_6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4038,
+          "following_count": 202,
+          "like_count": 29975,
+          "listed_count": 0,
+          "media_count": 426,
+          "tweet_count": 8629
+        },
+        "url": "https://t.co/67Zk5fU2Ot",
+        "username": "yixinyisansan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2087460557259739316",
+    "created_at": "2026-08-12T08:45:54.000Z",
+    "display_text_range": [
+      0,
+      130
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T09:45:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087460557259739316"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2087460557259739316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "黄皮子讨封：你看我像人还是像神\n人皮子讨封：我们现在是什么关系\n贱皮子讨封：你爱过我吗\n傻皮子讨封：为什么你变了你之前不是这样的\n蠢皮子讨封：你为什么要这样对我\n丑皮子讨封：你不喜欢我为什么要吊着我\n狗皮子讨封：别离开我好不好求你了\n穷皮子讨封：在吗在吗借五十"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2087460557259739316",
+        "created_at": "2026-08-12T08:45:54.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T09:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087460557259739316"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087460557259739316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "黄皮子讨封：你看我像人还是像神\n人皮子讨封：我们现在是什么关系\n贱皮子讨封：你爱过我吗\n傻皮子讨封：为什么你变了你之前不是这样的\n蠢皮子讨封：你为什么要这样对我\n丑皮子讨封：你不喜欢我为什么要吊着我\n狗皮子讨封：别离开我好不好求你了\n穷皮子讨封：在吗在吗借五十"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "is_identity_verified": false,
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "most_recent_tweet_id": "2087460557259739316",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991711672684421121/1778806929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12213,
+          "following_count": 74,
+          "like_count": 9220,
+          "listed_count": 13,
+          "media_count": 200,
+          "tweet_count": 2218
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

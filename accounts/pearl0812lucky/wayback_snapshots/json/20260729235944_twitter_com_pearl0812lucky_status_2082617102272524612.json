@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2082617102272524612",
+    "created_at": "2026-07-29T23:59:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T00:59:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082617102272524612"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082617102272524612",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "万能砸场话术（必学）\n\n自拍：排泄物请打码\n\n美食：偷吃贡品\n\n官宣：跨物种交配\n\n游戏战绩：第几任\n\n穿搭：把人皮套上了\n\n风景：鬼门关\n\n宠物：偷的\n\n拍车：车门保养的\n\n唱歌：鬼嚎\n\n余额：贷款了\n\n旅行照：盗图的\n\n万能话术：招笑  可以可以   羡慕了    嫉妒了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2082617102272524612",
+        "created_at": "2026-07-29T23:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T00:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082617102272524612"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082617102272524612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "万能砸场话术（必学）\n\n自拍：排泄物请打码\n\n美食：偷吃贡品\n\n官宣：跨物种交配\n\n游戏战绩：第几任\n\n穿搭：把人皮套上了\n\n风景：鬼门关\n\n宠物：偷的\n\n拍车：车门保养的\n\n唱歌：鬼嚎\n\n余额：贷款了\n\n旅行照：盗图的\n\n万能话术：招笑  可以可以   羡慕了    嫉妒了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11545,
+          "following_count": 78,
+          "like_count": 9103,
+          "listed_count": 12,
+          "media_count": 199,
+          "tweet_count": 2157
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

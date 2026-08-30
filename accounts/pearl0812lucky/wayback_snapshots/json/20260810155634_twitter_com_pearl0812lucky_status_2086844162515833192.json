@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2086834814603468807",
+    "created_at": "2026-08-10T15:56:34.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T16:56:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086844162515833192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2086807606967095296",
+          "start": 0,
+          "username": "Emerald0810__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086844162515833192",
+    "in_reply_to_user_id": "2086807606967095296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086838727306101060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Emerald0810__ 好无力呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2086834814603468807",
+        "created_at": "2026-08-10T15:56:34.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T16:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086844162515833192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2086807606967095296",
+              "start": 0,
+              "username": "Emerald0810__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086844162515833192",
+        "in_reply_to_user_id": "2086807606967095296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086838727306101060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Emerald0810__ 好无力呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2086807606967095296",
+        "conversation_id": "2086834814603468807",
+        "created_at": "2026-08-10T15:34:58.000Z",
+        "display_text_range": [
+          16,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T16:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086838727306101060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086838727306101060",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086834814603468807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 好无力.."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "is_identity_verified": false,
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "most_recent_tweet_id": "2086844162515833192",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991711672684421121/1778806929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12132,
+          "following_count": 75,
+          "like_count": 9199,
+          "listed_count": 13,
+          "media_count": 199,
+          "tweet_count": 2206
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-10T13:32:41.000Z",
+        "description": "👊欢迎碎碎念https://t.co/0ODD2ReBMS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/emerald40285",
+                "end": 29,
+                "expanded_url": "http://ngl.link/emerald40285",
+                "start": 6,
+                "url": "https://t.co/0ODD2ReBMS"
+              }
+            ]
+          }
+        },
+        "id": "2086807606967095296",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086843658435973541",
+        "name": "Emerald",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086807606967095296/1786369044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086834999484198913/qy1M05kd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "Emerald0810__",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

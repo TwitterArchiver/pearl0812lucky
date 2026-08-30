@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2083010526582538524",
+    "created_at": "2026-08-01T14:21:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T15:21:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083558661323186605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1935639648933695488",
+          "start": 0,
+          "username": "June52249"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083558661323186605",
+    "in_reply_to_user_id": "1935639648933695488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083128503533473971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@June52249 害羞了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2083010526582538524",
+        "created_at": "2026-08-01T14:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083558661323186605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1935639648933695488",
+              "start": 0,
+              "username": "June52249"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083558661323186605",
+        "in_reply_to_user_id": "1935639648933695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083128503533473971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@June52249 害羞了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935639648933695488",
+        "conversation_id": "2083010526582538524",
+        "created_at": "2026-07-31T09:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T10:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083128503533473971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083128503533473971",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083010526582538524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 老大，我说想你了为什么我的crush不回我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11632,
+          "following_count": 77,
+          "like_count": 9117,
+          "listed_count": 12,
+          "media_count": 199,
+          "tweet_count": 2168
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T10:03:56.000Z",
+        "description": "比我坏的没我萌",
+        "id": "1935639648933695488",
+        "location": "Kawaii",
+        "name": "Nii1coo ིྀ",
+        "pinned_tweet_id": "1994486811218120829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068028623265865728/ZqP4-WeX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 54,
+          "like_count": 1925,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 403
+        },
+        "url": "",
+        "username": "June52249",
+        "verified": false
+      }
+    ]
+  }
+}

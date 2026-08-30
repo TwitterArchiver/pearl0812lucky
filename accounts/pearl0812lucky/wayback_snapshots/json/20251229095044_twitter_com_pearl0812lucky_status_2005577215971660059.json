@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2005577145821843456"
+      ]
+    },
+    "author_id": "1991711672684421121",
+    "conversation_id": "2005577215971660059",
+    "created_at": "2025-12-29T09:50:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T10:50:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005577215971660059"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wW5cEP8U1O",
+          "end": 48,
+          "expanded_url": "https://x.com/pearl0812lucky/status/2005577215971660059/video/1",
+          "media_key": "13_2005577145821843456",
+          "start": 25,
+          "url": "https://t.co/wW5cEP8U1O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005577215971660059",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小姐姐就算把眉毛漂没了并且五点起床也不能化妆吗… https://t.co/wW5cEP8U1O"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9300,
+        "height": 1280,
+        "media_key": "13_2005577145821843456",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2005577145821843456/img/ZJHYCpU1Cn1rQ-aR.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005577145821843456/vid/avc1/320x568/-OceOwYN5n2nhnP8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005577145821843456/vid/avc1/480x852/HpWI-a_wRpE-jewb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005577145821843456/vid/avc1/720x1280/OqCBIoDnwWMepYhA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2005577145821843456/pl/AtCOndoqOl6XMifn.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2005577145821843456"
+          ]
+        },
+        "author_id": "1991711672684421121",
+        "conversation_id": "2005577215971660059",
+        "created_at": "2025-12-29T09:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T10:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005577215971660059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wW5cEP8U1O",
+              "end": 48,
+              "expanded_url": "https://x.com/pearl0812lucky/status/2005577215971660059/video/1",
+              "media_key": "13_2005577145821843456",
+              "start": 25,
+              "url": "https://t.co/wW5cEP8U1O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005577215971660059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小姐姐就算把眉毛漂没了并且五点起床也不能化妆吗… https://t.co/wW5cEP8U1O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "世界巨大，我以渺小来爱它",
+        "name": "orange cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 7,
+          "like_count": 320,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 168
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

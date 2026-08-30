@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004175074694516737"
+      ]
+    },
+    "author_id": "1991711672684421121",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2004175105451348057",
+    "created_at": "2025-12-25T12:59:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T13:59:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004175105451348057"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UVEvFS3iS8",
+          "end": 99,
+          "expanded_url": "https://x.com/pearl0812lucky/status/2004175105451348057/photo/1",
+          "media_key": "3_2004175074694516737",
+          "start": 76,
+          "url": "https://t.co/UVEvFS3iS8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004175105451348057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真受不了了，我什么时候看这种视频不哭！有时候谈恋爱的欲望全是看这种纯爱视频看的！视频里所有人都好，室友的记录，收到礼物的人的眼泪和送礼物的人的用心！ https://t.co/UVEvFS3iS8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2004175074694516737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9BCnKLb0AEcilD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004175074694516737"
+          ]
+        },
+        "author_id": "1991711672684421121",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2004175105451348057",
+        "created_at": "2025-12-25T12:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T13:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004175105451348057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UVEvFS3iS8",
+              "end": 99,
+              "expanded_url": "https://x.com/pearl0812lucky/status/2004175105451348057/photo/1",
+              "media_key": "3_2004175074694516737",
+              "start": 76,
+              "url": "https://t.co/UVEvFS3iS8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004175105451348057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真受不了了，我什么时候看这种视频不哭！有时候谈恋爱的欲望全是看这种纯爱视频看的！视频里所有人都好，室友的记录，收到礼物的人的眼泪和送礼物的人的用心！ https://t.co/UVEvFS3iS8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "世界巨大，我以渺小来爱它",
+        "name": "orange cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 4,
+          "like_count": 269,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 91
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

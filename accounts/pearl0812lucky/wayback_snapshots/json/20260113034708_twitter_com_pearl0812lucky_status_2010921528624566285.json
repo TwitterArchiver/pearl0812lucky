@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2010921528624566285",
+    "created_at": "2026-01-13T03:47:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T04:47:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010921528624566285"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2010921528624566285",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人在撕破脸时，第一反应总是挑出对方的把柄，肆无忌惮地进行嘲讽、攻击、威胁。短暂地遗忘了自己有多么在意对方，一门心思只想赢，不肯输。曾经小心翼翼地呵护着对方，不忍触碰对方的痛处。\n此刻却把那些痛处当成锋利的武器，互相戳进对方心口上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2010921528624566285",
+        "created_at": "2026-01-13T03:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T04:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010921528624566285"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010921528624566285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人在撕破脸时，第一反应总是挑出对方的把柄，肆无忌惮地进行嘲讽、攻击、威胁。短暂地遗忘了自己有多么在意对方，一门心思只想赢，不肯输。曾经小心翼翼地呵护着对方，不忍触碰对方的痛处。\n此刻却把那些痛处当成锋利的武器，互相戳进对方心口上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹  我素女同性恋啦",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 36,
+          "like_count": 1801,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 534
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

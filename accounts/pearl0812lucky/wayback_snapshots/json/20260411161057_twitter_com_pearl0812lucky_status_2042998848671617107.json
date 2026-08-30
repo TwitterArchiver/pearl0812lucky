@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2042998848671617107",
+    "created_at": "2026-04-11T16:10:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T17:10:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042998848671617107"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 14,
+          "start": 11,
+          "tag": "舒坦"
+        },
+        {
+          "end": 20,
+          "start": 15,
+          "tag": "心明眼亮"
+        },
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "不再失眠"
+        },
+        {
+          "end": 32,
+          "start": 27,
+          "tag": "胸口畅通"
+        },
+        {
+          "end": 38,
+          "start": 33,
+          "tag": "精神振奋"
+        },
+        {
+          "end": 44,
+          "start": 39,
+          "tag": "不再养胃"
+        },
+        {
+          "end": 50,
+          "start": 45,
+          "tag": "食欲大增"
+        },
+        {
+          "end": 57,
+          "start": 51,
+          "tag": "好奇心增强"
+        },
+        {
+          "end": 63,
+          "start": 58,
+          "tag": "不再抑郁"
+        },
+        {
+          "end": 69,
+          "start": 64,
+          "tag": "不再克制"
+        },
+        {
+          "end": 75,
+          "start": 70,
+          "tag": "脚步轻盈"
+        },
+        {
+          "end": 81,
+          "start": 76,
+          "tag": "热爱生活"
+        },
+        {
+          "end": 87,
+          "start": 82,
+          "tag": "脑洞大开"
+        },
+        {
+          "end": 93,
+          "start": 88,
+          "tag": "上房揭瓦"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042998848671617107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "能收到姐姐的消息我就 #舒坦 #心明眼亮 #不再失眠 #胸口畅通 #精神振奋 #不再养胃 #食欲大增 #好奇心增强 #不再抑郁 #不再克制 #脚步轻盈 #热爱生活 #脑洞大开 #上房揭瓦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2042998848671617107",
+        "created_at": "2026-04-11T16:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T17:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042998848671617107"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "舒坦"
+            },
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "心明眼亮"
+            },
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "不再失眠"
+            },
+            {
+              "end": 32,
+              "start": 27,
+              "tag": "胸口畅通"
+            },
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "精神振奋"
+            },
+            {
+              "end": 44,
+              "start": 39,
+              "tag": "不再养胃"
+            },
+            {
+              "end": 50,
+              "start": 45,
+              "tag": "食欲大增"
+            },
+            {
+              "end": 57,
+              "start": 51,
+              "tag": "好奇心增强"
+            },
+            {
+              "end": 63,
+              "start": 58,
+              "tag": "不再抑郁"
+            },
+            {
+              "end": 69,
+              "start": 64,
+              "tag": "不再克制"
+            },
+            {
+              "end": 75,
+              "start": 70,
+              "tag": "脚步轻盈"
+            },
+            {
+              "end": 81,
+              "start": 76,
+              "tag": "热爱生活"
+            },
+            {
+              "end": 87,
+              "start": 82,
+              "tag": "脑洞大开"
+            },
+            {
+              "end": 93,
+              "start": 88,
+              "tag": "上房揭瓦"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042998848671617107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "能收到姐姐的消息我就 #舒坦 #心明眼亮 #不再失眠 #胸口畅通 #精神振奋 #不再养胃 #食欲大增 #好奇心增强 #不再抑郁 #不再克制 #脚步轻盈 #热爱生活 #脑洞大开 #上房揭瓦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5389,
+          "following_count": 54,
+          "like_count": 5667,
+          "listed_count": 3,
+          "media_count": 133,
+          "tweet_count": 1383
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

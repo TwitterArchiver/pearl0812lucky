@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2000502616447725909",
+    "created_at": "2025-12-15T09:46:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T10:46:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000502616447725909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1731315135569076224",
+          "start": 3,
+          "username": "yixinyisansan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000502616447725909",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000502268991533369",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yixinyisansan: 我发现我很多时候只喜欢看单人片 很多双人片经常给人一种很虚假的感觉 浮夸至极的表情 糟糕的台词 无一例外的在告诉我只是在演戏 不带有任何的感情色彩\n就连很多情侣之间都无法做到拍的片是有感情色彩的 把握不了尺度会让视频的基调变成展示自己的个人…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2000502616447725909",
+        "created_at": "2025-12-15T09:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T10:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000502616447725909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1731315135569076224",
+              "start": 3,
+              "username": "yixinyisansan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000502616447725909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000502268991533369",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yixinyisansan: 我发现我很多时候只喜欢看单人片 很多双人片经常给人一种很虚假的感觉 浮夸至极的表情 糟糕的台词 无一例外的在告诉我只是在演戏 不带有任何的感情色彩\n就连很多情侣之间都无法做到拍的片是有感情色彩的 把握不了尺度会让视频的基调变成展示自己的个人…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731315135569076224",
+        "conversation_id": "2000502268991533369",
+        "created_at": "2025-12-15T09:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T10:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000502268991533369"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "le"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000502268991533369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我发现我很多时候只喜欢看单人片 很多双人片经常给人一种很虚假的感觉 浮夸至极的表情 糟糕的台词 无一例外的在告诉我只是在演戏 不带有任何的感情色彩\n就连很多情侣之间都无法做到拍的片是有感情色彩的 把握不了尺度会让视频的基调变成展示自己的个人魅力 爱人出现在里面变得像商品展览架一样 #le"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "👭",
+        "id": "1991711672684421121",
+        "name": "橘子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997895340184530944/9ore7GRm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 15,
+          "like_count": 198,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 19
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-03T14:11:15.000Z",
+        "description": "欢迎小女孩阅读kitty的日记",
+        "id": "1731315135569076224",
+        "location": "这是我的日记本 ",
+        "name": "kittyovo",
+        "pinned_tweet_id": "1965600835515371927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997511464547201024/4fTQgm4__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1582,
+          "following_count": 238,
+          "like_count": 11383,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 2930
+        },
+        "username": "yixinyisansan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2042785280873369772",
+    "created_at": "2026-04-11T07:37:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T08:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042869559846404573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1639927019856363521",
+          "start": 0,
+          "username": "caibing_0420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042869559846404573",
+    "in_reply_to_user_id": "1639927019856363521",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042835085674856748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caibing_0420 不要…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2042785280873369772",
+        "created_at": "2026-04-11T07:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042869559846404573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1639927019856363521",
+              "start": 0,
+              "username": "caibing_0420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042869559846404573",
+        "in_reply_to_user_id": "1639927019856363521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042835085674856748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caibing_0420 不要…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639927019856363521",
+        "conversation_id": "2042785280873369772",
+        "created_at": "2026-04-11T05:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042835085674856748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042835085674856748",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042785280873369772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 我找人弄你。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5330,
+          "following_count": 54,
+          "like_count": 5641,
+          "listed_count": 4,
+          "media_count": 131,
+          "tweet_count": 1362
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T09:47:39.000Z",
+        "description": "你有没有什么原生家庭创伤，童年的不幸之类的东西要对我诉说的?",
+        "id": "1639927019856363521",
+        "location": "Tokyo-to, Japan",
+        "name": "雾岛董香🫧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028644530376073216/USDh3txx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 183,
+          "like_count": 193,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 915
+        },
+        "username": "caibing_0420",
+        "verified": false
+      }
+    ]
+  }
+}

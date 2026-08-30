@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "1998581681641726105",
+    "created_at": "2025-12-10T02:32:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T03:32:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998581681641726105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1731315135569076224",
+          "start": 3,
+          "username": "yixinyisansan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998581681641726105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998567981920690321",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yixinyisansan: 最近对校园恋爱的悸动全来自抖音上很火的龙山高级中学艺体节《雨爱》\n评论区里虽然都是一些调侃比如拉拉队 决战t王之巅等等\n但是给我更多的感受是青春的热烈赤诚和少年意气 有一瞬间全世界的喧哗自动被屏蔽 这首歌只是唱给心爱的女孩听 结束后奔向爱人…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "1998581681641726105",
+        "created_at": "2025-12-10T02:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T03:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998581681641726105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1731315135569076224",
+              "start": 3,
+              "username": "yixinyisansan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998581681641726105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998567981920690321",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yixinyisansan: 最近对校园恋爱的悸动全来自抖音上很火的龙山高级中学艺体节《雨爱》\n评论区里虽然都是一些调侃比如拉拉队 决战t王之巅等等\n但是给我更多的感受是青春的热烈赤诚和少年意气 有一瞬间全世界的喧哗自动被屏蔽 这首歌只是唱给心爱的女孩听 结束后奔向爱人…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731315135569076224",
+        "conversation_id": "1998567981920690321",
+        "created_at": "2025-12-10T01:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T02:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998567981920690321"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 143,
+              "start": 139,
+              "tag": "wlw"
+            },
+            {
+              "end": 148,
+              "start": 144,
+              "tag": "les"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998567981920690321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 184,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "最近对校园恋爱的悸动全来自抖音上很火的龙山高级中学艺体节《雨爱》\n评论区里虽然都是一些调侃比如拉拉队 决战t王之巅等等\n但是给我更多的感受是青春的热烈赤诚和少年意气 有一瞬间全世界的喧哗自动被屏蔽 这首歌只是唱给心爱的女孩听 结束后奔向爱人牵起她的手 此时的心跳只想和她共享… #wlw #les"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "👭",
+        "id": "1991711672684421121",
+        "name": "橘子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997895340184530944/9ore7GRm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 163,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-03T14:11:15.000Z",
+        "description": "欢迎小女孩阅读kitty的日记",
+        "id": "1731315135569076224",
+        "location": "这是我的日记本  只喜欢女孩 男的勿扰",
+        "name": "kittyovo",
+        "pinned_tweet_id": "1965600835515371927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997511464547201024/4fTQgm4__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1576,
+          "following_count": 236,
+          "like_count": 10444,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 2674
+        },
+        "username": "yixinyisansan",
+        "verified": false
+      }
+    ]
+  }
+}

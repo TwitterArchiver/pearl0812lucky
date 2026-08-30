@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051866777580347392"
+      ]
+    },
+    "author_id": "1991711672684421121",
+    "conversation_id": "2051866784308085076",
+    "created_at": "2026-05-06T03:28:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T04:28:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051866784308085076"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2jmOfC4Gb5",
+          "end": 77,
+          "expanded_url": "https://x.com/pearl0812lucky/status/2051866784308085076/photo/1",
+          "media_key": "3_2051866777580347392",
+          "start": 54,
+          "url": "https://t.co/2jmOfC4Gb5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051866784308085076",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "对不起，我把评论区关了，我实在屏蔽不过来了好烦呀！看你们评论都特别有意思，但是人机账号太多了，评论区沦陷了 https://t.co/2jmOfC4Gb5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 963,
+        "media_key": "3_2051866777580347392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHmx9oQaIAAs3Iy.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051866777580347392"
+          ]
+        },
+        "author_id": "1991711672684421121",
+        "conversation_id": "2051866784308085076",
+        "created_at": "2026-05-06T03:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T04:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051866784308085076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2jmOfC4Gb5",
+              "end": 77,
+              "expanded_url": "https://x.com/pearl0812lucky/status/2051866784308085076/photo/1",
+              "media_key": "3_2051866777580347392",
+              "start": 54,
+              "url": "https://t.co/2jmOfC4Gb5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051866784308085076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "对不起，我把评论区关了，我实在屏蔽不过来了好烦呀！看你们评论都特别有意思，但是人机账号太多了，评论区沦陷了 https://t.co/2jmOfC4Gb5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6763,
+          "following_count": 65,
+          "like_count": 6949,
+          "listed_count": 7,
+          "media_count": 153,
+          "tweet_count": 1658
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

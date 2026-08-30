@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2003491753249403015",
+    "created_at": "2025-12-23T15:43:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T16:43:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003491753249403015"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ngngvxx/status…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/ngngvxx/status/2003486691794014344",
+          "start": 28,
+          "url": "https://t.co/qN0Y8XMEnu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003491753249403015",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003486691794014344",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最讨厌一开始话说的很满的人 最后反而把过错都推在我身上 https://t.co/qN0Y8XMEnu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2003491753249403015",
+        "created_at": "2025-12-23T15:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T16:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003491753249403015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ngngvxx/status…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/ngngvxx/status/2003486691794014344",
+              "start": 28,
+              "url": "https://t.co/qN0Y8XMEnu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003491753249403015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003486691794014344",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最讨厌一开始话说的很满的人 最后反而把过错都推在我身上 https://t.co/qN0Y8XMEnu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2003486691794014344",
+        "created_at": "2025-12-23T15:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T16:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003486691794014344"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003486691794014344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 311,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别说我拿细节压你，当初是你拿细节打动我的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "name": "柑橘类水果",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001135448505376768/-JbXfYhM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 235,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 49
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2063,
+          "following_count": 6,
+          "like_count": 666,
+          "listed_count": 8,
+          "media_count": 46,
+          "tweet_count": 817
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

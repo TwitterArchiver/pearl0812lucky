@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2012522201342210058",
+    "created_at": "2026-01-18T14:53:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T15:53:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012901174207258764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1194510898188079104",
+          "start": 0,
+          "username": "S1mpleSh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012901174207258764",
+    "in_reply_to_user_id": "1194510898188079104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012900321497153772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@S1mpleSh 不喜欢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2012522201342210058",
+        "created_at": "2026-01-18T14:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012901174207258764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1194510898188079104",
+              "start": 0,
+              "username": "S1mpleSh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012901174207258764",
+        "in_reply_to_user_id": "1194510898188079104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012900321497153772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S1mpleSh 不喜欢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1194510898188079104",
+        "conversation_id": "2012522201342210058",
+        "created_at": "2026-01-18T14:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012900321497153772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012900321497153772",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012522201342210058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 不嫌弃但是不care呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹  我素女同性恋啦",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 37,
+          "like_count": 2032,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 594
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-13T07:02:57.000Z",
+        "description": "一个神秘路过猫猫头",
+        "id": "1194510898188079104",
+        "name": "几把猫猫头",
+        "pinned_tweet_id": "2009680606117179788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1349317192203067393/srDc-_Cn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 11,
+          "like_count": 1553,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 801
+        },
+        "username": "S1mpleSh",
+        "verified": false
+      }
+    ]
+  }
+}

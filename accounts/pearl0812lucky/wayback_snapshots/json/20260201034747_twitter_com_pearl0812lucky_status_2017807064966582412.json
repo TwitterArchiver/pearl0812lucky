@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2017807064966582412",
+    "created_at": "2026-02-01T03:47:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T04:47:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017807064966582412"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2017807064966582412",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "释怀好像只有两条路，一条是新欢，一条是时间。可选择新欢的人 终究逃不过新鲜感褪去后的空洞，靠时间硬熬的人有时经不起一次突然的重逢。原来真正折磨人的不是忘不掉，是你发现 不管是时间还是别人，都无法替你完成那场和自己的告别，时间和新欢都不是解药，只是不同形式的拖延。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2017807064966582412",
+        "created_at": "2026-02-01T03:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T04:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017807064966582412"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017807064966582412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "释怀好像只有两条路，一条是新欢，一条是时间。可选择新欢的人 终究逃不过新鲜感褪去后的空洞，靠时间硬熬的人有时经不起一次突然的重逢。原来真正折磨人的不是忘不掉，是你发现 不管是时间还是别人，都无法替你完成那场和自己的告别，时间和新欢都不是解药，只是不同形式的拖延。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1743,
+          "following_count": 48,
+          "like_count": 3508,
+          "listed_count": 3,
+          "media_count": 70,
+          "tweet_count": 820
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2015394210254594129",
+    "created_at": "2026-01-25T15:00:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T16:00:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015439584881234383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1992243902691397632",
+          "start": 0,
+          "username": "DGGl8Y4KQ783851"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015439584881234383",
+    "in_reply_to_user_id": "1992243902691397632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015434452542128395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DGGl8Y4KQ783851 没有惯着的义务！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2015394210254594129",
+        "created_at": "2026-01-25T15:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T16:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015439584881234383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1992243902691397632",
+              "start": 0,
+              "username": "DGGl8Y4KQ783851"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015439584881234383",
+        "in_reply_to_user_id": "1992243902691397632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015434452542128395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DGGl8Y4KQ783851 没有惯着的义务！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992243902691397632",
+        "conversation_id": "2015394210254594129",
+        "created_at": "2026-01-25T14:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T15:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015434452542128395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015434452542128395",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015394210254594129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 我们宿舍之前有个很公主病交际花，经常软软的要求别人给她干这干那，我不搭理她，说的多了还会怼回去，她就到处说我特强势很凶。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1450,
+          "following_count": 42,
+          "like_count": 2772,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 728
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-22T14:49:15.000Z",
+        "description": "别管我了",
+        "id": "1992243902691397632",
+        "location": "不要再失眠",
+        "name": "不喜欢吃鱼",
+        "pinned_tweet_id": "1993707832655654961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992244349598584833/H6CncQNt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 13,
+          "like_count": 3271,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 493
+        },
+        "username": "DGGl8Y4KQ783851",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2042785280873369772",
+    "created_at": "2026-04-11T10:33:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T11:33:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042913810038825105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1939207751755771904",
+          "start": 0,
+          "username": "yalosay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042913810038825105",
+    "in_reply_to_user_id": "1939207751755771904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042905144644510167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yalosay 没有…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2042785280873369772",
+        "created_at": "2026-04-11T10:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042913810038825105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1939207751755771904",
+              "start": 0,
+              "username": "yalosay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042913810038825105",
+        "in_reply_to_user_id": "1939207751755771904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042905144644510167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yalosay 没有…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939207751755771904",
+        "conversation_id": "2042785280873369772",
+        "created_at": "2026-04-11T09:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042905144644510167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042905144644510167",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042785280873369772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 我发现你老是针对我呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5346,
+          "following_count": 54,
+          "like_count": 5654,
+          "listed_count": 4,
+          "media_count": 132,
+          "tweet_count": 1368
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T06:22:23.000Z",
+        "description": "我做的总是错｜ 匿名提问：https://t.co/wgGoRBjKRz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yalosay",
+                "end": 36,
+                "expanded_url": "https://ngl.link/yalosay",
+                "start": 13,
+                "url": "https://t.co/wgGoRBjKRz"
+              }
+            ]
+          }
+        },
+        "id": "1939207751755771904",
+        "location": "中国大陆",
+        "name": "Yalo",
+        "pinned_tweet_id": "2024474429070467117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022924700016586752/wzgzx00N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 50,
+          "like_count": 1687,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 303
+        },
+        "username": "yalosay",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2040963625704427679",
+    "created_at": "2026-04-06T01:23:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T02:23:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040963625704427679"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2040963625704427679",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "忽然觉得这句话很正确“爱是突然降临的”\n谈恋爱这件事应是被催发的 是没有预知的\n是在你平平淡淡的生活里 突然出现的 是你本来\n没有恋爱的想法但是ta的出现 改变了你原本的轨迹\n而不是说你主动想要谈恋爱而去谈 想要摆脱孤独的状态\n只有遇到喜欢的人才明白 喜欢是可以推翻你所设定的那些条条框框"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2040963625704427679",
+        "created_at": "2026-04-06T01:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T02:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040963625704427679"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040963625704427679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "忽然觉得这句话很正确“爱是突然降临的”\n谈恋爱这件事应是被催发的 是没有预知的\n是在你平平淡淡的生活里 突然出现的 是你本来\n没有恋爱的想法但是ta的出现 改变了你原本的轨迹\n而不是说你主动想要谈恋爱而去谈 想要摆脱孤独的状态\n只有遇到喜欢的人才明白 喜欢是可以推翻你所设定的那些条条框框"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4958,
+          "following_count": 53,
+          "like_count": 5546,
+          "listed_count": 4,
+          "media_count": 129,
+          "tweet_count": 1299
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

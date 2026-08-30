@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2043684274453537048",
+    "created_at": "2026-04-13T14:29:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T15:29:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043698114859823155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1929468066301419520",
+          "start": 0,
+          "username": "switch778982145"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043698114859823155",
+    "in_reply_to_user_id": "1929468066301419520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043693798384169184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@switch778982145 可以呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2043684274453537048",
+        "created_at": "2026-04-13T14:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043698114859823155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1929468066301419520",
+              "start": 0,
+              "username": "switch778982145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043698114859823155",
+        "in_reply_to_user_id": "1929468066301419520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043693798384169184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@switch778982145 可以呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929468066301419520",
+        "conversation_id": "2043684274453537048",
+        "created_at": "2026-04-13T14:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043693798384169184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043693798384169184",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043684274453537048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 请问这个图片可以保存吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5494,
+          "following_count": 54,
+          "like_count": 5733,
+          "listed_count": 3,
+          "media_count": 135,
+          "tweet_count": 1408
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T09:20:25.000Z",
+        "description": "switch偏m ，四爱但不多（有点怕累）；喜欢温柔的有耐心的，喜欢sweet talk.",
+        "id": "1929468066301419520",
+        "name": "switch",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946137883179384832/7ftiCmon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 20,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 22
+        },
+        "username": "switch778982145",
+        "verified": false
+      }
+    ]
+  }
+}

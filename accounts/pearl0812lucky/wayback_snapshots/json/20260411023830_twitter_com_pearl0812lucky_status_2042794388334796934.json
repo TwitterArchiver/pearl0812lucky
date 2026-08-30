@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2042785280873369772",
+    "created_at": "2026-04-11T02:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T03:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042794388334796934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1425715039693000707",
+          "start": 0,
+          "username": "chang01422279"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042794388334796934",
+    "in_reply_to_user_id": "1425715039693000707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042791962106040815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chang01422279 那就断了！别做消耗自己的事情！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2042785280873369772",
+        "created_at": "2026-04-11T02:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T03:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042794388334796934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1425715039693000707",
+              "start": 0,
+              "username": "chang01422279"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042794388334796934",
+        "in_reply_to_user_id": "1425715039693000707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042791962106040815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chang01422279 那就断了！别做消耗自己的事情！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1425715039693000707",
+        "conversation_id": "2042785280873369772",
+        "created_at": "2026-04-11T02:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T03:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042791962106040815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042791962106040815",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042785280873369772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 橘猫你又扎我心（已急哭555）我现在想开口断了这段关系都不知道该怎么说 不断了我又好折磨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5303,
+          "following_count": 54,
+          "like_count": 5622,
+          "listed_count": 4,
+          "media_count": 131,
+          "tweet_count": 1356
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-12T07:05:38.000Z",
+        "description": "由于记忆力太差于是以发帖的方式记录每一个当下",
+        "id": "1425715039693000707",
+        "name": "备忘录重度依赖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027035911322730496/ac1UF4d9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 99,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 70
+        },
+        "username": "chang01422279",
+        "verified": false
+      }
+    ]
+  }
+}

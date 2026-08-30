@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2005533219089981643",
+    "created_at": "2025-12-29T06:55:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T07:55:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005533219089981643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1832664562086060032",
+          "start": 3,
+          "username": "Amy526969"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005533219089981643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 152
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004867118907752842",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Amy526969: 别人吃醋：你可不可以不要跟他玩\n我吃醋：你们玩吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2005533219089981643",
+        "created_at": "2025-12-29T06:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T07:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005533219089981643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1832664562086060032",
+              "start": 3,
+              "username": "Amy526969"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005533219089981643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 152
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004867118907752842",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Amy526969: 别人吃醋：你可不可以不要跟他玩\n我吃醋：你们玩吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832664562086060032",
+        "conversation_id": "2004867118907752842",
+        "created_at": "2025-12-27T10:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T11:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004867118907752842"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004867118907752842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 88070,
+          "like_count": 1236,
+          "quote_count": 20,
+          "reply_count": 43,
+          "retweet_count": 152
+        },
+        "reply_settings": "everyone",
+        "text": "别人吃醋：你可不可以不要跟他玩\n我吃醋：你们玩吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "世界巨大，我以渺小来爱它",
+        "name": "orange cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 7,
+          "like_count": 314,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 164
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T06:17:50.000Z",
+        "description": "生活将我击倒在地 我幸福的睡着了 ｜🎺 @mili07190 ｜提问箱https://t.co/mQpJze4fzI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "mili07190"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/amy81021",
+                "end": 58,
+                "expanded_url": "https://ngl.link/amy81021",
+                "start": 35,
+                "url": "https://t.co/mQpJze4fzI"
+              }
+            ]
+          }
+        },
+        "id": "1832664562086060032",
+        "name": "amy",
+        "pinned_tweet_id": "1983125418573013044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931712353025822720/lfj_LOPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1751,
+          "following_count": 146,
+          "like_count": 14335,
+          "listed_count": 1,
+          "media_count": 470,
+          "tweet_count": 5303
+        },
+        "username": "Amy526969",
+        "verified": false
+      }
+    ]
+  }
+}

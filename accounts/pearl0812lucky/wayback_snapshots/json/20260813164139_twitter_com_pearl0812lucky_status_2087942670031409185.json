@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2087732517004792216",
+    "created_at": "2026-08-13T16:41:39.000Z",
+    "display_text_range": [
+      15,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T17:41:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087942670031409185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2037772862476763136",
+          "start": 0,
+          "username": "wulauwula9lmx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087942670031409185",
+    "in_reply_to_user_id": "2037772862476763136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087939772505628820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wulauwula9lmx 这个老师真的太坏了！你好爸爸好妈妈好，特别关注你呀也愿意为你出头！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2087732517004792216",
+        "created_at": "2026-08-13T16:41:39.000Z",
+        "display_text_range": [
+          15,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T17:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087942670031409185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2037772862476763136",
+              "start": 0,
+              "username": "wulauwula9lmx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087942670031409185",
+        "in_reply_to_user_id": "2037772862476763136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087939772505628820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wulauwula9lmx 这个老师真的太坏了！你好爸爸好妈妈好，特别关注你呀也愿意为你出头！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037772862476763136",
+        "conversation_id": "2087732517004792216",
+        "created_at": "2026-08-13T16:30:08.000Z",
+        "display_text_range": [
+          16,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T17:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087939772505628820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087939772505628820",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087938325844041980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 其实一开始不敢说的，结果那老师打的太严重我脸上的印子被我妈发现了，我妈问老师为什么打我，我说没带红领巾（真的仅仅只是因为没带红领巾）然后我妈就打电话给我爸，我爸当时上午还在出差，下午在最后一节课赶到学校给那个畜生老师来了一巴掌，太解气了！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "is_identity_verified": false,
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "most_recent_tweet_id": "2087942670031409185",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991711672684421121/1778806929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12293,
+          "following_count": 75,
+          "like_count": 9241,
+          "listed_count": 13,
+          "media_count": 200,
+          "tweet_count": 2221
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-28T06:05:13.000Z",
+        "description": "一个地球人",
+        "id": "2037772862476763136",
+        "is_identity_verified": false,
+        "location": "美国",
+        "most_recent_tweet_id": "2087941678976078292",
+        "name": "wulauwula",
+        "pinned_tweet_id": "2082431338469281999",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084665466837241856/iSv2KGwb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 4,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 179
+        },
+        "url": "",
+        "username": "wulauwula9lmx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

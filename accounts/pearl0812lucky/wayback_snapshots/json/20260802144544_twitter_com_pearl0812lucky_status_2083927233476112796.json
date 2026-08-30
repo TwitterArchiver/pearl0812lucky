@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2083485156971835527",
+    "created_at": "2026-08-02T14:45:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T15:45:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083927233476112796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1501224776177643522",
+          "start": 0,
+          "username": "pp74154174"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083927233476112796",
+    "in_reply_to_user_id": "1501224776177643522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083485156971835527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pp74154174 萌萌哒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083485151435386880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOoGtNobcAAJkEX.jpg",
+        "width": 1202
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2083485156971835527",
+        "created_at": "2026-08-02T14:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083927233476112796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1501224776177643522",
+              "start": 0,
+              "username": "pp74154174"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083927233476112796",
+        "in_reply_to_user_id": "1501224776177643522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083485156971835527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pp74154174 萌萌哒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083485151435386880"
+          ]
+        },
+        "author_id": "1501224776177643522",
+        "conversation_id": "2083485156971835527",
+        "created_at": "2026-08-01T09:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083485156971835527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IJO66v4USi",
+              "end": 23,
+              "expanded_url": "https://x.com/pp74154174/status/2083485156971835527/photo/1",
+              "media_key": "3_2083485151435386880",
+              "start": 0,
+              "url": "https://t.co/IJO66v4USi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083485156971835527",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 17118,
+          "like_count": 634,
+          "quote_count": 0,
+          "reply_count": 56,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IJO66v4USi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11733,
+          "following_count": 78,
+          "like_count": 9133,
+          "listed_count": 12,
+          "media_count": 199,
+          "tweet_count": 2175
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-08T15:54:25.000Z",
+        "description": "我有老公呀@osj218000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "osj218000"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuumi80956",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuumi80956",
+                "start": 0,
+                "url": "https://t.co/YGgA5Xpe7w"
+              }
+            ]
+          }
+        },
+        "id": "1501224776177643522",
+        "name": "忧郁灵猪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065397182317121536/sjGVSuuS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11117,
+          "following_count": 373,
+          "like_count": 21723,
+          "listed_count": 16,
+          "media_count": 182,
+          "tweet_count": 7098
+        },
+        "url": "https://t.co/YGgA5Xpe7w",
+        "username": "pp74154174",
+        "verified": false
+      }
+    ]
+  }
+}

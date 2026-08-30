@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2045168867639779436",
+    "created_at": "2026-04-17T16:04:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T17:04:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045171464320757777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1682778677912965121",
+          "start": 0,
+          "username": "may7lucky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045171464320757777",
+    "in_reply_to_user_id": "1682778677912965121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045170112609882446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@may7lucky 受不鸟了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2045168867639779436",
+        "created_at": "2026-04-17T16:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T17:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045171464320757777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1682778677912965121",
+              "start": 0,
+              "username": "may7lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045171464320757777",
+        "in_reply_to_user_id": "1682778677912965121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045170112609882446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@may7lucky 受不鸟了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682778677912965121",
+        "conversation_id": "2045168867639779436",
+        "created_at": "2026-04-17T15:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T16:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045170112609882446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045170112609882446",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045168867639779436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 还有一群等着被养的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5647,
+          "following_count": 58,
+          "like_count": 5961,
+          "listed_count": 3,
+          "media_count": 142,
+          "tweet_count": 1465
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T15:44:45.000Z",
+        "description": "我是蛋蛋！我只是想在这里说很多废话…恶毒人格@EricCole13",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "EricCole13"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/chicken527ovo",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/chicken527ovo",
+                "start": 0,
+                "url": "https://t.co/7gMcs1nLRU"
+              }
+            ]
+          }
+        },
+        "id": "1682778677912965121",
+        "location": "私信只回口令 有问题移步提问箱^^",
+        "name": "于你而言",
+        "pinned_tweet_id": "2019986953467515083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034491268026527744/TDGXsgQQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 136,
+          "like_count": 29386,
+          "listed_count": 4,
+          "media_count": 697,
+          "tweet_count": 12330
+        },
+        "url": "https://t.co/7gMcs1nLRU",
+        "username": "may7lucky",
+        "verified": false
+      }
+    ]
+  }
+}

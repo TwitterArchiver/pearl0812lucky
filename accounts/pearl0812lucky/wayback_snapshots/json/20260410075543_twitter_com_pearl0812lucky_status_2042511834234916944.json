@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2042489441781236168",
+    "created_at": "2026-04-10T07:55:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T08:55:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042511834234916944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1425715039693000707",
+          "start": 0,
+          "username": "chang01422279"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042511834234916944",
+    "in_reply_to_user_id": "1425715039693000707",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042508882485088649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chang01422279 哈哈哈哈哈哈哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2042489441781236168",
+        "created_at": "2026-04-10T07:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042511834234916944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1425715039693000707",
+              "start": 0,
+              "username": "chang01422279"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042511834234916944",
+        "in_reply_to_user_id": "1425715039693000707",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042508882485088649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chang01422279 哈哈哈哈哈哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1425715039693000707",
+        "conversation_id": "2042489441781236168",
+        "created_at": "2026-04-10T07:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042508882485088649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042508882485088649",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042489441781236168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 这个橘猫怎么最近发的帖一直扎我心呜呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5253,
+          "following_count": 54,
+          "like_count": 5791,
+          "listed_count": 4,
+          "media_count": 131,
+          "tweet_count": 1349
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-12T07:05:38.000Z",
+        "description": "由于记忆力太差于是以发帖的方式记录每一个当下",
+        "id": "1425715039693000707",
+        "name": "备忘录重度依赖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027035911322730496/ac1UF4d9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 99,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 67
+        },
+        "username": "chang01422279",
+        "verified": false
+      }
+    ]
+  }
+}

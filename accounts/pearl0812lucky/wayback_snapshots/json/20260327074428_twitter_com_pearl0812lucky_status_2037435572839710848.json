@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2037065728097214708",
+    "created_at": "2026-03-27T07:44:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T08:44:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037435572839710848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1678094744508051456",
+          "start": 0,
+          "username": "Shanyou2501"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037435572839710848",
+    "in_reply_to_user_id": "1678094744508051456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037421740402590161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shanyou2501 那就不回去～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2037065728097214708",
+        "created_at": "2026-03-27T07:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T08:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037435572839710848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1678094744508051456",
+              "start": 0,
+              "username": "Shanyou2501"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037435572839710848",
+        "in_reply_to_user_id": "1678094744508051456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037421740402590161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shanyou2501 那就不回去～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678094744508051456",
+        "conversation_id": "2037065728097214708",
+        "created_at": "2026-03-27T06:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T07:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037421740402590161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037421740402590161",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037065728097214708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 假如我说2012年的时候我被班里的同学霸凌把胳膊弄断了，右手打了石膏，同学觉得反正我也写不了字就把笔借走了所以英语课的时候听写单词因为没有笔用被老师训斥态度不端正，又该当若何呢，，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4579,
+          "following_count": 53,
+          "like_count": 5277,
+          "listed_count": 6,
+          "media_count": 121,
+          "tweet_count": 1216
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T17:32:27.000Z",
+        "description": "可爱（并不）的男孩子 目前主要发些自己喜欢拍的内容 无额外服务 没点关注的私信不会回复",
+        "id": "1678094744508051456",
+        "location": "无边无际的网络世界",
+        "name": "岫.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018978487751852032/MWrobrAt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8029,
+          "following_count": 662,
+          "like_count": 16538,
+          "listed_count": 44,
+          "media_count": 204,
+          "tweet_count": 3091
+        },
+        "username": "Shanyou2501",
+        "verified": false
+      }
+    ]
+  }
+}

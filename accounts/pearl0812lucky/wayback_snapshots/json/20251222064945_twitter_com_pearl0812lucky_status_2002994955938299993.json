@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002994939005964290"
+      ]
+    },
+    "author_id": "1991711672684421121",
+    "conversation_id": "2002994955938299993",
+    "created_at": "2025-12-22T06:49:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T07:49:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002994955938299993"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cwnqrSFKmd",
+          "end": 149,
+          "expanded_url": "https://x.com/pearl0812lucky/status/2002994955938299993/photo/1",
+          "media_key": "3_2002994939005964290",
+          "start": 126,
+          "url": "https://t.co/cwnqrSFKmd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002994955938299993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我忍了一天了只想和主任说一句话\n何意味\n早上“有没有这个照片”\n娥“后面人都贴着墙了拍不到全景”\n主任“你不会想办法拍到前两排就好了”\n拿出前两排照片“还不如不拍”\n娥“我都说这个相机拍不了群像 这能拍人物特写了”\n“噢 还是我手机里拍的好”\n我恨你 https://t.co/cwnqrSFKmd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1205,
+        "media_key": "3_2002994939005964290",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8wRSOJbEAIC170.jpg",
+        "width": 837
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002994939005964290"
+          ]
+        },
+        "author_id": "1991711672684421121",
+        "conversation_id": "2002994955938299993",
+        "created_at": "2025-12-22T06:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T07:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002994955938299993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cwnqrSFKmd",
+              "end": 149,
+              "expanded_url": "https://x.com/pearl0812lucky/status/2002994955938299993/photo/1",
+              "media_key": "3_2002994939005964290",
+              "start": 126,
+              "url": "https://t.co/cwnqrSFKmd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002994955938299993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我忍了一天了只想和主任说一句话\n何意味\n早上“有没有这个照片”\n娥“后面人都贴着墙了拍不到全景”\n主任“你不会想办法拍到前两排就好了”\n拿出前两排照片“还不如不拍”\n娥“我都说这个相机拍不了群像 这能拍人物特写了”\n“噢 还是我手机里拍的好”\n我恨你 https://t.co/cwnqrSFKmd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "name": "柑橘类水果",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001135448505376768/-JbXfYhM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 38
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

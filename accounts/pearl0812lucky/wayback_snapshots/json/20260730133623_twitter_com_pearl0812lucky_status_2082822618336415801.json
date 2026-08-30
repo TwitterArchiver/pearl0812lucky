@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2082822618336415801",
+    "created_at": "2026-07-30T13:36:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T14:36:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082822618336415801"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082822618336415801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "友情就是很伟大啊，我不图你什么，也不拿什么和你交换，是纯靠精神维系的关系。只是单纯地因为喜欢你，想和你并肩走一段路。我们之间有过几刻心灵相通的理解，有过那种鼻子一酸，想对着对方说“我们要当一辈子的好朋友”的moments，就够了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2082822618336415801",
+        "created_at": "2026-07-30T13:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T14:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082822618336415801"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082822618336415801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "友情就是很伟大啊，我不图你什么，也不拿什么和你交换，是纯靠精神维系的关系。只是单纯地因为喜欢你，想和你并肩走一段路。我们之间有过几刻心灵相通的理解，有过那种鼻子一酸，想对着对方说“我们要当一辈子的好朋友”的moments，就够了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11561,
+          "following_count": 77,
+          "like_count": 9109,
+          "listed_count": 12,
+          "media_count": 199,
+          "tweet_count": 2159
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

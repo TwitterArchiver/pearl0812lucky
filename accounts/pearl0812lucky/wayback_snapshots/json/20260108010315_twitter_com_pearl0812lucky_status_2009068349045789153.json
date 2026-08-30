@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2009068349045789153",
+    "created_at": "2026-01-08T01:03:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T02:03:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009068349045789153"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2009068349045789153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "捡垃圾五点小技巧⬇️\n①捡废品时候纸箱不能沾水\n②卖水瓶的时候可以把盖子拧下来单独卖瓶子价格不变\n③铝罐比塑料瓶价格更高\n④ 每天要带着麻袋早点起，不然抢不过别人\n⑤小区的垃圾桶都是有人提前占了的，你提前打听好再去捡不然容易挨揍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2009068349045789153",
+        "created_at": "2026-01-08T01:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T02:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009068349045789153"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009068349045789153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "捡垃圾五点小技巧⬇️\n①捡废品时候纸箱不能沾水\n②卖水瓶的时候可以把盖子拧下来单独卖瓶子价格不变\n③铝罐比塑料瓶价格更高\n④ 每天要带着麻袋早点起，不然抢不过别人\n⑤小区的垃圾桶都是有人提前占了的，你提前打听好再去捡不然容易挨揍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎来到我的生活连续剧 不聊骚 女同性恋",
+        "name": "orange cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 27,
+          "like_count": 908,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 356
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

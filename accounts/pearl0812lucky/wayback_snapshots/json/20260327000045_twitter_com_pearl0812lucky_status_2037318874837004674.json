@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2037065728097214708",
+    "created_at": "2026-03-27T00:00:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T01:00:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037318874837004674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1937769505259962368",
+          "start": 0,
+          "username": "tam890604"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037318874837004674",
+    "in_reply_to_user_id": "1937769505259962368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037274800595554644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tam890604 2012我也在上小学二年级，不过那时候我是读的寄宿学校，都还不知道这个传言嘞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2037065728097214708",
+        "created_at": "2026-03-27T00:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T01:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037318874837004674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1937769505259962368",
+              "start": 0,
+              "username": "tam890604"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037318874837004674",
+        "in_reply_to_user_id": "1937769505259962368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037274800595554644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tam890604 2012我也在上小学二年级，不过那时候我是读的寄宿学校，都还不知道这个传言嘞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937769505259962368",
+        "conversation_id": "2037065728097214708",
+        "created_at": "2026-03-26T21:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T22:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037274800595554644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037274800595554644",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037065728097214708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 2012年我在上小学二年级，同桌突然对我说还有几天就世界末日了，我们一起写遗书吧！😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4568,
+          "following_count": 53,
+          "like_count": 5250,
+          "listed_count": 6,
+          "media_count": 120,
+          "tweet_count": 1208
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-25T07:07:25.000Z",
+        "description": "獨立精神 自由思想 继续革命 永不投降",
+        "id": "1937769505259962368",
+        "location": "Singapore",
+        "name": "对主义不变",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937769682985172992/3OG0DLl7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 50,
+          "like_count": 305,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 280
+        },
+        "username": "tam890604",
+        "verified": false
+      }
+    ]
+  }
+}

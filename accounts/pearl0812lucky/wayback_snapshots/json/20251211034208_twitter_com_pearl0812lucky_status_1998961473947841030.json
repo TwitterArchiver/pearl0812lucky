@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998961460504936448"
+      ]
+    },
+    "author_id": "1991711672684421121",
+    "conversation_id": "1998961473947841030",
+    "created_at": "2025-12-11T03:42:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T04:42:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998961473947841030"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/T6G5YRRuEx",
+          "end": 33,
+          "expanded_url": "https://x.com/pearl0812lucky/status/1998961473947841030/photo/1",
+          "media_key": "3_1998961460504936448",
+          "start": 10,
+          "url": "https://t.co/T6G5YRRuEx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998961473947841030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "请不要仓促的认识我 https://t.co/T6G5YRRuEx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1998961460504936448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G728230XwAALAjE.jpg",
+        "width": 146
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998961460504936448"
+          ]
+        },
+        "author_id": "1991711672684421121",
+        "conversation_id": "1998961473947841030",
+        "created_at": "2025-12-11T03:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T04:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998961473947841030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T6G5YRRuEx",
+              "end": 33,
+              "expanded_url": "https://x.com/pearl0812lucky/status/1998961473947841030/photo/1",
+              "media_key": "3_1998961460504936448",
+              "start": 10,
+              "url": "https://t.co/T6G5YRRuEx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998961473947841030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请不要仓促的认识我 https://t.co/T6G5YRRuEx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "👭",
+        "id": "1991711672684421121",
+        "name": "橘子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997895340184530944/9ore7GRm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 170,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 14
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

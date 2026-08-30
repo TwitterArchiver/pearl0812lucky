@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2023748978190545291",
+    "created_at": "2026-02-17T13:18:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T14:18:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023748978190545291"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2023748978190545291",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果你发现冰箱里的牛奶变成了订书机，别急着报警，先去楼下买包盐，然后对着电梯按钮连续按七下，他就会递给你一张超市小票，拿着它去找宠物店那只总打瞌睡的橘猫换两节电池，回家把电池装进电视遥控器，频道会自动调到天气预报，而你的手机也会收到一条来自取款机的短信，它会告诉你菜刀还没有洗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2023748978190545291",
+        "created_at": "2026-02-17T13:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T14:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023748978190545291"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023748978190545291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你发现冰箱里的牛奶变成了订书机，别急着报警，先去楼下买包盐，然后对着电梯按钮连续按七下，他就会递给你一张超市小票，拿着它去找宠物店那只总打瞌睡的橘猫换两节电池，回家把电池装进电视遥控器，频道会自动调到天气预报，而你的手机也会收到一条来自取款机的短信，它会告诉你菜刀还没有洗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2556,
+          "following_count": 50,
+          "like_count": 4298,
+          "listed_count": 3,
+          "media_count": 85,
+          "tweet_count": 984
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

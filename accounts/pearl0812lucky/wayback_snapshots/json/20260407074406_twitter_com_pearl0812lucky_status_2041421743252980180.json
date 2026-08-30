@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2041318135996031266",
+    "created_at": "2026-04-07T07:44:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T08:44:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041421743252980180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1541658951204208640",
+          "start": 0,
+          "username": "znomoreanziousz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041421743252980180",
+    "in_reply_to_user_id": "1541658951204208640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041420781377532134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@znomoreanziousz 是的！我难受的时候碰到挫折的时候就会这样说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2041318135996031266",
+        "created_at": "2026-04-07T07:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T08:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041421743252980180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1541658951204208640",
+              "start": 0,
+              "username": "znomoreanziousz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041421743252980180",
+        "in_reply_to_user_id": "1541658951204208640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041420781377532134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@znomoreanziousz 是的！我难受的时候碰到挫折的时候就会这样说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541658951204208640",
+        "conversation_id": "2041318135996031266",
+        "created_at": "2026-04-07T07:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T08:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041420781377532134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041420781377532134",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041318135996031266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 我觉得还有一个“我想回家”，不一定指的是普通意义上的住所，多数情况下指的是好想逃避，好想逃离现状但没有心力去努力，只想找一个不会后悔当初不用焦虑未来的垃圾桶而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5038,
+          "following_count": 53,
+          "like_count": 5617,
+          "listed_count": 4,
+          "media_count": 130,
+          "tweet_count": 1315
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-28T05:45:22.000Z",
+        "description": "逃避生活根据地/全是负能量喵/都说了全是负能量了",
+        "id": "1541658951204208640",
+        "name": "zzzzz(zzzzz",
+        "pinned_tweet_id": "1986589049394700659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652695034276331520/c4yYiESp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 97,
+          "like_count": 7216,
+          "listed_count": 0,
+          "media_count": 532,
+          "tweet_count": 3455
+        },
+        "username": "znomoreanziousz",
+        "verified": false
+      }
+    ]
+  }
+}

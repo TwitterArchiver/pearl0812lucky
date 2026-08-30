@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2038269339468775727",
+    "created_at": "2026-03-29T14:57:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T15:57:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038269339468775727"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038269339468775727",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你的父母宠爱你 亲戚的评价就不重要\n你的朋友爱惜你 路人的看法就不重要\n你的伴侣喜爱你 异性的好感就不重要\n你的自信和幸福感 往往来源于你接触的最为亲密的几个人 你从来不需要得到所有人的喜欢 所以除了父母 其他的在你生命里经过的重要的人都要好好挑选"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2038269339468775727",
+        "created_at": "2026-03-29T14:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T15:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038269339468775727"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038269339468775727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你的父母宠爱你 亲戚的评价就不重要\n你的朋友爱惜你 路人的看法就不重要\n你的伴侣喜爱你 异性的好感就不重要\n你的自信和幸福感 往往来源于你接触的最为亲密的几个人 你从来不需要得到所有人的喜欢 所以除了父母 其他的在你生命里经过的重要的人都要好好挑选"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4608,
+          "following_count": 53,
+          "like_count": 5311,
+          "listed_count": 6,
+          "media_count": 123,
+          "tweet_count": 1226
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2082851540931350644",
+    "created_at": "2026-07-30T15:31:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T16:31:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082851540931350644"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082851540931350644",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我特别喜欢柔软温和的没有任何攻击性的人 两个人都应该软绵绵的 偶尔小吵小闹打情骂俏的 像两个小孩一样有时一起幼稚一起探讨生活的事情 我喜欢一个人就会下意识把她当做小孩 相处模式都自动变成温柔的下意识会像哄小孩那样 也喜欢对方和我撒娇 两颗心紧紧靠在一起 就这样一直陪在彼此身边"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2082851540931350644",
+        "created_at": "2026-07-30T15:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082851540931350644"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082851540931350644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我特别喜欢柔软温和的没有任何攻击性的人 两个人都应该软绵绵的 偶尔小吵小闹打情骂俏的 像两个小孩一样有时一起幼稚一起探讨生活的事情 我喜欢一个人就会下意识把她当做小孩 相处模式都自动变成温柔的下意识会像哄小孩那样 也喜欢对方和我撒娇 两颗心紧紧靠在一起 就这样一直陪在彼此身边"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11565,
+          "following_count": 77,
+          "like_count": 9111,
+          "listed_count": 12,
+          "media_count": 199,
+          "tweet_count": 2161
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

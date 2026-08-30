@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2008365815788150817",
+    "created_at": "2026-01-06T04:49:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T05:49:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008400565374509112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1983561648008048640",
+          "start": 0,
+          "username": "muy00ymu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008400565374509112",
+    "in_reply_to_user_id": "1983561648008048640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008400420860031001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@muy00ymu 我抄的文案啦哈哈哈哈哈哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2008365815788150817",
+        "created_at": "2026-01-06T04:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T05:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008400565374509112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1983561648008048640",
+              "start": 0,
+              "username": "muy00ymu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008400565374509112",
+        "in_reply_to_user_id": "1983561648008048640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008400420860031001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@muy00ymu 我抄的文案啦哈哈哈哈哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983561648008048640",
+        "conversation_id": "2008365815788150817",
+        "created_at": "2026-01-06T04:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T05:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008400420860031001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008400420860031001",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008365815788150817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 能写出这么多萌萌的文字 肯定是甜甜的蛋挞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "世界巨大，我以渺小来爱它",
+        "name": "orange cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 15,
+          "like_count": 569,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 267
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-29T15:48:51.000Z",
+        "description": "infp社恐｜日常废话💬｜许你平安 你我长青",
+        "id": "1983561648008048640",
+        "name": "妩T^T",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003139329254916096/rMZFqLfH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 19,
+          "like_count": 392,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 211
+        },
+        "username": "muy00ymu",
+        "verified": false
+      }
+    ]
+  }
+}

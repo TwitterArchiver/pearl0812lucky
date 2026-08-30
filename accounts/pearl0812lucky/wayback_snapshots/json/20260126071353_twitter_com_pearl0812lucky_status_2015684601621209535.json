@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015684592930353152"
+      ]
+    },
+    "author_id": "1991711672684421121",
+    "conversation_id": "2015684601621209535",
+    "created_at": "2026-01-26T07:13:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T08:13:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015684601621209535"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8IydFq9WeH",
+          "end": 74,
+          "expanded_url": "https://x.com/pearl0812lucky/status/2015684601621209535/photo/1",
+          "media_key": "3_2015684592930353152",
+          "start": 51,
+          "url": "https://t.co/8IydFq9WeH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015684601621209535",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实有骑士病的原因可能是因为有人这样对我好过，我会通过她人对我释放的善意，学习她们的样子再去对别人好 https://t.co/8IydFq9WeH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1556,
+        "media_key": "3_2015684592930353152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_kmdSzXcAAr6eA.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015684592930353152"
+          ]
+        },
+        "author_id": "1991711672684421121",
+        "conversation_id": "2015684601621209535",
+        "created_at": "2026-01-26T07:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T08:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015684601621209535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8IydFq9WeH",
+              "end": 74,
+              "expanded_url": "https://x.com/pearl0812lucky/status/2015684601621209535/photo/1",
+              "media_key": "3_2015684592930353152",
+              "start": 51,
+              "url": "https://t.co/8IydFq9WeH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015684601621209535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实有骑士病的原因可能是因为有人这样对我好过，我会通过她人对我释放的善意，学习她们的样子再去对别人好 https://t.co/8IydFq9WeH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1473,
+          "following_count": 42,
+          "like_count": 2823,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 735
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

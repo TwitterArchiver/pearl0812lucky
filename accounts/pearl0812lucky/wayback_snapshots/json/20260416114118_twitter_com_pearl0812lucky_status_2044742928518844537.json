@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2044599443320897547",
+    "created_at": "2026-04-16T11:41:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T12:41:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044742928518844537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1995336408547082240",
+          "start": 0,
+          "username": "qi_dang23244"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044742928518844537",
+    "in_reply_to_user_id": "1995336408547082240",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044666070594678962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qi_dang23244 +1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2044599443320897547",
+        "created_at": "2026-04-16T11:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T12:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044742928518844537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1995336408547082240",
+              "start": 0,
+              "username": "qi_dang23244"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044742928518844537",
+        "in_reply_to_user_id": "1995336408547082240",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044666070594678962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qi_dang23244 +1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995336408547082240",
+        "conversation_id": "2044599443320897547",
+        "created_at": "2026-04-16T06:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T07:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044666070594678962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044666070594678962",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044599443320897547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 最近真的超喜欢这个文案，但感觉说了下一秒就要遭雷劈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5613,
+          "following_count": 57,
+          "like_count": 5875,
+          "listed_count": 3,
+          "media_count": 139,
+          "tweet_count": 1449
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-01T03:38:30.000Z",
+        "description": "好想成为外星人",
+        "id": "1995336408547082240",
+        "name": "鲫鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995351258941493249/0Qj-1MyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 62,
+          "like_count": 5004,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 211
+        },
+        "username": "qi_dang23244",
+        "verified": false
+      }
+    ]
+  }
+}

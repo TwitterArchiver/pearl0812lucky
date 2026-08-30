@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2018936953761312831",
+    "created_at": "2026-02-04T06:37:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T07:37:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018936953761312831"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2018936953761312831",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果你想和一个人断联，可以聊男权女权、 彩礼生育、理想躺平、追星等这些话题。\n如果聊完发现跟你观点一致，证明此人城府极深，此人断不可留！\n如果聊完发现你们观点不一样，证明你们三观不合，此人断不可留！\n如果聊完发现你们观点部分一样，但是他能劝你改变观点，证明心机深沉，此人断不可留！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2018936953761312831",
+        "created_at": "2026-02-04T06:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T07:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018936953761312831"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018936953761312831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你想和一个人断联，可以聊男权女权、 彩礼生育、理想躺平、追星等这些话题。\n如果聊完发现跟你观点一致，证明此人城府极深，此人断不可留！\n如果聊完发现你们观点不一样，证明你们三观不合，此人断不可留！\n如果聊完发现你们观点部分一样，但是他能劝你改变观点，证明心机深沉，此人断不可留！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1961,
+          "following_count": 48,
+          "like_count": 3839,
+          "listed_count": 3,
+          "media_count": 71,
+          "tweet_count": 865
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}
