@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2097200877652328715",
+    "created_at": "2026-09-08T05:50:27.000Z",
+    "display_text_range": [
+      0,
+      118
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T06:50:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097200877652328715"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2097200877652328715",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "王崟忮华（wáng yín zhì huá）\n\n王崟：主要造谣者名字\n\n忮（zhì）：本义忌恨、恶意构陷，出自《诗经》“不忮不求”￼￼￼\n\n华：取自郑灵华\n\n含义：因嫉妒无端造谣、实施网暴摧毁他人的行为，用来警示这种藏在匿名背后的恶意。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2097200877652328715",
+        "created_at": "2026-09-08T05:50:27.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097200877652328715"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097200877652328715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "王崟忮华（wáng yín zhì huá）\n\n王崟：主要造谣者名字\n\n忮（zhì）：本义忌恨、恶意构陷，出自《诗经》“不忮不求”￼￼￼\n\n华：取自郑灵华\n\n含义：因嫉妒无端造谣、实施网暴摧毁他人的行为，用来警示这种藏在匿名背后的恶意。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "is_identity_verified": false,
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "most_recent_tweet_id": "2097200877652328715",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991711672684421121/1778806929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13273,
+          "following_count": 84,
+          "like_count": 9380,
+          "listed_count": 13,
+          "media_count": 203,
+          "tweet_count": 2307
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

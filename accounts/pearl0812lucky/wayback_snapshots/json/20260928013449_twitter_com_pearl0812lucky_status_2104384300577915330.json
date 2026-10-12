@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104384290024767489"
+      ]
+    },
+    "author_id": "1991711672684421121",
+    "conversation_id": "2104384300577915330",
+    "created_at": "2026-09-28T01:34:49.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T02:34:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104384300577915330"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mYvrzAR89B",
+          "end": 30,
+          "expanded_url": "https://x.com/pearl0812lucky/status/2104384300577915330/photo/1",
+          "media_key": "3_2104384290024767489",
+          "start": 7,
+          "url": "https://t.co/mYvrzAR89B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104384300577915330",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104384290024767489"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "本人求职⬇️ https://t.co/mYvrzAR89B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 854,
+        "media_key": "3_2104384290024767489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTRGXL3WwAEs0SW.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104384290024767489"
+          ]
+        },
+        "author_id": "1991711672684421121",
+        "conversation_id": "2104384300577915330",
+        "created_at": "2026-09-28T01:34:49.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T02:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104384300577915330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mYvrzAR89B",
+              "end": 30,
+              "expanded_url": "https://x.com/pearl0812lucky/status/2104384300577915330/photo/1",
+              "media_key": "3_2104384290024767489",
+              "start": 7,
+              "url": "https://t.co/mYvrzAR89B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104384300577915330",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104384290024767489"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本人求职⬇️ https://t.co/mYvrzAR89B"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "is_identity_verified": false,
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "most_recent_tweet_id": "2104384300577915330",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991711672684421121/1778806929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14492,
+          "following_count": 83,
+          "like_count": 9431,
+          "listed_count": 18,
+          "media_count": 206,
+          "tweet_count": 2363
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2104910286767415550",
+    "created_at": "2026-09-29T12:24:54.000Z",
+    "display_text_range": [
+      0,
+      137
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T13:24:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104910286767415550"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2104910286767415550",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "爱是一种很可怜的情感，因为我爱你，所以你做什么我都不会觉得是错的，我只会想你为什么这样做，一定是我不好，是我没能出现在你需要帮助的时候，是我没能给到你最好的。你什么都没有错，都是我错了，都是我的问题而已。你不要哭，也不要难过，不要觉得自己做错了，你要做自己，我也想你做自己。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2104910286767415550",
+        "created_at": "2026-09-29T12:24:54.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T13:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104910286767415550"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104910286767415550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爱是一种很可怜的情感，因为我爱你，所以你做什么我都不会觉得是错的，我只会想你为什么这样做，一定是我不好，是我没能出现在你需要帮助的时候，是我没能给到你最好的。你什么都没有错，都是我错了，都是我的问题而已。你不要哭，也不要难过，不要觉得自己做错了，你要做自己，我也想你做自己。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "is_identity_verified": false,
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "most_recent_tweet_id": "2104910286767415550",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991711672684421121/1778806929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14572,
+          "following_count": 81,
+          "like_count": 9453,
+          "listed_count": 18,
+          "media_count": 207,
+          "tweet_count": 2370
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

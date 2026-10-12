@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2102712705698463910",
+    "created_at": "2026-09-23T10:52:30.000Z",
+    "display_text_range": [
+      0,
+      138
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T11:52:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102712705698463910"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2102712705698463910",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "地球上的水已经循环了46亿年，那么今天落在我肩头的雨，会是曹子建写下《洛神赋》后，在洛水边流下的泪吗？还是黄初八年，淋湿曹丕诏书的那场雨？这场雨跨越千年而来，在无数个历史的回旋里，会沾染南唐覆灭后，李煜望着\"一江春水向东流\"却怎么也流不尽的愁吗？雨响千年，遥遥相望的何止是古人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2102712705698463910",
+        "created_at": "2026-09-23T10:52:30.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T11:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102712705698463910"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102712705698463910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "地球上的水已经循环了46亿年，那么今天落在我肩头的雨，会是曹子建写下《洛神赋》后，在洛水边流下的泪吗？还是黄初八年，淋湿曹丕诏书的那场雨？这场雨跨越千年而来，在无数个历史的回旋里，会沾染南唐覆灭后，李煜望着\"一江春水向东流\"却怎么也流不尽的愁吗？雨响千年，遥遥相望的何止是古人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "is_identity_verified": false,
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "most_recent_tweet_id": "2102712705698463910",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991711672684421121/1778806929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14142,
+          "following_count": 83,
+          "like_count": 9433,
+          "listed_count": 16,
+          "media_count": 205,
+          "tweet_count": 2352
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

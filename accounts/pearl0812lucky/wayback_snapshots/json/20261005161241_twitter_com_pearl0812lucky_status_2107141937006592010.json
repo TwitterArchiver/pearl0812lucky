@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2107140771476595013",
+    "created_at": "2026-10-05T16:12:41.000Z",
+    "display_text_range": [
+      10,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T17:12:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107141937006592010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2039317124053905408",
+          "start": 0,
+          "username": "SenT0rii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107141937006592010",
+    "in_reply_to_user_id": "2039317124053905408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107140771476595013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SenT0rii sjb吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2107140771476595013",
+        "created_at": "2026-10-05T16:12:41.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T17:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107141937006592010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2039317124053905408",
+              "start": 0,
+              "username": "SenT0rii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107141937006592010",
+        "in_reply_to_user_id": "2039317124053905408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107140771476595013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SenT0rii sjb吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039317124053905408",
+        "conversation_id": "2107140771476595013",
+        "created_at": "2026-10-05T16:08:03.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T17:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107140771476595013"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107140771476595013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的气炸了  今天去松岛咖啡店一个人去拍照遇到另一个一个人来的女生 她主动找的我 说可以互相拍照吗我说可以 然后抓着我给她拍了五百多张之后回去微信给我炸了几十条六十秒语音说我给她拍的丑 非要跟我吵一架 大姐你没事吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "is_identity_verified": false,
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "most_recent_tweet_id": "2107141937006592010",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991711672684421121/1778806929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15070,
+          "following_count": 79,
+          "like_count": 9505,
+          "listed_count": 18,
+          "media_count": 208,
+          "tweet_count": 2390
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-01T12:24:12.000Z",
+        "description": "好想喝酷儿苹果汁",
+        "id": "2039317124053905408",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107140771476595013",
+        "name": "苹果",
+        "pinned_tweet_id": "2101978442308923869",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2039317124053905408/1778886797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039318812080955392/rRXsfmY6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1263,
+          "following_count": 60,
+          "like_count": 4296,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 1325
+        },
+        "url": "",
+        "username": "SenT0rii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

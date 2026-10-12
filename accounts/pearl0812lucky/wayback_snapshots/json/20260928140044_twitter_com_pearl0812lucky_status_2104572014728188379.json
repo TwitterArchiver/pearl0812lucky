@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2104572014728188379",
+    "created_at": "2026-09-28T14:00:44.000Z",
+    "display_text_range": [
+      0,
+      144
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T15:00:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104572014728188379"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2104572014728188379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实怕的不是回避 而是不知道我应该怎么做\n你现在需要我吗 你不需要我吗你不需要我的话会不会是你的反话\n我应该紧抱着你不松开 还是应该听你的话离开离开了你会难过吗抱着你你也会难过吧\n就像一个不知道怎么做的小孩站在原地不知道是前进还是后退\n我的前进会让我们的距离更远吗 我的后退呢 不会更远吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2104572014728188379",
+        "created_at": "2026-09-28T14:00:44.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T15:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104572014728188379"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104572014728188379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实怕的不是回避 而是不知道我应该怎么做\n你现在需要我吗 你不需要我吗你不需要我的话会不会是你的反话\n我应该紧抱着你不松开 还是应该听你的话离开离开了你会难过吗抱着你你也会难过吧\n就像一个不知道怎么做的小孩站在原地不知道是前进还是后退\n我的前进会让我们的距离更远吗 我的后退呢 不会更远吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "is_identity_verified": false,
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "most_recent_tweet_id": "2104572014728188379",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991711672684421121/1778806929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14509,
+          "following_count": 81,
+          "like_count": 9441,
+          "listed_count": 18,
+          "media_count": 207,
+          "tweet_count": 2367
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

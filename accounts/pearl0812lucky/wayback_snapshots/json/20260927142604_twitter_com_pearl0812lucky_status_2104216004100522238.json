@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2104216004100522238",
+    "created_at": "2026-09-27T14:26:04.000Z",
+    "display_text_range": [
+      0,
+      136
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T15:26:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104216004100522238"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2104216004100522238",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "成年人的相爱 难度其实很高\n因为每个人身后都拖着很长的人生，有旧的感情，固化的生活习惯，有工作牵绊，家人羁绊，金钱的考量，身体的隐忧，还有一些不愿意再提的经历以及一套已经形成很多年的价值观。这时的相爱，不再是两张白纸叠加，而是两个写完前半生的人商量着，后半生能不能一起落笔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2104216004100522238",
+        "created_at": "2026-09-27T14:26:04.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T15:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104216004100522238"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104216004100522238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "成年人的相爱 难度其实很高\n因为每个人身后都拖着很长的人生，有旧的感情，固化的生活习惯，有工作牵绊，家人羁绊，金钱的考量，身体的隐忧，还有一些不愿意再提的经历以及一套已经形成很多年的价值观。这时的相爱，不再是两张白纸叠加，而是两个写完前半生的人商量着，后半生能不能一起落笔"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "is_identity_verified": false,
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "most_recent_tweet_id": "2104216004100522238",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991711672684421121/1778806929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14469,
+          "following_count": 83,
+          "like_count": 9428,
+          "listed_count": 18,
+          "media_count": 205,
+          "tweet_count": 2359
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

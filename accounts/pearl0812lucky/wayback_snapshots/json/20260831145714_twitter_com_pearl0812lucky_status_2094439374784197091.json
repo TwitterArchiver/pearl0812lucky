@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2094439374784197091",
+    "created_at": "2026-08-31T14:57:14.000Z",
+    "display_text_range": [
+      0,
+      141
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T15:57:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094439374784197091"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2094439374784197091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在纯过日子型人格。\n什么 MBTI 高敏感 低敏感 讨好型 回避型 内耗型的都先放一边，爱咋咋地。也不用研究主体性了，主体爱咋咋地。情绪也不用稳定了，主打有情绪就释放。时间管理、情绪管理啥的也不用有了。现在唯一能管理的东西就是外卖。大结果我也不要了，因为我已经得到了我的大红果。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2094439374784197091",
+        "created_at": "2026-08-31T14:57:14.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T15:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094439374784197091"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094439374784197091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在纯过日子型人格。\n什么 MBTI 高敏感 低敏感 讨好型 回避型 内耗型的都先放一边，爱咋咋地。也不用研究主体性了，主体爱咋咋地。情绪也不用稳定了，主打有情绪就释放。时间管理、情绪管理啥的也不用有了。现在唯一能管理的东西就是外卖。大结果我也不要了，因为我已经得到了我的大红果。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "is_identity_verified": false,
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "most_recent_tweet_id": "2094439374784197091",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991711672684421121/1778806929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12940,
+          "following_count": 80,
+          "like_count": 9284,
+          "listed_count": 12,
+          "media_count": 202,
+          "tweet_count": 2273
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

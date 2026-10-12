@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991711672684421121",
+    "conversation_id": "2093734639227777191",
+    "created_at": "2026-08-30T06:02:23.000Z",
+    "display_text_range": [
+      10,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T07:02:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093942388817621233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1616488252617396226",
+          "start": 0,
+          "username": "showlo5_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093942388817621233",
+    "in_reply_to_user_id": "1616488252617396226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093734639227777191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@showlo5_ 对面谁啊.."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1939,
+        "media_key": "3_2093734622828089345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ5wi9-a0AEblve.jpg",
+        "width": 853
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2093734639227777191",
+        "created_at": "2026-08-30T06:02:23.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T07:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093942388817621233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1616488252617396226",
+              "start": 0,
+              "username": "showlo5_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093942388817621233",
+        "in_reply_to_user_id": "1616488252617396226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093734639227777191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@showlo5_ 对面谁啊.."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093734622828089345"
+          ]
+        },
+        "author_id": "1616488252617396226",
+        "conversation_id": "2093734639227777191",
+        "created_at": "2026-08-29T16:16:52.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T17:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093734639227777191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U2zgnYDZb6",
+              "end": 28,
+              "expanded_url": "https://x.com/showlo5_/status/2093734639227777191/photo/1",
+              "media_key": "3_2093734622828089345",
+              "start": 5,
+              "url": "https://t.co/U2zgnYDZb6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093734639227777191",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2093734622828089345"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 347,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "…^^; https://t.co/U2zgnYDZb6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "is_identity_verified": false,
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "most_recent_tweet_id": "2093942388817621233",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991711672684421121/1778806929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12902,
+          "following_count": 77,
+          "like_count": 9259,
+          "listed_count": 12,
+          "media_count": 202,
+          "tweet_count": 2266
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-20T17:30:18.000Z",
+        "description": "男的别私信我",
+        "id": "1616488252617396226",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093734777258213414",
+        "name": "showxxo",
+        "pinned_tweet_id": "2003881825320816858",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1616488252617396226/1770312360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077047301093408768/d62yRcLz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 149,
+          "like_count": 7467,
+          "listed_count": 0,
+          "media_count": 344,
+          "tweet_count": 2956
+        },
+        "url": "",
+        "username": "showlo5_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
